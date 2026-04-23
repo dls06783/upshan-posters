@@ -1,366 +1,1618 @@
-date,quote,image_url
-2026-04-26,如果有什麼值得做的事，就全心全意去做。,https://dls06783.github.io/upshan-posters/001_B1_east_career_terracotta.png
-2026-04-27,三樣東西不能隱藏太久：太陽、月亮和真相。,https://dls06783.github.io/upshan-posters/002_C4_dhyana_hand_gold.png
-2026-04-28,凡事自己解決，不要依賴別人。,https://dls06783.github.io/upshan-posters/003_E1_monument_below_crimson.png
-2026-04-29,你自己，就像整個宇宙中任何一人一樣，值得被愛。,https://dls06783.github.io/upshan-posters/004_C3_lotus_hand_blush.png
-2026-04-30,有意見的人，只會四處煩擾彼此。,https://dls06783.github.io/upshan-posters/005_C3_lotus_hand_moss.png
-2026-05-01,苦的根源是執著。,https://dls06783.github.io/upshan-posters/006_A6_white_jade_teal.png
-2026-05-02,除了你自己，不要在任何人身上尋求皈依。,https://dls06783.github.io/upshan-posters/007_D1_erawan_night_navy.png
-2026-05-03,若懂施予之力，一頓飯也不忍獨享。,https://dls06783.github.io/upshan-posters/008_D3_garland_offering_violet.png
-2026-05-04,沒有什麼比你自己的心念失守更能傷害你了。,https://dls06783.github.io/upshan-posters/009_C4_dhyana_hand_sienna.png
-2026-05-05,當過純粹無私的生活：縱在富足之中，亦無一物視作自己的。,https://dls06783.github.io/upshan-posters/010_A5_bronze_patina_jade.png
-2026-05-06,如果你在修行路上無人同行，那就一個人走吧。,https://dls06783.github.io/upshan-posters/011_B1_east_career_gold.png
-2026-05-07,願一切眾生，心得安樂。,https://dls06783.github.io/upshan-posters/012_C3_lotus_hand_crimson.png
-2026-05-08,我們的一切，皆是所思所想之所成。,https://dls06783.github.io/upshan-posters/013_A1_frontal_blush.png
-2026-05-09,野心就像愛情，不耐拖延，不容對手。,https://dls06783.github.io/upshan-posters/014_A6_white_jade_moss.png
-2026-05-10,你的自我，應如寬衣般披著——隨時可脫。,https://dls06783.github.io/upshan-posters/015_E1_monument_below_teal.png
-2026-05-11,一滴一滴，也能注滿一個罐子。,https://dls06783.github.io/upshan-posters/016_E2_wall_grid_navy.png
-2026-05-12,每個人的健康或疾病，都是他自己所書。,https://dls06783.github.io/upshan-posters/017_B4_north_health_violet.png
-2026-05-13,給，哪怕只有一點點。,https://dls06783.github.io/upshan-posters/018_A5_bronze_patina_sienna.png
-2026-05-14,享於冥想和獨處；安住下來，快樂起來。你是一個求道者。,https://dls06783.github.io/upshan-posters/019_A3_arms_detail_jade.png
-2026-05-15,耐力是最難的功課之一，但最終的勝利屬於堅持下來的人。,https://dls06783.github.io/upshan-posters/020_E1_monument_below_terracotta.png
-2026-05-16,你現在的樣子，就是你曾經所思；你將成為的樣子，就是你今日所為。,https://dls06783.github.io/upshan-posters/021_E1_monument_below_crimson.png
-2026-05-17,一瞬間改變一天，一天改變一生，一世改變世界。,https://dls06783.github.io/upshan-posters/022_E2_wall_grid_blush.png
-2026-05-18,真愛源於理解。,https://dls06783.github.io/upshan-posters/023_D3_garland_offering_moss.png
-2026-05-19,今日之身，昨日所思；今日所思，明日所成。,https://dls06783.github.io/upshan-posters/024_D4_lotus_pond_teal.png
-2026-05-20,沒有慾望的人沒有恐懼。,https://dls06783.github.io/upshan-posters/025_A1_frontal_navy.png
-2026-05-21,一根蠟燭可以點燃千根蠟燭，燭光不減；幸福也不會因分享而減少。,https://dls06783.github.io/upshan-posters/026_A5_bronze_patina_violet.png
-2026-05-22,活得明白的人，連死亡也不畏懼。,https://dls06783.github.io/upshan-posters/027_D1_erawan_night_sienna.png
-2026-05-23,除了我們自己，沒有人能拯救我們。這條路，終須自己走。,https://dls06783.github.io/upshan-posters/028_A3_arms_detail_jade.png
-2026-05-24,蠟燭無火不能燃燒，人也不能沒有精神生活。,https://dls06783.github.io/upshan-posters/029_A5_bronze_patina_terracotta.png
-2026-05-25,執著於己見的人，走到哪裡都與人為敵。,https://dls06783.github.io/upshan-posters/030_E1_monument_below_gold.png
-2026-05-26,智者之所以為智者，不在多言；而在心安、有愛、無懼。,https://dls06783.github.io/upshan-posters/031_D3_garland_offering_blush.png
-2026-05-27,不要沉溺於過去，不要夢想未來，專注於當下。,https://dls06783.github.io/upshan-posters/032_A1_frontal_moss.png
-2026-05-28,對眾生無慈悲，便是自絕於人間。,https://dls06783.github.io/upshan-posters/033_B2_south_love_teal.png
-2026-05-29,愛，是以靈魂深處相贈，讓彼此都得以完整。,https://dls06783.github.io/upshan-posters/034_A6_white_jade_navy.png
-2026-05-30,大海只有一味，鹹味；法與律也只有一味，解脫的味道。,https://dls06783.github.io/upshan-posters/035_A3_arms_detail_violet.png
-2026-05-31,在這個世界上，仇恨無法止息仇恨，唯有慈悲才能。這是永恆的法則。,https://dls06783.github.io/upshan-posters/036_C3_lotus_hand_sienna.png
-2026-06-01,我們即是我們所想。一切由思想生，世界由思想造。,https://dls06783.github.io/upshan-posters/037_A1_frontal_jade.png
-2026-06-02,別人有難時我們不伸手，他日我們有難，又有誰伸手？,https://dls06783.github.io/upshan-posters/038_A6_white_jade_terracotta.png
-2026-06-03,如荷葉上的水珠，如蓮花上的露滴——聖者於所見、所聞、所感，皆不執著。,https://dls06783.github.io/upshan-posters/039_A3_arms_detail_gold.png
-2026-06-04,今天該做的事，就盡心去做。誰知道呢，明天死亡便來。,https://dls06783.github.io/upshan-posters/040_B1_east_career_crimson.png
-2026-06-05,善言的根本，在於理解。,https://dls06783.github.io/upshan-posters/041_A5_bronze_patina_moss.png
-2026-06-06,依真理而行的人，今世、來世都是幸福的。,https://dls06783.github.io/upshan-posters/042_C4_dhyana_hand_teal.png
-2026-06-07,堅如磐石，不為風雨搖動，智者亦不為褒貶所動。,https://dls06783.github.io/upshan-posters/043_A1_frontal_navy.png
-2026-06-08,思想塑造生活，我們會成為自己所想的樣子。心念純淨，快樂便如影隨形。,https://dls06783.github.io/upshan-posters/044_A2_threequarter_violet.png
-2026-06-09,一切和合之物皆無常，當勤精進。,https://dls06783.github.io/upshan-posters/045_E1_monument_below_sienna.png
-2026-06-10,善良應是生活的常態，而不是例外。,https://dls06783.github.io/upshan-posters/046_E2_wall_grid_jade.png
-2026-06-11,不是靠儀式，不是靠苦學，不是靠獨身，甚至不是靠禪定——未破我執，便未得涅槃之樂。,https://dls06783.github.io/upshan-posters/047_D1_erawan_night_terracotta.png
-2026-06-12,灌水者導水，制箭者直箭，木匠折木，智者自強。,https://dls06783.github.io/upshan-posters/048_A6_white_jade_gold.png
-2026-06-13,向整個世界散發無限的愛。,https://dls06783.github.io/upshan-posters/049_B2_south_love_crimson.png
-2026-06-14,付諸行動的想法，比只停留在腦中的想法更重要。,https://dls06783.github.io/upshan-posters/050_E1_monument_below_blush.png
-2026-06-15,不真誠又邪惡的朋友比野獸更可怕：野獸傷你的身，惡友傷你的心。,https://dls06783.github.io/upshan-posters/051_D3_garland_offering_teal.png
-2026-06-16,不要只追求快樂而忽視禪修；若忘記人生目標、沉溺世俗之樂，終會羨慕那些把禪修放在首位的人。,https://dls06783.github.io/upshan-posters/052_A1_frontal_navy.png
-2026-06-17,沒有什麼能獨立存在；一切皆互相牽連。,https://dls06783.github.io/upshan-posters/053_A5_bronze_patina_violet.png
-2026-06-18,你的工作，是先找到你的使命，然後全心全意投入其中。,https://dls06783.github.io/upshan-posters/054_A6_white_jade_sienna.png
-2026-06-19,若遇能指你錯處的智者，當隨之而行，如遇藏寶之嚮導。,https://dls06783.github.io/upshan-posters/055_A1_frontal_jade.png
-2026-06-20,水罐由一滴一滴注滿；智者也一點一點積累善行，終至圓滿。,https://dls06783.github.io/upshan-posters/056_D4_lotus_pond_terracotta.png
-2026-06-21,分離中蘊藏著世間最大的苦難；慈悲中蘊藏著世間真正的力量。,https://dls06783.github.io/upshan-posters/057_B2_south_love_gold.png
-2026-06-22,知生命恆在流動，無損無缺，無須修補。,https://dls06783.github.io/upshan-posters/058_A4_stone_ancient_crimson.png
-2026-06-23,與其活一百年而看不見事物興衰，不如活一天能看見事物興衰。,https://dls06783.github.io/upshan-posters/059_A3_arms_detail_blush.png
-2026-06-24,如母親以生命護自己的獨生子，也當以無量之愛護一切眾生。,https://dls06783.github.io/upshan-posters/060_C3_lotus_hand_moss.png
-2026-06-25,道不在天，道在心。,https://dls06783.github.io/upshan-posters/061_C3_lotus_hand_navy.png
-2026-06-26,如果你不改變方向，你終將走到你本不想去的地方。,https://dls06783.github.io/upshan-posters/062_A1_frontal_violet.png
-2026-06-27,學識淵博、技能嫻熟、訓練有素、言談得體——這就是福氣。,https://dls06783.github.io/upshan-posters/063_E1_monument_below_sienna.png
-2026-06-28,健康是最大的禮物，知足是最大的財富，忠誠是最好的關係。,https://dls06783.github.io/upshan-posters/064_D3_garland_offering_jade.png
-2026-06-29,向所有人傳授這三重真理：慷慨的心、善良的言辭、服務與慈悲的生活——這些能讓人類煥然一新。,https://dls06783.github.io/upshan-posters/065_C3_lotus_hand_terracotta.png
-2026-06-30,深觀當下，禪修者便安住於安定與自由之中。,https://dls06783.github.io/upshan-posters/066_D2_incense_smoke_gold.png
-2026-07-01,心中沒有怨恨的人，必會得到平靜。,https://dls06783.github.io/upshan-posters/067_D4_lotus_pond_crimson.png
-2026-07-02,靜心帶來智慧，缺乏靜心則生無知；明辨何者助你前進、何者阻你，再選通往智慧之路。,https://dls06783.github.io/upshan-posters/068_B1_east_career_blush.png
-2026-07-03,獨坐、獨睡、獨行，奮力獨克己者，必樂於獨處。,https://dls06783.github.io/upshan-posters/069_C4_dhyana_hand_moss.png
-2026-07-04,旅行好過到達。,https://dls06783.github.io/upshan-posters/070_E2_wall_grid_teal.png
-2026-07-05,我不與世界爭執，而是世界與我爭執。,https://dls06783.github.io/upshan-posters/071_A5_bronze_patina_violet.png
-2026-07-06,堅如磐石不為風動搖，智者不為褒貶所動。,https://dls06783.github.io/upshan-posters/072_A6_white_jade_sienna.png
-2026-07-07,我教非定法，乃一方向；既無定規，亦無體系。,https://dls06783.github.io/upshan-posters/073_C3_lotus_hand_jade.png
-2026-07-08,舌頭像一把鋒利的刀，殺人不見血。,https://dls06783.github.io/upshan-posters/074_C4_dhyana_hand_terracotta.png
-2026-07-09,我就是奇蹟。,https://dls06783.github.io/upshan-posters/075_E1_monument_below_gold.png
-2026-07-10,我們說的每句話都應謹慎選擇，因為人們會聽到並受其影響，無論好壞。,https://dls06783.github.io/upshan-posters/076_E2_wall_grid_crimson.png
-2026-07-11,只要心中存有怨恨的念頭，憤怒就不會消失；一旦放下怨恨，憤怒便會消散。,https://dls06783.github.io/upshan-posters/077_C4_dhyana_hand_blush.png
-2026-07-12,你得到的東西不要高估，也不要嫉妒別人。心懷嫉妒者不會得到平靜。,https://dls06783.github.io/upshan-posters/078_D2_incense_smoke_moss.png
-2026-07-13,沒有通往幸福的道路。幸福就是道路。,https://dls06783.github.io/upshan-posters/079_C1_beads_hand_teal.png
-2026-07-14,生活如此艱難，我們豈能不慈悲？,https://dls06783.github.io/upshan-posters/080_C3_lotus_hand_navy.png
-2026-07-15,充分地對待每一個行為，就好像它是你最後的一次。,https://dls06783.github.io/upshan-posters/081_E1_monument_below_sienna.png
-2026-07-16,懶惰是一條死路，勤奮是一條活路。愚蠢的人懶惰，聰明的人勤奮。,https://dls06783.github.io/upshan-posters/082_A1_frontal_jade.png
-2026-07-17,打坐，莫再耽擱，免得日後後悔。,https://dls06783.github.io/upshan-posters/083_D4_lotus_pond_terracotta.png
-2026-07-18,做自己的燈，做自己的歸處，不要尋求其他。一切都必將過去，努力奮鬥，不要放棄。,https://dls06783.github.io/upshan-posters/084_C1_beads_hand_gold.png
-2026-07-19,心不為變幻莫測的命運所擾，擺脫悲傷、煩惱與恐懼——這是最大的加持。,https://dls06783.github.io/upshan-posters/085_A1_frontal_crimson.png
-2026-07-20,一切都要中道，包括中道。,https://dls06783.github.io/upshan-posters/086_C4_dhyana_hand_blush.png
-2026-07-21,一切以心為基礎，由心引導，由心塑造。若你言行帶著污濁的心，痛苦便會跟隨你，就像牛車車輪跟著牛的腳步一樣。,https://dls06783.github.io/upshan-posters/087_E1_monument_below_moss.png
-2026-07-22,人人懼怕暴力，人人懼怕死亡。以己所不欲勿施於人，不應殺人，也不應教人殺人。,https://dls06783.github.io/upshan-posters/088_D4_lotus_pond_teal.png
-2026-07-23,沒有什麼比懷疑的習慣更可怕。懷疑將人們分開，是瓦解友誼、破壞關係的毒藥；是刺傷人的刺，是殺人的劍。,https://dls06783.github.io/upshan-posters/089_B2_south_love_navy.png
-2026-07-24,在我們動怒的一刻，我們已不再為真理而奮鬥，而是開始為自己而奮鬥。,https://dls06783.github.io/upshan-posters/090_C4_dhyana_hand_violet.png
-2026-07-25,火莫熾於貪愛，獸莫猛於瞋恨，網莫密於愚痴，流莫急於貪婪。,https://dls06783.github.io/upshan-posters/091_D3_garland_offering_jade.png
-2026-07-26,別人的過錯容易看見，自己的過錯卻難見。人之過錯就像風中的糠秕，但隱藏自己的過錯，卻像狡猾的賭徒藏起骰子一樣。,https://dls06783.github.io/upshan-posters/092_B1_east_career_terracotta.png
-2026-07-27,沒有什麼是永恆的，除了變化。,https://dls06783.github.io/upshan-posters/093_E1_monument_below_gold.png
-2026-07-28,觀河流可知：小渠喧嘩，大河靜默；未滿者喧，盈滿者靜。,https://dls06783.github.io/upshan-posters/094_D2_incense_smoke_crimson.png
-2026-07-29,如果一個人以純淨的心說話或行動，幸福便如影隨形，永不離開。,https://dls06783.github.io/upshan-posters/095_E1_monument_below_blush.png
-2026-07-30,戰勝自己的人，遠比戰勝千人的英雄更偉大。,https://dls06783.github.io/upshan-posters/096_A6_white_jade_moss.png
-2026-07-31,如果我們能看清一朵花的奇蹟，我們的整個人生都會改變。,https://dls06783.github.io/upshan-posters/097_A1_frontal_teal.png
-2026-08-01,最好的禮物，是將心中所悟，慷慨分享。,https://dls06783.github.io/upshan-posters/098_A5_bronze_patina_navy.png
-2026-08-02,願胸懷眾生，容天地萬有。,https://dls06783.github.io/upshan-posters/099_D3_garland_offering_violet.png
-2026-08-03,墮入惡道者，非仇敵所害，乃自心所引。,https://dls06783.github.io/upshan-posters/100_B1_east_career_sienna.png
-2026-08-04,守言行、節飲食、養心求覺、依法自律——此乃覺者之簡教。,https://dls06783.github.io/upshan-posters/101_C3_lotus_hand_terracotta.png
-2026-08-05,人生四季，寒暑交替，靜心體味生活的悲與喜，笑看起起落落。,https://dls06783.github.io/upshan-posters/102_D2_incense_smoke_gold.png
-2026-08-06,希望人際關係好，就要把心量放大，多接納人，多包容人。,https://dls06783.github.io/upshan-posters/103_D3_garland_offering_crimson.png
-2026-08-07,佛說：人生有八苦：生，老，病，死，愛別離，怨長久，求不得，放不下。,https://dls06783.github.io/upshan-posters/104_D4_lotus_pond_blush.png
-2026-08-08,只要自己的心態改變，環境也會跟着改變，世界上沒有絕對的好與壞。,https://dls06783.github.io/upshan-posters/105_E1_monument_below_moss.png
-2026-08-09,"佛陀說：""人的生命，只在呼吸之間。""生命是如此的短暫，所以應該好好珍惜，思考人生的真正意義是什麼。",https://dls06783.github.io/upshan-posters/106_A4_stone_ancient_teal.png
-2026-08-10,一憂一喜皆心火，一榮一枯皆眼塵，靜心看透炎涼事，千古不做夢裡人。,https://dls06783.github.io/upshan-posters/107_A1_frontal_navy.png
-2026-08-11,身是菩提樹，心爲明鏡臺。時時勤拂拭，勿使惹塵埃！,https://dls06783.github.io/upshan-posters/108_D4_lotus_pond_violet.png
-2026-08-12,佛菩薩只保佑那些肯幫助自己的人。,https://dls06783.github.io/upshan-posters/109_A1_frontal_sienna.png
-2026-08-13,廣結衆緣，就是不要去傷害任何一個人。,https://dls06783.github.io/upshan-posters/110_A6_white_jade_jade.png
-2026-08-14,未成佛果，先結善緣。,https://dls06783.github.io/upshan-posters/111_E1_monument_below_gold.png
-2026-08-15,相信自己，一路風景一路歌，人生之美，正在於此。,https://dls06783.github.io/upshan-posters/112_A1_frontal_crimson.png
-2026-08-16,心善，事事皆善；心美，事事皆美。,https://dls06783.github.io/upshan-posters/113_A5_bronze_patina_blush.png
-2026-08-17,人之所以痛苦，在於追求錯誤的東西。如果你不給自己煩惱，別人不會給你煩惱，皆因自己的內心放不下那些無窮的欲望。,https://dls06783.github.io/upshan-posters/114_A5_bronze_patina_moss.png
-2026-08-18,擁有一顆無私的愛心，便擁有了一切。,https://dls06783.github.io/upshan-posters/115_D3_garland_offering_teal.png
-2026-08-19,佛說：淨心守志，可會至道，譬如磨鏡，垢去明存，斷欲無求，當得宿命。,https://dls06783.github.io/upshan-posters/116_B1_east_career_navy.png
-2026-08-20,來是偶然的，走是必然的。所以你必須，隨緣不變，不變隨緣。,https://dls06783.github.io/upshan-posters/117_A1_frontal_violet.png
-2026-08-21,法本法無法，無法法亦法。今付無法時，法法何曾法。令一切衆生生歡喜者，則令一切如來歡喜。,https://dls06783.github.io/upshan-posters/118_C4_dhyana_hand_sienna.png
-2026-08-22,心是最大的騙子，別人能騙你時，而它卻會騙你一輩子。,https://dls06783.github.io/upshan-posters/119_A5_bronze_patina_jade.png
-2026-08-23,佛說：一花一世界，一草一天堂，一葉一如來，一砂一極樂，一方一淨土，一笑一塵緣，一念一清淨。,https://dls06783.github.io/upshan-posters/120_A2_threequarter_terracotta.png
-2026-08-24,修行是修正自己錯誤的觀念。,https://dls06783.github.io/upshan-posters/121_C4_dhyana_hand_crimson.png
-2026-08-25,修行要有耐性，要能甘於淡泊，樂於寂寞。,https://dls06783.github.io/upshan-posters/122_D2_incense_smoke_blush.png
-2026-08-26,醫生難醫命終之人，佛陀難渡無緣的衆生。,https://dls06783.github.io/upshan-posters/123_D1_erawan_night_moss.png
-2026-08-27,與其說是別人讓你痛苦，不如說自己的修養不夠。,https://dls06783.github.io/upshan-posters/124_D4_lotus_pond_teal.png
-2026-08-28,無明實性即佛性，幻化空身即法身。,https://dls06783.github.io/upshan-posters/125_C3_lotus_hand_navy.png
-2026-08-29,不寬恕衆生，不原諒衆生，是苦了你自己。,https://dls06783.github.io/upshan-posters/126_A6_white_jade_violet.png
-2026-08-30,心若簡單，生活就簡單；心若複雜，生活就充滿痛苦。,https://dls06783.github.io/upshan-posters/127_A1_frontal_sienna.png
-2026-08-31,清珠投於濁水，濁水不得不清。佛號放入亂心，亂心不得不佛。,https://dls06783.github.io/upshan-posters/128_A2_threequarter_jade.png
-2026-09-01,不要因爲小小的爭執，遠離了你至親的好友，也不要因爲小小的怨恨，忘記了別人的大恩。,https://dls06783.github.io/upshan-posters/129_E1_monument_below_terracotta.png
-2026-09-02,勇於接受別人的批評，正好可以調整自己的缺點。,https://dls06783.github.io/upshan-posters/130_E2_wall_grid_gold.png
-2026-09-03,感謝上蒼我所擁有的，感謝上蒼我所沒有的。,https://dls06783.github.io/upshan-posters/131_C2_wheel_hand_blush.png
-2026-09-04,凡是能站在別人的角度爲他人着想，這個就是慈悲。,https://dls06783.github.io/upshan-posters/132_C3_lotus_hand_moss.png
-2026-09-05,學佛不是對死亡的一種寄託，而是當下就活得自在和超越。,https://dls06783.github.io/upshan-posters/133_B4_north_health_teal.png
-2026-09-06,佛陀從不勉強別人去做他不喜歡的事情，佛陀只是告訴衆生，何者是善？何者是惡？善惡還是要自己去選擇，生命還是要自己去掌握。,https://dls06783.github.io/upshan-posters/134_C1_beads_hand_navy.png
-2026-09-07,所謂的放下，就是去除你的分別心、是非心、得失心、執著心。,https://dls06783.github.io/upshan-posters/135_E1_monument_below_violet.png
-2026-09-08,一個常常看別人缺點的人，自己本身就不夠好，因爲他沒有時間檢討他自己。,https://dls06783.github.io/upshan-posters/136_D4_lotus_pond_sienna.png
-2026-09-09,了解永恆真理的人，就不會爲任何的生離死別而哀傷悲泣，因爲生離死別是必然的。,https://dls06783.github.io/upshan-posters/137_C3_lotus_hand_jade.png
-2026-09-10,若能一切隨他去，便是世間自在人。,https://dls06783.github.io/upshan-posters/138_A6_white_jade_terracotta.png
-2026-09-11,是非天天有，不聽自然無，是非天天有，不聽還是有，是非天天有，看你怎麼辦？,https://dls06783.github.io/upshan-posters/139_A1_frontal_gold.png
-2026-09-12,真正的布施，就是把你的煩惱、憂慮、分別和執著心通通放下。,https://dls06783.github.io/upshan-posters/140_D3_garland_offering_crimson.png
-2026-09-13,如果你真的愛他，那麼你必須容忍他部分的缺點。,https://dls06783.github.io/upshan-posters/141_B2_south_love_moss.png
-2026-09-14,希望你常對自己說，聞到了佛法，我是最幸福的人，除了這幸福外，再沒有別的了。,https://dls06783.github.io/upshan-posters/142_C4_dhyana_hand_teal.png
-2026-09-15,因果不曾虧欠過我們什麼，所以請不要抱怨。,https://dls06783.github.io/upshan-posters/143_A5_bronze_patina_navy.png
-2026-09-16,要克服對死亡的恐懼，你必須要接受世上所有的人，都會死去的觀念。,https://dls06783.github.io/upshan-posters/144_D4_lotus_pond_violet.png
-2026-09-17,所有的病患，醫生最難治，所有的衆生，自以爲是的人最難渡。,https://dls06783.github.io/upshan-posters/145_B4_north_health_sienna.png
-2026-09-18,一匹驢，喫再好的草，也不會成爲一匹俊馬。用執著和分別心去修行，再大的精進，也不會成佛。,https://dls06783.github.io/upshan-posters/146_B1_east_career_jade.png
-2026-09-19,修心當以淨心爲要，修道當以無我爲基。過去事，過去心，不可記得；現在事，現在心，隨緣即可；未來事，未來心，何必勞心。,https://dls06783.github.io/upshan-posters/147_A3_arms_detail_terracotta.png
-2026-09-20,幸福，不是收穫的多，而是抱怨的少。於人不苛求，遇事不抱怨。只有善於駕馭自己情緒和心態的人，才能獲得平靜，感受到幸福的味道。,https://dls06783.github.io/upshan-posters/148_B1_east_career_gold.png
-2026-09-21,人與人之間的很多矛盾都是從傲慢中來的；都覺得自己比別人更高明，比別人更有見識，比別人更正確，於是相互輕視，矛盾也就逐漸生起了。,https://dls06783.github.io/upshan-posters/149_C3_lotus_hand_crimson.png
-2026-09-22,生活磨礪了人生，這一路走來，學會了接受。,https://dls06783.github.io/upshan-posters/150_E1_monument_below_blush.png
-2026-09-23,佛說：忘記並不等於從未存在，一切自在來源於選擇，而不是刻意。不如放手，放下的越多，越覺得擁有的更多。,https://dls06783.github.io/upshan-posters/151_C2_wheel_hand_teal.png
-2026-09-24,活着的氣度則是要剛柔並濟，胸中有天地。要堅韌不拔，頑強不屈。要傲骨俠腸，正直勇敢。,https://dls06783.github.io/upshan-posters/152_A2_threequarter_navy.png
-2026-09-25,別人永遠對，我永遠錯，這樣子比較沒煩惱。,https://dls06783.github.io/upshan-posters/153_E1_monument_below_violet.png
-2026-09-26,你不必和因果爭吵，因果從來就不會誤人。你也不必和命運爭吵，命運它是最公平的審判官。,https://dls06783.github.io/upshan-posters/154_E2_wall_grid_sienna.png
-2026-09-27,你有你的生命觀，我有我的生命觀，我不幹涉你。只要我能，我就感化你。如果不能，那我就認命。,https://dls06783.github.io/upshan-posters/155_D1_erawan_night_jade.png
-2026-09-28,學會把自己的心態放低放平，多看自己的缺點，多看別人的優點，讓傲慢的心變得謙虛恭敬，這樣您所處的環境自然就融洽了。,https://dls06783.github.io/upshan-posters/156_A6_white_jade_terracotta.png
-2026-09-29,如果抱怨成習慣，心靈就像上了枷鎖，沒有一刻解脫。唯有放下抱怨，才能體會到生命的自在與幸福。,https://dls06783.github.io/upshan-posters/157_B4_north_health_gold.png
-2026-09-30,生而爲人，活着，活出風度，風採，風格。這些皆爲外表，而氣度則是內涵，是質地，是根本。,https://dls06783.github.io/upshan-posters/158_A2_threequarter_crimson.png
-2026-10-01,人，只要擁有微笑，就能夠豁達樂觀地活着；人，只要時刻保持微笑，就能夠在漫漫人生道路上擁有一張永久的通行證。,https://dls06783.github.io/upshan-posters/159_C1_beads_hand_blush.png
-2026-10-02,夢想是一個幸福的念想，想着想着就快樂了，它執着地立在那裡，是生活的一個界標，代表着活力與向上。,https://dls06783.github.io/upshan-posters/160_A2_threequarter_moss.png
-2026-10-03,不要常常覺得自己很不幸，世界上比我們痛苦的人還要多。,https://dls06783.github.io/upshan-posters/161_C3_lotus_hand_navy.png
-2026-10-04,愚癡的人，一直想要別人了解他。有智慧的人，卻努力的了解自己。,https://dls06783.github.io/upshan-posters/162_A1_frontal_violet.png
-2026-10-05,活着的氣度是昂首挺胸，獨立寒冬，面對漫天大雪，而巍然不動的英雄豪情，是酷暑三伏，雷雨交加，坐於書房，面不改色，揮筆題書的那份悠然寧靜。,https://dls06783.github.io/upshan-posters/163_D4_lotus_pond_sienna.png
-2026-10-06,如果你自己明明對，別人硬說你不對，你也要向人懺悔，修行就是修這些。你什麼事都能忍下來，才會進步。就是明明是你對，你也要向他人求懺悔，那就是修行了。,https://dls06783.github.io/upshan-posters/164_B1_east_career_jade.png
-2026-10-07,隨緣不是得過且過，因循苟且，而是盡人事聽天命。,https://dls06783.github.io/upshan-posters/165_E1_monument_below_terracotta.png
-2026-10-08,默默的關懷與祝福別人，那是一種無形的布施。,https://dls06783.github.io/upshan-posters/166_A5_bronze_patina_gold.png
-2026-10-09,不要因爲衆生的愚疑，而帶來了自己的煩惱。不要因爲衆生的無知，而痛苦了你自己。,https://dls06783.github.io/upshan-posters/167_A3_arms_detail_crimson.png
-2026-10-10,別人講我們不好，不用生氣、難過。說我們好也不用高興，這不好中有好，好中有壞，就看你會不會用？,https://dls06783.github.io/upshan-posters/168_A6_white_jade_blush.png
-2026-10-11,是非和得失，要到最後的結果，才能評定。,https://dls06783.github.io/upshan-posters/169_A1_frontal_moss.png
-2026-10-12,你不必和因果爭吵，因果從來就不會誤人。你也不必和爭吵，它是最公平的審判官。,https://dls06783.github.io/upshan-posters/170_A2_threequarter_teal.png
-2026-10-13,當你手中抓住一件東西不放時，你只能擁有這件東西，如果你肯放手，你就有機會選擇別的。人的心若死執自己的觀念，不肯放下，那麼他的智慧也只能達到某種程度而已。,https://dls06783.github.io/upshan-posters/171_D4_lotus_pond_violet.png
-2026-10-14,你硬把單純的事情看的很嚴重，那樣子你會很痛苦。,https://dls06783.github.io/upshan-posters/172_E2_wall_grid_sienna.png
-2026-10-15,你希望掌握永恆，那你必須控制現在。,https://dls06783.github.io/upshan-posters/173_A5_bronze_patina_jade.png
-2026-10-16,愚癡的人，一直想要別人了解他。有智慧的人，卻的了解自己。,https://dls06783.github.io/upshan-posters/174_C4_dhyana_hand_terracotta.png
-2026-10-17,學佛是對自己的良心交待，不是做給別人看的。,https://dls06783.github.io/upshan-posters/175_E1_monument_below_gold.png
-2026-10-18,在順境中修行，永遠不能成佛。,https://dls06783.github.io/upshan-posters/176_A2_threequarter_crimson.png
-2026-10-19,白白的過一天，無所事事，就像犯了竊盜罪一樣。,https://dls06783.github.io/upshan-posters/177_E1_monument_below_blush.png
-2026-10-20,月影松濤含道趣，花香鳥語透禪機。,https://dls06783.github.io/upshan-posters/178_C4_dhyana_hand_moss.png
-2026-10-21,人天福報非久計，苦海茫茫莫留連。,https://dls06783.github.io/upshan-posters/179_A5_bronze_patina_teal.png
-2026-10-22,仇恨永遠不能化解仇恨，只有慈悲才能化解仇恨，這是永恆的至理。,https://dls06783.github.io/upshan-posters/180_C3_lotus_hand_navy.png
-2026-10-23,你永遠要感謝給你逆境的衆生。,https://dls06783.github.io/upshan-posters/181_B3_west_wealth_sienna.png
-2026-10-24,怒火將起，先回給自己一口氣。,https://dls06783.github.io/upshan-posters/182_A5_bronze_patina_jade.png
-2026-10-25,心急時，整個世界都在追你；心靜時，它不過是窗外一株樹。,https://dls06783.github.io/upshan-posters/183_D4_lotus_pond_terracotta.png
-2026-10-26,念頭來來去去，你不過是坐在門口看雲的人。,https://dls06783.github.io/upshan-posters/184_A2_threequarter_gold.png
-2026-10-27,只看自己的一呼一吸，世界便不再追著你問為什麼。,https://dls06783.github.io/upshan-posters/185_A5_bronze_patina_crimson.png
-2026-10-28,怒火，是自己點燃的火，卻誤以為會燒到對方。,https://dls06783.github.io/upshan-posters/186_A6_white_jade_blush.png
-2026-10-29,心不找地方停靠，反而到處都是家。,https://dls06783.github.io/upshan-posters/187_A1_frontal_moss.png
-2026-10-30,嫉妒別人，不過是還未認得自己的臉。,https://dls06783.github.io/upshan-posters/188_A2_threequarter_teal.png
-2026-10-31,"恐懼最怕你回頭看它;你一認真凝視,它便縮小。",https://dls06783.github.io/upshan-posters/189_C3_lotus_hand_navy.png
-2026-11-01,真正的靜不在山林，在你願意停下的那一刻。,https://dls06783.github.io/upshan-posters/190_C4_dhyana_hand_violet.png
-2026-11-02,執，是手捨不得鬆;苦，是手已經發麻，仍不肯鬆。,https://dls06783.github.io/upshan-posters/191_A5_bronze_patina_jade.png
-2026-11-03,不與念頭爭辯，只陪它坐一會兒，它便走了。,https://dls06783.github.io/upshan-posters/192_A2_threequarter_terracotta.png
-2026-11-04,焦慮，是把還沒到的痛，提前還給自己。,https://dls06783.github.io/upshan-posters/193_B3_west_wealth_gold.png
-2026-11-05,當下不是時間的刻度，而是一種終於願意看見的眼光。,https://dls06783.github.io/upshan-posters/194_A4_stone_ancient_crimson.png
-2026-11-06,一吸，身體回來;一呼，心也回來。你從未真正離開。,https://dls06783.github.io/upshan-posters/195_D1_erawan_night_blush.png
-2026-11-07,怨恨，是自己倒給自己的一杯毒酒，卻期待別人也喝。,https://dls06783.github.io/upshan-posters/196_D3_garland_offering_moss.png
-2026-11-08,驕傲把自己墊高一寸，世界便遠離你一尺。,https://dls06783.github.io/upshan-posters/197_A5_bronze_patina_teal.png
-2026-11-09,看見念頭，而不被念頭看見——這便是覺。,https://dls06783.github.io/upshan-posters/198_C4_dhyana_hand_navy.png
-2026-11-10,貪，不是你擁有那些東西，是那些東西擁有你。,https://dls06783.github.io/upshan-posters/199_C2_wheel_hand_violet.png
-2026-11-11,心不必逢風便關窗;風過了，連陽光都進不來。,https://dls06783.github.io/upshan-posters/200_A2_threequarter_sienna.png
-2026-11-12,靜坐不是為了解決什麼，是為了不再繼續製造什麼。,https://dls06783.github.io/upshan-posters/201_C4_dhyana_hand_terracotta.png
-2026-11-13,憤怒一開口，智慧就沒有位置坐下。,https://dls06783.github.io/upshan-posters/202_C4_dhyana_hand_gold.png
-2026-11-14,悲傷來時不趕走，去時不挽留——你只是天空，雲自有來去。,https://dls06783.github.io/upshan-posters/203_A3_arms_detail_crimson.png
-2026-11-15,我執一日未放下，世界便一日與你為敵。,https://dls06783.github.io/upshan-posters/204_A6_white_jade_blush.png
-2026-11-16,念頭如客——歡迎它來坐，但別留它過夜。,https://dls06783.github.io/upshan-posters/205_C4_dhyana_hand_moss.png
-2026-11-17,散亂的心，像一條掛著十個鉤的魚線——哪條都釣不上魚。,https://dls06783.github.io/upshan-posters/206_A2_threequarter_teal.png
-2026-11-18,靜默不是不開口，是終於不再與自己爭辯。,https://dls06783.github.io/upshan-posters/207_D1_erawan_night_navy.png
-2026-11-19,內觀的人不追光，也不避暗——只是如實看著。,https://dls06783.github.io/upshan-posters/208_A2_threequarter_violet.png
-2026-11-20,怒火一起，真理最先被吹熄。,https://dls06783.github.io/upshan-posters/209_C3_lotus_hand_sienna.png
-2026-11-21,心能安住的地方，就是你的道場——不必遠行。,https://dls06783.github.io/upshan-posters/210_C4_dhyana_hand_jade.png
-2026-11-22,放下不是丟棄，只是不再用力抓住。,https://dls06783.github.io/upshan-posters/211_A1_frontal_gold.png
-2026-11-23,情緒不是你，只是路過你，像一陣風穿過一扇敞開的窗。,https://dls06783.github.io/upshan-posters/212_A1_frontal_crimson.png
-2026-11-24,恐懼的對面不是勇氣，是看清楚。,https://dls06783.github.io/upshan-posters/213_E1_monument_below_blush.png
-2026-11-25,一念清明時，眼耳鼻舌身意，一齊安靜下來。,https://dls06783.github.io/upshan-posters/214_D2_incense_smoke_moss.png
-2026-11-26,嫉妒的人，看別人笑，像看見一把刀。,https://dls06783.github.io/upshan-posters/215_A3_arms_detail_teal.png
-2026-11-27,心急如火，只會把未乾的墨，全揉成一團黑。,https://dls06783.github.io/upshan-posters/216_A6_white_jade_navy.png
-2026-11-28,不怕念頭升起，只怕你遲遲才察覺。,https://dls06783.github.io/upshan-posters/217_C3_lotus_hand_violet.png
-2026-11-29,自我越大，你家的門就越窄，能走進來的人就越少。,https://dls06783.github.io/upshan-posters/218_A3_arms_detail_sienna.png
-2026-11-30,內觀不是向內看，是不再向外逃。,https://dls06783.github.io/upshan-posters/219_D4_lotus_pond_jade.png
-2026-12-01,欲望從來填不滿欲望，只有明白，才能真正停下。,https://dls06783.github.io/upshan-posters/220_B1_east_career_terracotta.png
-2026-12-02,散亂的人，即使坐下來，心仍在路上奔走。,https://dls06783.github.io/upshan-posters/221_B1_east_career_crimson.png
-2026-12-03,真正修行的人，怒還未上臉，已在心裡止住了。,https://dls06783.github.io/upshan-posters/222_C4_dhyana_hand_blush.png
-2026-12-04,握緊一件東西，便失去雙手;握緊一切，便失去自己。,https://dls06783.github.io/upshan-posters/223_A1_frontal_moss.png
-2026-12-05,驕傲是自己把自己舉高，卻看不見腳下;謙卑是自己放低，才看得清人間。,https://dls06783.github.io/upshan-posters/224_B1_east_career_teal.png
-2026-12-06,靜，是最不費力的功德。但多數人做不到。,https://dls06783.github.io/upshan-posters/225_E1_monument_below_navy.png
-2026-12-07,多數念頭只是路過。有些，會留下來，慢慢變成你。,https://dls06783.github.io/upshan-posters/226_B1_east_career_violet.png
-2026-12-08,恨意像一塊燒紅的炭——你想擲向人，但最先燙傷的，是自己的手。,https://dls06783.github.io/upshan-posters/227_A5_bronze_patina_sienna.png
-2026-12-09,以慈心待敵，像握住一把鑰匙——打開的，是困住自己的那把鎖。,https://dls06783.github.io/upshan-posters/228_A6_white_jade_jade.png
-2026-12-10,慈悲不是軟弱。是看過世間的苦之後，仍然選擇溫柔。,https://dls06783.github.io/upshan-posters/229_B2_south_love_terracotta.png
-2026-12-11,未走過他那段路，不要輕易評斷他的錯。,https://dls06783.github.io/upshan-posters/230_E1_monument_below_gold.png
-2026-12-12,眾生都有說不出口的痛。一念體諒，已經是布施。,https://dls06783.github.io/upshan-posters/231_C2_wheel_hand_blush.png
-2026-12-13,懂得原諒的心，比被原諒的心更自由。,https://dls06783.github.io/upshan-posters/232_C3_lotus_hand_moss.png
-2026-12-14,放下怨恨，不是原諒對方——是放自己一條生路。,https://dls06783.github.io/upshan-posters/233_A3_arms_detail_teal.png
-2026-12-15,以慈眼看眾生，你會發現世間沒有陌生人。,https://dls06783.github.io/upshan-posters/234_A6_white_jade_navy.png
-2026-12-16,一句溫柔的話，比十車金子更能救一個人。,https://dls06783.github.io/upshan-posters/235_D3_garland_offering_violet.png
-2026-12-17,舌頭像一把斧，揮出去之前，先劈傷了自己。,https://dls06783.github.io/upshan-posters/236_A2_threequarter_sienna.png
-2026-12-18,開口之前問自己三遍：是真的嗎？是善意嗎？有必要說嗎？,https://dls06783.github.io/upshan-posters/237_C3_lotus_hand_jade.png
-2026-12-19,沉默有時候，比說話更慈悲。,https://dls06783.github.io/upshan-posters/238_A6_white_jade_terracotta.png
-2026-12-20,與其責備他的短處，不如憐憫他的難處。,https://dls06783.github.io/upshan-posters/239_D3_garland_offering_gold.png
-2026-12-21,父母之恩如天——報答它的，是陪伴的行動，不是說出口的話。,https://dls06783.github.io/upshan-posters/240_E1_monument_below_crimson.png
-2026-12-22,孝順不是給他們錢，是讓他們心安。,https://dls06783.github.io/upshan-posters/241_B3_west_wealth_moss.png
-2026-12-23,家和不是從不爭吵，是爭吵之後，仍然願意坐在同一張飯桌旁。,https://dls06783.github.io/upshan-posters/242_D2_incense_smoke_teal.png
-2026-12-24,朋友像一面鏡子，會照見你不願面對的自己——不要因此打碎它。,https://dls06783.github.io/upshan-posters/243_D3_garland_offering_navy.png
-2026-12-25,真正的朋友不必多——一個能陪你面對無常的人，已經夠了。,https://dls06783.github.io/upshan-posters/244_C3_lotus_hand_violet.png
-2026-12-26,陌生人，只是尚未認識的家人——緣到了，便相逢。,https://dls06783.github.io/upshan-posters/245_B2_south_love_sienna.png
-2026-12-27,對陌生人伸出的那隻手，其實也是在接住未來某一刻的自己。,https://dls06783.github.io/upshan-posters/246_A6_white_jade_jade.png
-2026-12-28,給出一塊錢並不難，難的是給完之後，心裡真的什麼都沒留下。,https://dls06783.github.io/upshan-posters/247_C2_wheel_hand_terracotta.png
-2026-12-29,布施的人、接受的人、所施的物，三者都空——這才是真正的波羅蜜。,https://dls06783.github.io/upshan-posters/248_D3_garland_offering_gold.png
-2026-12-30,給予時若還盼著回報，那便不是給，是借。,https://dls06783.github.io/upshan-posters/249_B3_west_wealth_crimson.png
-2026-12-31,一點小小的分享，也足以照亮別人一段漆黑的路。,https://dls06783.github.io/upshan-posters/250_E1_monument_below_blush.png
-2027-01-01,手中的東西本就不屬於你——分出去的那一刻，你才真正擁有過。,https://dls06783.github.io/upshan-posters/251_C2_wheel_hand_teal.png
-2027-01-02,一碗飯分一半，兩個人都吃得飽;一句好話說出口，兩顆心都變暖。,https://dls06783.github.io/upshan-posters/252_A6_white_jade_navy.png
-2027-01-03,愛不是把對方握在手心，是願意鬆手，看他自由地活。,https://dls06783.github.io/upshan-posters/253_B2_south_love_violet.png
-2027-01-04,愛一個人，要先看清他本來的樣子——而不是你想像中的他。,https://dls06783.github.io/upshan-posters/254_A6_white_jade_sienna.png
-2027-01-05,被愛而不察覺的人，福氣薄;懂得去愛的人，福氣厚。,https://dls06783.github.io/upshan-posters/255_D3_garland_offering_jade.png
-2027-01-06,愛到深處，不是糾纏不休，是願意成全對方，即使他要走。,https://dls06783.github.io/upshan-posters/256_B1_east_career_terracotta.png
-2027-01-07,慈悲的起點，是承認自己也曾傷過人。,https://dls06783.github.io/upshan-posters/257_B2_south_love_gold.png
-2027-01-08,若心中無慈悲，誦經萬卷也只是聲音。,https://dls06783.github.io/upshan-posters/258_A6_white_jade_crimson.png
-2027-01-09,眾生的苦樂各有不同，佛看他們的心，卻是一樣的。,https://dls06783.github.io/upshan-posters/259_D3_garland_offering_blush.png
-2027-01-10,對一切有呼吸的生命心生憐惜，便已近於道。,https://dls06783.github.io/upshan-posters/260_D4_lotus_pond_moss.png
-2027-01-11,殺一隻蟲也是殺生，護一隻蟲也是護生——心念不分大小。,https://dls06783.github.io/upshan-posters/261_C4_dhyana_hand_navy.png
-2027-01-12,人與人的相遇，都是前世未了的緣——珍重眼前這個人。,https://dls06783.github.io/upshan-posters/262_E2_wall_grid_violet.png
-2027-01-13,不要輕視任何一個人，因為你未曾走過他的路。,https://dls06783.github.io/upshan-posters/263_A3_arms_detail_sienna.png
-2027-01-14,怒火燒起來時，先喝一口水，等它過去。,https://dls06783.github.io/upshan-posters/264_A6_white_jade_jade.png
-2027-01-15,那個傷害你的人，多半自己也曾被傷害過——想通了，怨便輕了。,https://dls06783.github.io/upshan-posters/265_B2_south_love_terracotta.png
-2027-01-16,寬恕不是認輸，是不再讓舊傷，繼續為你寫下新的故事。,https://dls06783.github.io/upshan-posters/266_A6_white_jade_gold.png
-2027-01-17,認真聽一個人說話，全心在這裡——已是最深的敬意。,https://dls06783.github.io/upshan-posters/267_A3_arms_detail_crimson.png
-2027-01-18,對老人溫柔，對孩子輕柔，對困境中的人伸手——這三件事，佛也歡喜。,https://dls06783.github.io/upshan-posters/268_C3_lotus_hand_blush.png
-2027-01-19,能為陌生人流下一滴眼淚的人，心中已有佛。,https://dls06783.github.io/upshan-posters/269_B2_south_love_moss.png
-2027-01-20,給一個飢餓的人一碗飯，勝過造一千座佛塔。,https://dls06783.github.io/upshan-posters/270_A5_bronze_patina_teal.png
-2027-01-21,給不出去的，從來不是你的錢財，是你的執著。,https://dls06783.github.io/upshan-posters/271_C2_wheel_hand_violet.png
-2027-01-22,一呼一吸，便是一次回家——家原來一直都在。,https://dls06783.github.io/upshan-posters/272_A2_threequarter_sienna.png
-2027-01-23,打坐不是逃避世界，而是第一次真正坐下來，看清自己。,https://dls06783.github.io/upshan-posters/273_C4_dhyana_hand_jade.png
-2027-01-24,數十次呼吸，已足夠讓一個人重新開始——因為這已經足夠，經歷一次轉念。,https://dls06783.github.io/upshan-posters/274_A4_stone_ancient_terracotta.png
-2027-01-25,靜默不是無聲，是在無聲中，終於聽見自己心裡的聲音。,https://dls06783.github.io/upshan-posters/275_D1_erawan_night_gold.png
-2027-01-26,今天走一步，明天再走一步——路，就是這樣走出來的。,https://dls06783.github.io/upshan-posters/276_B1_east_career_crimson.png
-2027-01-27,飯一口一口地吃，心一念一念地安。,https://dls06783.github.io/upshan-posters/277_C4_dhyana_hand_blush.png
-2027-01-28,走路時只是走路，不必想著下一個路口。,https://dls06783.github.io/upshan-posters/278_A3_arms_detail_moss.png
-2027-01-29,吃飯、洗澡，簡單的日常動作，你是被自己內心對話佔據，還是真的享受每個平常的一刻？,https://dls06783.github.io/upshan-posters/279_A3_arms_detail_teal.png
-2027-01-30,最難的功課，是每一天都做同一件平凡的事。,https://dls06783.github.io/upshan-posters/280_E1_monument_below_navy.png
-2027-01-31,一日不靜坐，心便長出野草;一日坐一次，心便重見清明。,https://dls06783.github.io/upshan-posters/281_C3_lotus_hand_sienna.png
-2027-02-01,勤奮不是自我折磨，是對自己誠實的一種方式。,https://dls06783.github.io/upshan-posters/282_A1_frontal_jade.png
-2027-02-02,知足，可以從今晚少吃一口飯開始。,https://dls06783.github.io/upshan-posters/283_C2_wheel_hand_terracotta.png
-2027-02-03,簡樸不是沒有，是不再索求更多。,https://dls06783.github.io/upshan-posters/284_A2_threequarter_gold.png
-2027-02-04,少說一句廢話，心便清明一分。,https://dls06783.github.io/upshan-posters/285_C3_lotus_hand_crimson.png
-2027-02-05,發脾氣之前，先深呼吸三次——風可能就這樣過去了。,https://dls06783.github.io/upshan-posters/286_A4_stone_ancient_blush.png
-2027-02-06,清晨起床，第一件事不是滑手機，而是靜坐五分鐘。,https://dls06783.github.io/upshan-posters/287_D4_lotus_pond_moss.png
-2027-02-07,今天能做的事，不要推給明天的自己——明天的他，也一樣累。,https://dls06783.github.io/upshan-posters/288_A3_arms_detail_teal.png
-2027-02-08,一個起心動念，已經是一次修行的機會。,https://dls06783.github.io/upshan-posters/289_C4_dhyana_hand_navy.png
-2027-02-09,走得慢一點，呼吸就會深一點;日子也會慢一點。,https://dls06783.github.io/upshan-posters/290_E1_monument_below_violet.png
-2027-02-10,沒有遠方。只有手邊這件事，做或者不做。,https://dls06783.github.io/upshan-posters/291_B1_east_career_jade.png
-2027-02-11,一念升起，看著它;一念消失，也看著它。,https://dls06783.github.io/upshan-posters/292_A2_threequarter_terracotta.png
-2027-02-12,真正的精進，是今天再做一次昨天已經做過的事——不倦。,https://dls06783.github.io/upshan-posters/293_A3_arms_detail_gold.png
-2027-02-13,守得住嘴的人，才守得住心。,https://dls06783.github.io/upshan-posters/294_D2_incense_smoke_crimson.png
-2027-02-14,一餐飯，夠吃就好;一間屋，夠睡就好——多了反而累。,https://dls06783.github.io/upshan-posters/295_A1_frontal_blush.png
-2027-02-15,吃飯時不要看手機——你的胃和你的心都會感謝你。,https://dls06783.github.io/upshan-posters/296_A2_threequarter_moss.png
-2027-02-16,睡前先把今天放下，明天早上再決定要不要撿起來。,https://dls06783.github.io/upshan-posters/297_C3_lotus_hand_teal.png
-2027-02-17,習慣是修行的容器——每天倒一點進去，總有一天會滿。,https://dls06783.github.io/upshan-posters/298_D2_incense_smoke_navy.png
-2027-02-18,打坐不會讓你變得更好，它只會讓你更誠實地看見自己。,https://dls06783.github.io/upshan-posters/299_D4_lotus_pond_violet.png
-2027-02-19,為什麼有人學習觀呼吸？因為只要有一次你覺察了當下，你會微微發現——當下，好像變得不一樣。,https://dls06783.github.io/upshan-posters/300_A2_threequarter_sienna.png
-2027-02-20,你說的每一句話，都是在種下一顆因。,https://dls06783.github.io/upshan-posters/301_A1_frontal_terracotta.png
-2027-02-21,靜默三分鐘，勝過爭辯三小時。,https://dls06783.github.io/upshan-posters/302_D2_incense_smoke_gold.png
-2027-02-22,身未動，念已至——先看清自己的起心動念。,https://dls06783.github.io/upshan-posters/303_D1_erawan_night_crimson.png
-2027-02-23,修行不是脫離生活，是在生活之中醒過來。,https://dls06783.github.io/upshan-posters/304_A2_threequarter_blush.png
-2027-02-24,戒律不是綁住你，是保護你不被自己綁住。,https://dls06783.github.io/upshan-posters/305_C4_dhyana_hand_moss.png
-2027-02-25,今日的功夫，就是今日好好做今日的事——僅此而已。,https://dls06783.github.io/upshan-posters/306_B1_east_career_teal.png
-2027-02-26,心急的時候，走慢一點;心亂的時候，坐久一點。,https://dls06783.github.io/upshan-posters/307_A1_frontal_navy.png
-2027-02-27,每一次想放棄的時候，才是修行真正開始的時候。,https://dls06783.github.io/upshan-posters/308_B1_east_career_violet.png
-2027-02-28,你手上正在做的那件事，就是此刻的道場。,https://dls06783.github.io/upshan-posters/309_C1_beads_hand_sienna.png
-2027-03-01,每天靜坐十分鐘，勝過一年打一次禪七。,https://dls06783.github.io/upshan-posters/310_D2_incense_smoke_jade.png
-2027-03-02,工作不是修行之外的事，是修行最真實的場域。,https://dls06783.github.io/upshan-posters/311_A3_arms_detail_gold.png
-2027-03-03,簡樸的生活，是給自己的心留一個空位。,https://dls06783.github.io/upshan-posters/312_D3_garland_offering_crimson.png
-2027-03-04,一呼一吸之間，已有天地。,https://dls06783.github.io/upshan-posters/313_A1_frontal_blush.png
-2027-03-05,一口飯咀嚼三十下，你會聽見一粒米的故事。,https://dls06783.github.io/upshan-posters/314_C4_dhyana_hand_moss.png
-2027-03-06,身、口、意三業，每日三次反省——並不多。,https://dls06783.github.io/upshan-posters/315_D1_erawan_night_teal.png
-2027-03-07,靜下來，不是停下腳步，是為了聽清下一步。,https://dls06783.github.io/upshan-posters/316_A2_threequarter_navy.png
-2027-03-08,花開不是為了你，凋謝也不是——看清楚這件事，便能少一分委屈。,https://dls06783.github.io/upshan-posters/317_A5_bronze_patina_violet.png
-2027-03-09,留不住的，從來就不是你的。,https://dls06783.github.io/upshan-posters/318_A6_white_jade_sienna.png
-2027-03-10,萬物皆是過客——連你自己也是。,https://dls06783.github.io/upshan-posters/319_A1_frontal_jade.png
-2027-03-11,看破不是視而不見，是看見了，依然願意走下去。,https://dls06783.github.io/upshan-posters/320_E1_monument_below_terracotta.png
-2027-03-12,凡所有相，皆是虛妄。看穿了，未必就捨得放下;但心，會輕一分。,https://dls06783.github.io/upshan-posters/321_E1_monument_below_crimson.png
-2027-03-13,聰明的人改變環境，智者改變自己，覺悟的人明白：原來沒有什麼可改。,https://dls06783.github.io/upshan-posters/322_C4_dhyana_hand_blush.png
-2027-03-14,你以為握住了它，其實只是握住了自己的手。,https://dls06783.github.io/upshan-posters/323_A5_bronze_patina_moss.png
-2027-03-15,緣起則聚，緣盡則散——這不是無情，是如實。,https://dls06783.github.io/upshan-posters/324_A6_white_jade_teal.png
-2027-03-16,一切因果都不出自己這顆心——種什麼因，結什麼果，不由人挑揀。,https://dls06783.github.io/upshan-posters/325_A1_frontal_navy.png
-2027-03-17,放下不是失去，是終於不必再用力握著。,https://dls06783.github.io/upshan-posters/326_A4_stone_ancient_violet.png
-2027-03-18,真正的自在，是連「想自在」這個念頭都放下。,https://dls06783.github.io/upshan-posters/327_A3_arms_detail_sienna.png
-2027-03-19,生死之間只隔一口氣——你此刻呼出的這一口，已是奇蹟。,https://dls06783.github.io/upshan-posters/328_D4_lotus_pond_jade.png
-2027-03-20,愚者忙於擁有，智者忙於看清。,https://dls06783.github.io/upshan-posters/329_B3_west_wealth_terracotta.png
-2027-03-21,水流過石頭，不爭;石頭讓水流過，不讓——道，就在兩者之間。,https://dls06783.github.io/upshan-posters/330_C4_dhyana_hand_gold.png
-2027-03-22,今日落下的雨，不是昨日那場——你也不是昨日的你。,https://dls06783.github.io/upshan-posters/331_A1_frontal_blush.png
-2027-03-23,所謂解脫，不是離開這個世界，是身在其中，而心不被牽絆。,https://dls06783.github.io/upshan-posters/332_D4_lotus_pond_moss.png
-2027-03-24,執著於一粒沙，你便失去整片沙灘。,https://dls06783.github.io/upshan-posters/333_E1_monument_below_teal.png
-2027-03-25,佛不在遠方，在你願意放下的那一刻。,https://dls06783.github.io/upshan-posters/334_E2_wall_grid_navy.png
-2027-03-26,有生必有滅，有聚必有散——這不是壞消息，是真相。,https://dls06783.github.io/upshan-posters/335_A3_arms_detail_violet.png
-2027-03-27,涅槃不是死後的獎賞，是此刻心中的一片寂靜。,https://dls06783.github.io/upshan-posters/336_D4_lotus_pond_sienna.png
-2027-03-28,愚痴不是不識字，是明明看見，卻假裝沒看見。,https://dls06783.github.io/upshan-posters/337_C3_lotus_hand_jade.png
-2027-03-29,法無定法，道無定道——一旦執於某一法，便已離道遠了。,https://dls06783.github.io/upshan-posters/338_C4_dhyana_hand_terracotta.png
-2027-03-30,死亡固然可怕，但更可怕的是，在擁有生命的時候，我們糾結要不要去見那個一直沒去見的人，說出那些一直沒說的話。,https://dls06783.github.io/upshan-posters/339_D1_erawan_night_gold.png
-2027-03-31,覺醒的第一步，是承認自己一直在睡。,https://dls06783.github.io/upshan-posters/340_B1_east_career_crimson.png
-2027-04-01,業力不是懲罰，是回音——你說什麼，世界便回你什麼。,https://dls06783.github.io/upshan-posters/341_A5_bronze_patina_moss.png
-2027-04-02,一念放下，萬般自在——難就難在，那一念總想再捉一次。,https://dls06783.github.io/upshan-posters/342_D2_incense_smoke_teal.png
-2027-04-03,時間不是在流逝，是我們流過它。,https://dls06783.github.io/upshan-posters/343_A1_frontal_navy.png
-2027-04-04,所有你以為是「我」的，遲早都不再是。,https://dls06783.github.io/upshan-posters/344_A2_threequarter_violet.png
-2027-04-05,無常不是詛咒，是自由的另一個名字。,https://dls06783.github.io/upshan-posters/345_B4_north_health_sienna.png
-2027-04-06,智者不是沒有煩惱，是煩惱過了，便過了。,https://dls06783.github.io/upshan-posters/346_E2_wall_grid_jade.png
-2027-04-07,真理不怕被質疑，怕的是被供奉起來，無人再敢問。,https://dls06783.github.io/upshan-posters/347_A3_arms_detail_terracotta.png
-2027-04-08,心若無事，天地便寬;心若執著，方寸之間就是牢。,https://dls06783.github.io/upshan-posters/348_A6_white_jade_gold.png
-2027-04-09,你以為是你在選擇，其實是業在選擇你——但你，依然可以轉身。,https://dls06783.github.io/upshan-posters/349_B4_north_health_crimson.png
-2027-04-10,一朵花，從開到謝，從頭到尾都沒有哭過一聲。,https://dls06783.github.io/upshan-posters/350_A2_threequarter_blush.png
-2027-04-11,生死事大，無常迅速——莫等到白髮上頭，才知道要修行。,https://dls06783.github.io/upshan-posters/351_D1_erawan_night_teal.png
-2027-04-12,看得破，才放得下;放得下，才真正提得起。,https://dls06783.github.io/upshan-posters/352_B1_east_career_navy.png
-2027-04-13,世間沒有一樣東西真正屬於你——連你自己，也是借來用的。,https://dls06783.github.io/upshan-posters/353_C3_lotus_hand_violet.png
-2027-04-14,緣來時珍惜，緣去時祝福——這樣，便不會辜負任何一場相遇。,https://dls06783.github.io/upshan-posters/354_A6_white_jade_sienna.png
-2027-04-15,問道的人很多，肯真正走下去的人很少。,https://dls06783.github.io/upshan-posters/355_A3_arms_detail_jade.png
-2027-04-16,愚者求答案，智者求問題，覺者連問題都不再問。,https://dls06783.github.io/upshan-posters/356_B1_east_career_terracotta.png
-2027-04-17,執著於過去，就像與自己的影子打架。,https://dls06783.github.io/upshan-posters/357_E1_monument_below_gold.png
-2027-04-18,無常不是來奪走你的——它是來教你珍惜的。,https://dls06783.github.io/upshan-posters/358_A3_arms_detail_crimson.png
-2027-04-19,一切有為法，如夢幻泡影——夢醒時，不必怨夢是假的。,https://dls06783.github.io/upshan-posters/359_A3_arms_detail_blush.png
-2027-04-20,你活過的每一秒，都不會再見第二次。你會用剩下的，做什麼？,https://dls06783.github.io/upshan-posters/360_E1_monument_below_moss.png
-2027-04-21,佛從不度你——是你自己，終於願意走出來。,https://dls06783.github.io/upshan-posters/361_B1_east_career_navy.png
-2027-04-22,求靜者，心先動；不求者，心自靜。,https://dls06783.github.io/upshan-posters/362_D2_incense_smoke_violet.png
-2027-04-23,萬物皆流，唯流動本身，是恆。,https://dls06783.github.io/upshan-posters/363_D1_erawan_night_sienna.png
-2027-04-24,知其不可知，乃智慧之始；安於不可知，乃自由之成。,https://dls06783.github.io/upshan-posters/364_B1_east_career_jade.png
-2027-04-25,一念之差，不是分界，是門檻——跨過去，便是另一個世界。,https://dls06783.github.io/upshan-posters/365_C4_dhyana_hand_terracotta.png
+date,quote,caption,hashtags,image_url
+2026-04-26,如果有什麼值得做的事，就全心全意去做。,"全心全意做一件值得的事，不是為了交差，而是為了把那一刻活成完整。
+
+修行其實就是這樣——不必遠行，就在當下。",#事業 #精進 #禪意 #當下,https://dls06783.github.io/upshan-posters/001_B1_east_career_terracotta.png
+2026-04-27,三樣東西不能隱藏太久：太陽、月亮和真相。,"真相就像太陽一樣，遮掩不住。
+
+與其費力隱瞞，不如坦然面對。那些糾纏的，往往都是我們捨不得放下的。",#智慧 #覺悟 #誠實,https://dls06783.github.io/upshan-posters/002_C4_dhyana_hand_gold.png
+2026-04-28,凡事自己解決，不要依賴別人。,"有人會替你分擔嗎？多半不會。那就練習一個人去扛，慢慢就有力量了。
+
+依賴別人，反而把自己活小了。",#事業 #自強 #精進,https://dls06783.github.io/upshan-posters/003_E1_monument_below_crimson.png
+2026-04-29,你自己，就像整個宇宙中任何一人一樣，值得被愛。,"在這個廣大的宇宙裡，你值得被愛——不是因為你做了什麼，而是因為你存在。
+
+這話說出來簡單，相信卻一生都在修。",#自愛 #慈悲 #接納,https://dls06783.github.io/upshan-posters/004_C3_lotus_hand_blush.png
+2026-04-30,有意見的人，只會四處煩擾彼此。,"有意見的人如同刺猬，走到哪裡都在扎人，卻沒察覺自己也滿身傷痕。
+
+心軟的人，往往是最先被耗盡的。",#關係 #慈悲 #放下,https://dls06783.github.io/upshan-posters/005_C3_lotus_hand_moss.png
+2026-05-01,苦的根源是執著。,"一根繩子之所以被綁住，是因為我們握得太緊。
+
+放鬆那只手，自由就來了。",#放下 #解脫 #無常,https://dls06783.github.io/upshan-posters/006_A6_white_jade_teal.png
+2026-05-02,除了你自己，不要在任何人身上尋求皈依。,"你要找的救星，就是你自己。沒人能替你走這條路，再也沒有。
+
+與其等待，不如轉身。",#修行 #自強 #覺悟,https://dls06783.github.io/upshan-posters/007_D1_erawan_night_navy.png
+2026-05-03,若懂施予之力，一頓飯也不忍獨享。,"施予不是大手筆的慷慨，是一碗飯也捨得分一半的心。
+
+那種自然而然的給，叫慈悲。",#財富 #施予 #慈悲,https://dls06783.github.io/upshan-posters/008_D3_garland_offering_violet.png
+2026-05-04,沒有什麼比你自己的心念失守更能傷害你了。,"最深的傷，來自自己的念頭。沒人能像你的心那樣，把你傷得這麼徹底。
+
+修行就是與自己和解。",#正念 #自觀 #修行,https://dls06783.github.io/upshan-posters/009_C4_dhyana_hand_sienna.png
+2026-05-05,當過純粹無私的生活：縱在富足之中，亦無一物視作自己的。,"富有時能夠不自私，比富有本身更稀罕。
+
+那是一種內在的富足——擁有卻不佔有。",#財富 #知足 #境界,https://dls06783.github.io/upshan-posters/010_A5_bronze_patina_jade.png
+2026-05-06,如果你在修行路上無人同行，那就一個人走吧。,"如果修行的路上沒有人陪，那就一個人走。孤獨不是冷，是清醒。
+
+到最後，你會感謝那段獨自前行的時光。",#修行 #禪修 #精進,https://dls06783.github.io/upshan-posters/011_B1_east_career_gold.png
+2026-05-07,願一切眾生，心得安樂。,"願我們的心都能安樂——不是沒有波折，而是波折來臨時，心不被淹沒。
+
+這是最深的祝福。",#慈悲 #祝福 #心安,https://dls06783.github.io/upshan-posters/012_C3_lotus_hand_crimson.png
+2026-05-08,我們的一切，皆是所思所想之所成。,"你是什麼樣的人，是你日日所想決定的。思想就像種子，會在生命裡開花。
+
+所以請看好你在想什麼。",#智慧 #正念 #覺悟,https://dls06783.github.io/upshan-posters/013_A1_frontal_blush.png
+2026-05-09,野心就像愛情，不耐拖延，不容對手。,"野心就像戀愛，急不得，也容不得背叛。一旦含糊，就自動瓦解。
+
+真正的執著，是無法半途而廢的。",#事業 #精進 #決心,https://dls06783.github.io/upshan-posters/014_A6_white_jade_moss.png
+2026-05-10,你的自我，應如寬衣般披著——隨時可脫。,"自我像衣服，要穿就穿，要脫就脫。太執著於某個角色，反而被角色困住了。
+
+靈活地活著，才是聰慧。",#放下 #自在 #無我,https://dls06783.github.io/upshan-posters/015_E1_monument_below_teal.png
+2026-05-11,一滴一滴，也能注滿一個罐子。,"一滴一滴的水，終會裝滿罐子。不是速度的問題，是持續。
+
+這就是大多數人的成功故事。",#精進 #持續 #累積,https://dls06783.github.io/upshan-posters/016_E2_wall_grid_navy.png
+2026-05-12,每個人的健康或疾病，都是他自己所書。,"你的身體不會說謊。健康或生病，都是你多年來的選擇在說話。
+
+好消息是——從今天起，你還能改寫。",#健康 #無常 #因果,https://dls06783.github.io/upshan-posters/017_B4_north_health_violet.png
+2026-05-13,給，哪怕只有一點點。,"給，哪怕只有一點點。那一點點，也許就是別人那天活下去的理由。
+
+施予的力量，超乎想像。",#施予 #慈悲 #布施,https://dls06783.github.io/upshan-posters/018_A5_bronze_patina_sienna.png
+2026-05-14,享於冥想和獨處；安住下來，快樂起來。你是一個求道者。,"冥想的人會告訴你：一旦安靜下來，世界就開始說話。
+
+而你，終於有空聽它說什麼。",#靜心 #禪修 #正念,https://dls06783.github.io/upshan-posters/019_A3_arms_detail_jade.png
+2026-05-15,耐力是最難的功課之一，但最終的勝利屬於堅持下來的人。,堅持是最難的功課，但也是唯一能改變人生的功課。勝利從來都屬於，那些即便累也不放手的人。,#精進 #堅毅 #事業,https://dls06783.github.io/upshan-posters/020_E1_monument_below_terracotta.png
+2026-05-16,你現在的樣子，就是你曾經所思；你將成為的樣子，就是你今日所為。,"你現在的樣子，就是你過去所有想法的總和。那你想要未來是什麼樣子呢？
+
+答案就在你今天的念頭裡。",#因果 #覺悟 #智慧,https://dls06783.github.io/upshan-posters/021_E1_monument_below_crimson.png
+2026-05-17,一瞬間改變一天，一天改變一生，一世改變世界。,"一個念頭改變一天。一天改變了，人生就不同。這不是什麼大道理，是實實在在發生的事。
+
+所以，善待每一個起心動念。",#正念 #改變 #精進,https://dls06783.github.io/upshan-posters/022_E2_wall_grid_blush.png
+2026-05-18,真愛源於理解。,"愛無法靠言語傳遞，只能靠理解。不理解，再甜的話也是空的。
+
+所以第一步，是放下自己去聽。",#愛 #關係 #慈悲,https://dls06783.github.io/upshan-posters/023_D3_garland_offering_moss.png
+2026-05-19,今日之身，昨日所思；今日所思，明日所成。,"昨日之念成了今日之身，今日之念會成為明日之我。沒有一秒是白活的。
+
+每一秒都在塑造你。",#因果 #覺悟 #當下,https://dls06783.github.io/upshan-posters/024_D4_lotus_pond_teal.png
+2026-05-20,沒有慾望的人沒有恐懼。,"沒有欲望的人沒有恐懼。但我們活著，就很難沒有欲望。與其對抗，不如看清它，然後走過去。
+
+這才是真正的自在。",#放下 #自在 #無常,https://dls06783.github.io/upshan-posters/025_A1_frontal_navy.png
+2026-05-21,一根蠟燭可以點燃千根蠟燭，燭光不減；幸福也不會因分享而減少。,"一根蠟燭點燃另一根，燭光不會減少，反而更亮了。幸福也是。
+
+分享幸福的人，從來不會窮。",#慈悲 #施予 #布施,https://dls06783.github.io/upshan-posters/026_A5_bronze_patina_violet.png
+2026-05-22,活得明白的人，連死亡也不畏懼。,"當一個人活得足夠清楚，他就連死亡也不害怕了。因為他已經活過了。
+
+生命不在長短，在於有沒有清醒。",#無常 #智慧 #修行,https://dls06783.github.io/upshan-posters/027_D1_erawan_night_sienna.png
+2026-05-23,除了我們自己，沒有人能拯救我們。這條路，終須自己走。,"這條救贖的路，終究要自己走。沒人能替，也替不了。
+
+但一旦你開始走，就不再孤單。",#修行 #自強 #覺悟,https://dls06783.github.io/upshan-posters/028_A3_arms_detail_jade.png
+2026-05-24,蠟燭無火不能燃燒，人也不能沒有精神生活。,"人無法靠物質活著，只能靠精神。蠟燭沒有火會熄滅，人沒有精神的寄託也會消亡。
+
+所以，找到你的信念。",#修行 #精神 #信念,https://dls06783.github.io/upshan-posters/029_A5_bronze_patina_terracotta.png
+2026-05-25,執著於己見的人，走到哪裡都與人為敵。,"執著於自己的看法的人，把世界當成了敵人。其實是他自己，把自己流放了。
+
+柔軟一點，世界就寬闊一點。",#放下 #無我 #智慧,https://dls06783.github.io/upshan-posters/030_E1_monument_below_gold.png
+2026-05-26,智者之所以為智者，不在多言；而在心安、有愛、無懼。,"聰慧的人不靠說話來證明自己，而是靠內心的寧靜、行動的溫柔和對生命的無懼。
+
+這三樣，無法偽裝。",#智慧 #覺悟 #修行,https://dls06783.github.io/upshan-posters/031_D3_garland_offering_blush.png
+2026-05-27,不要沉溺於過去，不要夢想未來，專注於當下。,"執著於過去和未來的人，最容易錯過當下。而當下，才是真正擁有你的唯一時刻。
+
+放下手中的回憶吧，看看眼前。",#正念 #當下 #禪修,https://dls06783.github.io/upshan-posters/032_A1_frontal_moss.png
+2026-05-28,對眾生無慈悲，便是自絕於人間。,"沒有慈悲心，就等於把自己從人間逐出了。因為什麼叫人間？就是互相牽掛。
+
+冷漠，是最高的刑罰。",#慈悲 #關係 #愛,https://dls06783.github.io/upshan-posters/033_B2_south_love_teal.png
+2026-05-29,愛，是以靈魂深處相贈，讓彼此都得以完整。,"真正的愛，是靈魂在深處相互承認——你有你的完整，我有我的完整，卻願意在一起。
+
+這才叫完成彼此。",#愛 #關係 #慈悲,https://dls06783.github.io/upshan-posters/034_A6_white_jade_navy.png
+2026-05-30,大海只有一味，鹹味；法與律也只有一味，解脫的味道。,"大海的水，永遠是一個味道——鹹。法與律也只有一個味道——解脫。繞不開，捷徑也沒有。
+
+只能一步步走。",#修行 #解脫 #正道,https://dls06783.github.io/upshan-posters/035_A3_arms_detail_violet.png
+2026-05-31,在這個世界上，仇恨無法止息仇恨，唯有慈悲才能。這是永恆的法則。,"仇恨無法化解仇恨，只有慈悲才能。這不是佛教的說法，是世間永遠的法則。
+
+你可以試試看。",#慈悲 #智慧 #寬恕,https://dls06783.github.io/upshan-posters/036_C3_lotus_hand_sienna.png
+2026-06-01,我們即是我們所想。一切由思想生，世界由思想造。,我們就是我們所想。思想像工匠，一點一點雕刻出我們的世界。所以警惕你的念頭，比警惕別人更重要。,#正念 #因果 #覺悟,https://dls06783.github.io/upshan-posters/037_A1_frontal_jade.png
+2026-06-02,別人有難時我們不伸手，他日我們有難，又有誰伸手？,"別人有難時，我們轉身走開。到了我們有難時，卻期待別人轉身來幫。這個等式從不成立。
+
+因果的天平，永遠公正。",#因果 #慈悲 #布施,https://dls06783.github.io/upshan-posters/038_A6_white_jade_terracotta.png
+2026-06-03,如荷葉上的水珠，如蓮花上的露滴——聖者於所見、所聞、所感，皆不執著。,"看聖者如何對待世界——來的不執著，去的也不挽留。就像蓮葉上的露水，了無牽掛。
+
+這不是冷漠，是清明。",#無常 #放下 #智慧,https://dls06783.github.io/upshan-posters/039_A3_arms_detail_gold.png
+2026-06-04,今天該做的事，就盡心去做。誰知道呢，明天死亡便來。,"今天的事就盡心去做，因為沒人保證明天還有呼吸的機會。不是嚇唬，是提醒你活著。
+
+所以，認真一些吧。",#當下 #精進 #無常,https://dls06783.github.io/upshan-posters/040_B1_east_career_crimson.png
+2026-06-05,善言的根本，在於理解。,"好話的根基是什麼？理解。沒有理解，好話就成了虛偽的安慰。
+
+所以先聽，再說。",#智慧 #慈悲 #溝通,https://dls06783.github.io/upshan-posters/041_A5_bronze_patina_moss.png
+2026-06-06,依真理而行的人，今世、來世都是幸福的。,"依循真理而活的人，不管在哪個時代，都活得坦然。因為真理沒有時間限制。
+
+你呢，在依循什麼？",#修行 #真理 #智慧,https://dls06783.github.io/upshan-posters/042_C4_dhyana_hand_teal.png
+2026-06-07,堅如磐石，不為風雨搖動，智者亦不為褒貶所動。,"堅如磐石的人，既不為風雨搖動，也不為讚揚迷失。這才是真正的定力。
+
+大多數人都在搖晃，毫不自知。",#智慧 #定力 #修行,https://dls06783.github.io/upshan-posters/043_A1_frontal_navy.png
+2026-06-08,思想塑造生活，我們會成為自己所想的樣子。心念純淨，快樂便如影隨形。,"思想塑造生活。心念純淨，快樂就像影子一樣跟著你走。反之亦然。
+
+所以，一切的改變，都從改變想法開始。",#正念 #因果 #智慧,https://dls06783.github.io/upshan-posters/044_A2_threequarter_violet.png
+2026-06-09,一切和合之物皆無常，當勤精進。,"一切和合的東西終將分散。這不是悲觀，是看清了無常，才能懂得珍惜。
+
+趁還在，就努力吧。",#無常 #精進 #珍惜,https://dls06783.github.io/upshan-posters/045_E1_monument_below_sienna.png
+2026-06-10,善良應是生活的常態，而不是例外。,"善良應該是日常，不是偶爾。當善良成了例外，世界就開始生病了。
+
+你的善良，在哪個位置？",#慈悲 #修行 #品德,https://dls06783.github.io/upshan-posters/046_E2_wall_grid_jade.png
+2026-06-11,不是靠儀式，不是靠苦學，不是靠獨身，甚至不是靠禪定——未破我執，便未得涅槃之樂。,"破執著有很多法門，但沒有一個是靠儀式、苦學或遠離世俗就能成的。只有一個：看清自己。
+
+看清了，放下就自然了。",#修行 #覺悟 #無我,https://dls06783.github.io/upshan-posters/047_D1_erawan_night_terracotta.png
+2026-06-12,灌水者導水，制箭者直箭，木匠折木，智者自強。,"成長沒有巧門。灌水的人引導水流，制箭的人把箭弄直，木匠砍直樹木——聰慧的人，也只是認真對待每一步。
+
+仿佛就這麼簡單。",#精進 #修行 #自強,https://dls06783.github.io/upshan-posters/048_A6_white_jade_gold.png
+2026-06-13,向整個世界散發無限的愛。,"無限的愛該是什麼樣子？不挑選對象，不問值不值得，就是這樣散發出去。
+
+試試看，會發生什麼。",#慈悲 #愛 #布施,https://dls06783.github.io/upshan-posters/049_B2_south_love_crimson.png
+2026-06-14,付諸行動的想法，比只停留在腦中的想法更重要。,"想法停留在腦子裡是夢，動手做出來才是事實。一個行動，勝過一千句計劃。
+
+所以現在就開始，不要再等。",#精進 #行動 #事業,https://dls06783.github.io/upshan-posters/050_E1_monument_below_blush.png
+2026-06-15,不真誠又邪惡的朋友比野獸更可怕：野獸傷你的身，惡友傷你的心。,"好友和野獸，哪個更可怕？野獸只傷身體，但不誠實的朋友會傷靈魂。親近什麼人，就成為什麼人。
+
+看好你的圈子。",#關係 #智慧 #修行,https://dls06783.github.io/upshan-posters/051_D3_garland_offering_teal.png
+2026-06-16,不要只追求快樂而忽視禪修；若忘記人生目標、沉溺世俗之樂，終會羨慕那些把禪修放在首位的人。,只追求快樂而不修行的人，最後會羨慕那些把修行放在首位的人。因為快樂會褪色，但定力是永遠的財富。,#修行 #禪修 #智慧,https://dls06783.github.io/upshan-posters/052_A1_frontal_navy.png
+2026-06-17,沒有什麼能獨立存在；一切皆互相牽連。,"一個人單獨不存在。你的呼吸連著空氣，你的思想連著世界，你的存在連著眾生。
+
+所以從來沒有誰是孤立的。",#因果 #相即相生 #智慧,https://dls06783.github.io/upshan-posters/053_A5_bronze_patina_violet.png
+2026-06-18,你的工作，是先找到你的使命，然後全心全意投入其中。,最重要的工作，不是找到完美的職位，而是找到你的使命，然後義無反顧地投入。職位會變，使命才是靈魂的方向。,#事業 #使命 #精進,https://dls06783.github.io/upshan-posters/054_A6_white_jade_sienna.png
+2026-06-19,若遇能指你錯處的智者，當隨之而行，如遇藏寶之嚮導。,"如果遇見能指出你錯處的聰慧人，要把他當成寶藏來對待。能看清我們缺點的人，才是真正的恩人。
+
+這樣的人不多。",#智慧 #修行 #感恩,https://dls06783.github.io/upshan-posters/055_A1_frontal_jade.png
+2026-06-20,水罐由一滴一滴注滿；智者也一點一點積累善行，終至圓滿。,"水罐是一滴一滴注滿的，人的善行也是一點一點積累的。沒有什麼是一步到位，只有勤奮才能圓滿。
+
+所以別嫌慢，嫌就停。",#精進 #修行 #累積,https://dls06783.github.io/upshan-posters/056_D4_lotus_pond_terracotta.png
+2026-06-21,分離中蘊藏著世間最大的苦難；慈悲中蘊藏著世間真正的力量。,分離帶來人間最深的苦，慈悲則帶來最真實的力量。不迴避苦，反而用慈悲去對待它——這才叫修行。,#慈悲 #無常 #修行,https://dls06783.github.io/upshan-posters/057_B2_south_love_gold.png
+2026-06-22,知生命恆在流動，無損無缺，無須修補。,"生命一直在流動，無損也無缺，從不需要你去修補。所以放鬆吧，停止對抗，就是接納。
+
+接納本身，就是救贖。",#接納 #流動 #無常,https://dls06783.github.io/upshan-posters/058_A4_stone_ancient_crimson.png
+2026-06-23,與其活一百年而看不見事物興衰，不如活一天能看見事物興衰。,"活一百年卻看不見萬物興衰，不如活一天能看透整個循環。人生的質量，不在長短，在深度。
+
+你有沒有看清過什麼？",#智慧 #無常 #深度,https://dls06783.github.io/upshan-posters/059_A3_arms_detail_blush.png
+2026-06-24,如母親以生命護自己的獨生子，也當以無量之愛護一切眾生。,母親用生命護著獨生子，我們也應該用無量的愛去護一切眾生。護就是愛，愛就是最高的修行。,#慈悲 #愛 #修行,https://dls06783.github.io/upshan-posters/060_C3_lotus_hand_moss.png
+2026-06-25,道不在天，道在心。,"道不在天上，不在寺廟，就在你的心裡。最遠的地方，才離你最近。
+
+轉身吧，道就在裡面。",#內觀 #修行 #禪意,https://dls06783.github.io/upshan-posters/061_C3_lotus_hand_navy.png
+2026-06-26,如果你不改變方向，你終將走到你本不想去的地方。,"如果你不改變方向，還在走同樣的路，就會走到之前注定的地方——你自己都不想去的地方。
+
+現在還來得及轉身。",#覺悟 #改變 #精進,https://dls06783.github.io/upshan-posters/062_A1_frontal_violet.png
+2026-06-27,學識淵博、技能嫻熟、訓練有素、言談得體——這就是福氣。,"真正的福氣是什麼？學問淵博、技能嫻熟、舉止得體——這些都只是基礎。福氣的本質，是這些東西背後的修養。
+
+外表會褪色，修養永遠閃光。",#福氣 #修養 #品德,https://dls06783.github.io/upshan-posters/063_E1_monument_below_sienna.png
+2026-06-28,健康是最大的禮物，知足是最大的財富，忠誠是最好的關係。,"健康是最大的禮物，知足是最大的財富，忠誠是最好的關係。這三樣，比什麼都珍貴。
+
+你擁有幾樣？",#健康 #知足 #愛,https://dls06783.github.io/upshan-posters/064_D3_garland_offering_jade.png
+2026-06-29,向所有人傳授這三重真理：慷慨的心、善良的言辭、服務與慈悲的生活——這些能讓人類煥然一新。,"三重真理值得記住：心要慷慨，言要善良，行要充滿慈悲。這三樣做到了，人類就煥然一新。
+
+不是大話，是老話。",#慈悲 #品德 #修行,https://dls06783.github.io/upshan-posters/065_C3_lotus_hand_terracotta.png
+2026-06-30,深觀當下，禪修者便安住於安定與自由之中。,禪修就是深深地看著當下，然後你會發現自己安住在一種自由中。這不是逃離，是終於回家。,#禪修 #當下 #自在,https://dls06783.github.io/upshan-posters/066_D2_incense_smoke_gold.png
+2026-07-01,心中沒有怨恨的人，必會得到平靜。,"一個人心中沒有怨恨，就自然得到了平靜。不是因為外在改變了，而是內在停止了交戰。
+
+停戰，就是勝利。",#放下 #平靜 #修行,https://dls06783.github.io/upshan-posters/067_D4_lotus_pond_crimson.png
+2026-07-02,靜心帶來智慧，缺乏靜心則生無知；明辨何者助你前進、何者阻你，再選通往智慧之路。,"靜心帶來智慧，缺乏靜心就生無知。所以會有人聰慧，有人糊塗。差的，就是那份靜。
+
+你多久沒有真正靜過了？",#靜心 #智慧 #禪修,https://dls06783.github.io/upshan-posters/068_B1_east_career_blush.png
+2026-07-03,獨坐、獨睡、獨行，奮力獨克己者，必樂於獨處。,獨坐、獨睡、獨行——當一個人習慣了與自己相處，他就習慣了與世界相處。孤獨不是寂寞，是自足。,#獨立 #修行 #自足,https://dls06783.github.io/upshan-posters/069_C4_dhyana_hand_moss.png
+2026-07-04,旅行好過到達。,"旅行好過到達。到達的時候，旅程就結束了。而旅程本身，才是一切。
+
+所以放慢腳步，看看路。",#當下 #無常 #禪意,https://dls06783.github.io/upshan-posters/070_E2_wall_grid_teal.png
+2026-07-05,我不與世界爭執，而是世界與我爭執。,"我不與世界爭執，反而世界與我爭執。當你放下爭意，對方也就無可奈何了。
+
+這就叫真正的力量。",#放下 #智慧 #定力,https://dls06783.github.io/upshan-posters/071_A5_bronze_patina_violet.png
+2026-07-06,堅如磐石不為風動搖，智者不為褒貶所動。,堅如磐石不被風動搖，智者不被褒貶所搖。外在的讚美和批評，都是幻覺。見不得真人。,#定力 #智慧 #修行,https://dls06783.github.io/upshan-posters/072_A6_white_jade_sienna.png
+2026-07-07,我教非定法，乃一方向；既無定規，亦無體系。,"我教的不是固定的法則，而是一個方向。既沒有定規也沒有體系，因為每個人的路都不一樣。
+
+所以別依賴，要自覺。",#修行 #自覺 #自由,https://dls06783.github.io/upshan-posters/073_C3_lotus_hand_jade.png
+2026-07-08,舌頭像一把鋒利的刀，殺人不見血。,"舌頭像刀，殺人不見血
+
+言語一出便無法收回。年紀越大越懂得，每一句話都在塑造別人眼中的你，也在塑造你靈魂的樣貌。商人最重的功課，不是談判技巧，而是言語的修養。你今天說過什麼話？有沒有必要說？",#言語 #修行 #禪意,https://dls06783.github.io/upshan-posters/074_C4_dhyana_hand_terracotta.png
+2026-07-09,我就是奇蹟。,"我就是奇蹟
+
+不必向遠方求。此刻呼吸的你，已是完整的、值得的。你本身就是一場奇蹟。何須再向世界證明什麼？放下對自己的評判，你才能真正活著。",#覺悟 #當下 #靜心,https://dls06783.github.io/upshan-posters/075_E1_monument_below_gold.png
+2026-07-10,我們說的每句話都應謹慎選擇，因為人們會聽到並受其影響，無論好壞。,"每句話都在塑造世界
+
+人言似輕，卻足以改變人生路向。你說的話在對方心中留下永遠的痕跡。商家更須謹言慎行。今天說的每句話，是否值得被記住？是否配得上你的名字？",#言語 #影響力 #修行,https://dls06783.github.io/upshan-posters/076_E2_wall_grid_crimson.png
+2026-07-11,只要心中存有怨恨的念頭，憤怒就不會消失；一旦放下怨恨，憤怒便會消散。,"只要放下怨恨，憤怒便會消散
+
+心念一轉，百般皆異。不是對方改了，是你放下了。當那怨恨鬆開的瞬間，世界突然變亮。這就是修行的奇蹟。",#修心 #放下 #靜心,https://dls06783.github.io/upshan-posters/077_C4_dhyana_hand_blush.png
+2026-07-12,你得到的東西不要高估，也不要嫉妒別人。心懷嫉妒者不會得到平靜。,"不比較，心自安
+
+嫉妒是最大的盜賊，它偷走你對已有的感謝。看著別人豐盛而焦灼的人，永遠得不到平靜。那不平靜本身，就是懲罰。你還在和誰比較？",#知足 #心安 #修行,https://dls06783.github.io/upshan-posters/078_D2_incense_smoke_moss.png
+2026-07-13,沒有通往幸福的道路。幸福就是道路。,"沒有通往幸福的道路，幸福就是道路
+
+何必東奔西走尋找幸福。此刻每一步，若你願意看見，都能是喜悅。路已在腳下，問題只是你的眼光。",#幸福 #當下 #禪意,https://dls06783.github.io/upshan-posters/079_C1_beads_hand_teal.png
+2026-07-14,生活如此艱難，我們豈能不慈悲？,"生活如此艱難，我們豈能不慈悲
+
+看見他人的難，便是修行的開始。你的成功，有多少是因為有人曾在困頓時伸手？這份債，要還。這份恩，要記。",#慈悲 #關係 #修行,https://dls06783.github.io/upshan-posters/080_C3_lotus_hand_navy.png
+2026-07-15,充分地對待每一個行為，就好像它是你最後的一次。,"充分地對待每一個行為，如同最後一次
+
+認真對待每一刻。這不是杞人憂天，而是對生命的最高敬重。無論再小的事，都在塑造你成為什麼樣的人。",#修行 #正念 #當下,https://dls06783.github.io/upshan-posters/081_E1_monument_below_sienna.png
+2026-07-16,懶惰是一條死路，勤奮是一條活路。愚蠢的人懶惰，聰明的人勤奮。,"懶惰是死路，勤奮是活路
+
+聰慧的人明白：精進不是他人要求，而是對自己的誠實。看看身邊的人，是選了死路還是活路？區別就在每日的選擇。你呢？",#事業 #精進 #修行,https://dls06783.github.io/upshan-posters/082_A1_frontal_jade.png
+2026-07-17,打坐，莫再耽擱，免得日後後悔。,"打坐莫再耽擱，免得日後後悔
+
+每一天的延後都是心靈的逃避。靜坐五分鐘勝過一天焦慮。不如，今日便開始。明天永遠不會來。",#禪修 #靜心 #正念,https://dls06783.github.io/upshan-posters/083_D4_lotus_pond_terracotta.png
+2026-07-18,做自己的燈，做自己的歸處，不要尋求其他。一切都必將過去，努力奮鬥，不要放棄。,"做自己的燈，做自己的歸處
+
+不必外求。內心那盞燈，從未熄滅。一切都將過去，努力奮鬥，不要放棄。你就是自己的救贖。",#覺悟 #力量 #當下,https://dls06783.github.io/upshan-posters/084_C1_beads_hand_gold.png
+2026-07-19,心不為變幻莫測的命運所擾，擺脫悲傷、煩惱與恐懼——這是最大的加持。,"心不為變幻莫測的命運所擾
+
+懼怕與控制都源於不放下。放下的那刻，便是最大的加持。擺脫悲傷、煩惱、恐懼，心才能自在。",#心安 #修行 #放下,https://dls06783.github.io/upshan-posters/085_A1_frontal_crimson.png
+2026-07-20,一切都要中道，包括中道。,"一切都要中道，包括中道
+
+連執著中道都不可。生活的藝術，正在於此。不走極端，也不執著於不走極端。領悟才開始。",#智慧 #禪意 #修行,https://dls06783.github.io/upshan-posters/086_C4_dhyana_hand_blush.png
+2026-07-21,一切以心為基礎，由心引導，由心塑造。若你言行帶著污濁的心，痛苦便會跟隨你，就像牛車車輪跟著牛的腳步一樣。,"一切以心為基礎，由心引導，由心塑造
+
+若言行帶著污濁的心，痛苦便跟隨你，如牛車車輪跟著牛的腳步。清淨的心，迎來清淨的世界。這是因果。",#心安 #因果 #修行,https://dls06783.github.io/upshan-posters/087_E1_monument_below_moss.png
+2026-07-22,人人懼怕暴力，人人懼怕死亡。以己所不欲勿施於人，不應殺人，也不應教人殺人。,"人人懼怕暴力和死亡
+
+但非所有人都能克制傷害他人的衝動。以己所不欲勿施於人。這是最古老的修養，也是最難的修養。",#慈悲 #修養 #修行,https://dls06783.github.io/upshan-posters/088_D4_lotus_pond_teal.png
+2026-07-23,沒有什麼比懷疑的習慣更可怕。懷疑將人們分開，是瓦解友誼、破壞關係的毒藥；是刺傷人的刺，是殺人的劍。,"沒有什麼比懷疑的習慣更可怕
+
+它分裂關係，毀滅信任，是瓦解友誼的毒藥。商人若陷於懷疑，便已失去方向和人脈。信任是一切的基礎。",#信任 #關係 #修行,https://dls06783.github.io/upshan-posters/089_B2_south_love_navy.png
+2026-07-24,在我們動怒的一刻，我們已不再為真理而奮鬥，而是開始為自己而奮鬥。,"動怒時，已失真理
+
+一旦為自己而戰，便不再為真理而戰。這一刻起，真理最先被吹熄。修行的關鍵，就在識破這一刻。",#修心 #靜心 #覺悟,https://dls06783.github.io/upshan-posters/090_C4_dhyana_hand_violet.png
+2026-07-25,火莫熾於貪愛，獸莫猛於瞋恨，網莫密於愚痴，流莫急於貪婪。,"火莫熾於貪愛，獸莫猛於瞋恨
+
+愚痴如網，貪婪如流。三毒如火，熾烈難熄。唯有靜坐，才能看清其本質都是虛妄。",#修行 #禪修 #放下,https://dls06783.github.io/upshan-posters/091_D3_garland_offering_jade.png
+2026-07-26,別人的過錯容易看見，自己的過錯卻難見。人之過錯就像風中的糠秕，但隱藏自己的過錯，卻像狡猾的賭徒藏起骰子一樣。,"別人的過錯容易看見，自己的過錯卻難見
+
+常看人缺點的人，其實在逃避自己的不足。沒有時間檢討自己，因為太忙著評判他人。你呢？",#修心 #反省 #智慧,https://dls06783.github.io/upshan-posters/092_B1_east_career_terracotta.png
+2026-07-27,沒有什麼是永恆的，除了變化。,"沒有什麼是永恆的，除了變化
+
+執著於不變，便與世界為敵。唯有流動，才是生命的本質。來去自如，你才能夠自在。",#無常 #放下 #禪意,https://dls06783.github.io/upshan-posters/093_E1_monument_below_gold.png
+2026-07-28,觀河流可知：小渠喧嘩，大河靜默；未滿者喧，盈滿者靜。,"觀河流可知：小渠喧嘩，大河靜默
+
+未滿者喧，盈滿者靜。你是哪一種？滿足的人安靜，空乏的人喧囂。境界在於此。",#智慧 #知足 #修行,https://dls06783.github.io/upshan-posters/094_D2_incense_smoke_crimson.png
+2026-07-29,如果一個人以純淨的心說話或行動，幸福便如影隨形，永不離開。,"如果一個人以純淨的心說話或行動
+
+幸福便如影隨形，永不離開。言語若出自清淨之心，世界便無法拒絕回應幸福。",#慈悲 #言語 #因果,https://dls06783.github.io/upshan-posters/095_E1_monument_below_blush.png
+2026-07-30,戰勝自己的人，遠比戰勝千人的英雄更偉大。,"戰勝自己的人，遠比戰勝千人的英雄更偉大
+
+最大的敵人不在他人，在鏡子裡。戰勝它，你就戰勝了整個世界。",#修行 #力量 #覺悟,https://dls06783.github.io/upshan-posters/096_A6_white_jade_moss.png
+2026-07-31,如果我們能看清一朵花的奇蹟，我們的整個人生都會改變。,"如果我們能看清一朵花的奇蹟
+
+我們的整個人生都會改變。看不見日常的美，眼光便永遠停留在匱乏。",#正念 #當下 #禪意,https://dls06783.github.io/upshan-posters/097_A1_frontal_teal.png
+2026-08-01,最好的禮物，是將心中所悟，慷慨分享。,"最好的禮物，是將心中所悟慷慨分享
+
+比起物質，心的智慧更能滋養人。你今天與誰分享了你的領悟？",#布施 #分享 #修行,https://dls06783.github.io/upshan-posters/098_A5_bronze_patina_navy.png
+2026-08-02,願胸懷眾生，容天地萬有。,"願胸懷眾生，容天地萬有
+
+容納天地，慈悲便油然而生。商人的格局，源於此。格局決定視野，視野決定一切。",#慈悲 #修行 #修心,https://dls06783.github.io/upshan-posters/099_D3_garland_offering_violet.png
+2026-08-03,墮入惡道者，非仇敵所害，乃自心所引。,"墮入惡道者，非仇敵所害，乃自心所引
+
+不責怪對手，反躬自問：我的心念如何？這是最高的修養。",#因果 #修心 #覺悟,https://dls06783.github.io/upshan-posters/100_B1_east_career_sienna.png
+2026-08-04,守言行、節飲食、養心求覺、依法自律——此乃覺者之簡教。,"守言行、節飲食、養心求覺、依法自律
+
+此乃覺者之簡教。四樣足矣。不必複雜，簡樸反而最接近真理。",#修行 #戒律 #正念,https://dls06783.github.io/upshan-posters/101_C3_lotus_hand_terracotta.png
+2026-08-05,人生四季，寒暑交替，靜心體味生活的悲與喜，笑看起起落落。,"人生四季，寒暑交替
+
+靜心體味生活的悲與喜，笑看起起落落。這是修行，不是逃避，而是坦然面對。",#無常 #修行 #心安,https://dls06783.github.io/upshan-posters/102_D2_incense_smoke_gold.png
+2026-08-06,希望人際關係好，就要把心量放大，多接納人，多包容人。,"希望人際關係好，就要把心量放大
+
+多接納人，多包容人。接納多一分，衝突就少一分。這是領導者的必修課。",#關係 #慈悲 #修心,https://dls06783.github.io/upshan-posters/103_D3_garland_offering_crimson.png
+2026-08-07,佛說：人生有八苦：生，老，病，死，愛別離，怨長久，求不得，放不下。,"佛說：人生有八苦
+
+生、老、病、死、愛別離、怨長久、求不得、放不下。既然無可逃，為何不坦然相迎？",#無常 #修行 #覺悟,https://dls06783.github.io/upshan-posters/104_D4_lotus_pond_blush.png
+2026-08-08,只要自己的心態改變，環境也會跟着改變，世界上沒有絕對的好與壞。,"只要自己的心態改變，環境也會跟著改變
+
+世界上沒有絕對的好與壞，只看你用什麼眼光看。境界一轉，萬物皆新。",#修心 #因果 #覺悟,https://dls06783.github.io/upshan-posters/105_E1_monument_below_moss.png
+2026-08-09,"佛陀說：""人的生命，只在呼吸之間。""生命是如此的短暫，所以應該好好珍惜，思考人生的真正意義是什麼。","佛陀說：人的生命，只在呼吸之間
+
+此刻呼吸，便已奇蹟。生命如此短暫，應該好好珍惜，思考人生的真正意義。",#當下 #正念 #修行,https://dls06783.github.io/upshan-posters/106_A4_stone_ancient_teal.png
+2026-08-10,一憂一喜皆心火，一榮一枯皆眼塵，靜心看透炎涼事，千古不做夢裡人。,"一憂一喜皆心火，一榮一枯皆眼塵
+
+靜心看透炎涼事，千古不做夢裡人。一旦看破虛幻，便能自在。",#覺悟 #靜心 #修行,https://dls06783.github.io/upshan-posters/107_A1_frontal_navy.png
+2026-08-11,身是菩提樹，心爲明鏡臺。時時勤拂拭，勿使惹塵埃！,"身是菩提樹，心為明鏡臺
+
+時時勤拂拭，勿使惹塵埃。修行就是這麼簡單，每天擦一次，光就回來了。",#修行 #正念 #靜心,https://dls06783.github.io/upshan-posters/108_D4_lotus_pond_violet.png
+2026-08-12,佛菩薩只保佑那些肯幫助自己的人。,"佛菩薩只保佑那些肯幫助自己的人
+
+命運垂青的不是被動者，而是主動者。你在等誰來救你？",#力量 #修行 #因果,https://dls06783.github.io/upshan-posters/109_A1_frontal_sienna.png
+2026-08-13,廣結衆緣，就是不要去傷害任何一個人。,"廣結眾緣，就是不要去傷害任何一個人
+
+商人的人脈，從不傷害開始。簡單的道理，難的是堅持。",#關係 #慈悲 #修行,https://dls06783.github.io/upshan-posters/110_A6_white_jade_jade.png
+2026-08-14,未成佛果，先結善緣。,"未成佛果，先結善緣
+
+種子要發芽，先得播在好土壤裡。你在為未來種什麼因？",#修行 #因果 #慈悲,https://dls06783.github.io/upshan-posters/111_E1_monument_below_gold.png
+2026-08-15,相信自己，一路風景一路歌，人生之美，正在於此。,"相信自己，一路風景一路歌
+
+人生之美，正在於勇敢走自己的路。不必看別人，看見自己。",#覺悟 #當下 #心安,https://dls06783.github.io/upshan-posters/112_A1_frontal_crimson.png
+2026-08-16,心善，事事皆善；心美，事事皆美。,"心善，事事皆善；心美，事事皆美
+
+心念是萬物之源。修心就是修一切。修心成功，餘皆順水推舟。",#修心 #因果 #修行,https://dls06783.github.io/upshan-posters/113_A5_bronze_patina_blush.png
+2026-08-17,人之所以痛苦，在於追求錯誤的東西。如果你不給自己煩惱，別人不會給你煩惱，皆因自己的內心放不下那些無窮的欲望。,"人之所以痛苦，在於追求錯誤的東西
+
+煩惱不是他人給的，是你放不下的欲望。若你不給自己煩惱，別人也無法給你。",#修心 #放下 #智慧,https://dls06783.github.io/upshan-posters/114_A5_bronze_patina_moss.png
+2026-08-18,擁有一顆無私的愛心，便擁有了一切。,"擁有一顆無私的愛心，便擁有了一切
+
+失去它，再多也是空。這是最大的財富，也是最容易被忽視的。",#慈悲 #修行 #財富,https://dls06783.github.io/upshan-posters/115_D3_garland_offering_teal.png
+2026-08-19,佛說：淨心守志，可會至道，譬如磨鏡，垢去明存，斷欲無求，當得宿命。,"佛說：淨心守志，可會至道
+
+譬如磨鏡，垢去明存。修行如同磨鏡，一點一點，光就回來了。",#修行 #覺悟 #正念,https://dls06783.github.io/upshan-posters/116_B1_east_career_navy.png
+2026-08-20,來是偶然的，走是必然的。所以你必須，隨緣不變，不變隨緣。,"來是偶然的，走是必然的
+
+所以你必須隨緣不變，不變隨緣。生命的中道，在於此。",#無常 #修行 #禪意,https://dls06783.github.io/upshan-posters/117_A1_frontal_violet.png
+2026-08-21,法本法無法，無法法亦法。今付無法時，法法何曾法。令一切衆生生歡喜者，則令一切如來歡喜。,"法本法無法，無法法亦法
+
+一旦執著於某一法，便已離道遠了。究竟的智慧，在於此超越。",#智慧 #修行 #覺悟,https://dls06783.github.io/upshan-posters/118_C4_dhyana_hand_sienna.png
+2026-08-22,心是最大的騙子，別人能騙你時，而它卻會騙你一輩子。,"心是最大的騙子
+
+別人能騙你時，而它卻會騙你一輩子。唯有靜觀，方能識破其本質。",#修心 #靜心 #覺悟,https://dls06783.github.io/upshan-posters/119_A5_bronze_patina_jade.png
+2026-08-23,佛說：一花一世界，一草一天堂，一葉一如來，一砂一極樂，一方一淨土，一笑一塵緣，一念一清淨。,"佛說：一花一世界，一草一天堂
+
+禪在每一個當下。看見了，人生便全然改變。你今天看見什麼了？",#禪意 #當下 #覺悟,https://dls06783.github.io/upshan-posters/120_A2_threequarter_terracotta.png
+2026-08-24,修行是修正自己錯誤的觀念。,"修行是修正自己錯誤的觀念
+
+不是逃避生活，而是改變看待生活的方式。在生活之中醒過來。",#修行 #智慧 #覺悟,https://dls06783.github.io/upshan-posters/121_C4_dhyana_hand_crimson.png
+2026-08-25,修行要有耐性，要能甘於淡泊，樂於寂寞。,"修行要有耐性，要能甘於淡泊，樂於寂寞
+
+捨不得獨處的人，永遠修不到家。寂寞不是懲罰，是邀請你回到自己。",#修行 #靜心 #正念,https://dls06783.github.io/upshan-posters/122_D2_incense_smoke_blush.png
+2026-08-26,醫生難醫命終之人，佛陀難渡無緣的衆生。,"醫生難醫命終之人，佛陀難渡無緣的眾生
+
+該救的是誰，其實早已註定。機緣不到，再多努力也是徒勞。",#修行 #覺悟 #因果,https://dls06783.github.io/upshan-posters/123_D1_erawan_night_moss.png
+2026-08-27,與其說是別人讓你痛苦，不如說自己的修養不夠。,"與其說是別人讓你痛苦，不如說自己的修養不夠
+
+轉念一刻，便知真相。這是最謙卑的修行。",#修心 #覺悟 #修行,https://dls06783.github.io/upshan-posters/124_D4_lotus_pond_teal.png
+2026-08-28,無明實性即佛性，幻化空身即法身。,"無明實性即佛性，幻化空身即法身
+
+迷與悟，只在一念。就這一念之差。",#覺悟 #禪意 #修行,https://dls06783.github.io/upshan-posters/125_C3_lotus_hand_navy.png
+2026-08-29,不寬恕衆生，不原諒衆生，是苦了你自己。,"不寬恕眾生，不原諒眾生，是苦了你自己
+
+怨恨是自己喝下的毒酒，卻期待別人也喝。放下它。",#修心 #放下 #心安,https://dls06783.github.io/upshan-posters/126_A6_white_jade_violet.png
+2026-08-30,心若簡單，生活就簡單；心若複雜，生活就充滿痛苦。,"心若簡單，生活就簡單；心若複雜，生活就充滿痛苦
+
+商人最大的敵人，是自己的複雜。簡樸，其實是最高的智慧。",#修心 #心安 #修行,https://dls06783.github.io/upshan-posters/127_A1_frontal_sienna.png
+2026-08-31,清珠投於濁水，濁水不得不清。佛號放入亂心，亂心不得不佛。,"清珠投於濁水，濁水不得不清
+
+佛號放入亂心，亂心不得不佛。一切靠心念，善念如寶珠，轉化一切。",#修行 #因果 #正念,https://dls06783.github.io/upshan-posters/128_A2_threequarter_jade.png
+2026-09-01,不要因爲小小的爭執，遠離了你至親的好友，也不要因爲小小的怨恨，忘記了別人的大恩。,"不要因為小小的爭執，遠離了你至親的好友
+
+也不要因為小小的怨恨，忘記了別人的大恩。修行在細處。",#關係 #修行 #慈悲,https://dls06783.github.io/upshan-posters/129_E1_monument_below_terracotta.png
+2026-09-02,勇於接受別人的批評，正好可以調整自己的缺點。,"勇於接受別人的批評
+
+正好可以調整自己的缺點。缺點被看見，才有改正的機會。",#修行 #智慧 #修心,https://dls06783.github.io/upshan-posters/130_E2_wall_grid_gold.png
+2026-09-03,感謝上蒼我所擁有的，感謝上蒼我所沒有的。,"感謝上蒼我所擁有的，感謝上蒼我所沒有的
+
+知足的人，看見的盡是祝福。不知足的人，看見的盡是遺憾。",#知足 #心安 #修行,https://dls06783.github.io/upshan-posters/131_C2_wheel_hand_blush.png
+2026-09-04,凡是能站在別人的角度爲他人着想，這個就是慈悲。,"凡是能站在別人的角度為他人著想，這就是慈悲
+
+商人若懂此道理，人脈自來，生意自來。格局決定一切。",#慈悲 #關係 #修行,https://dls06783.github.io/upshan-posters/132_C3_lotus_hand_moss.png
+2026-09-05,學佛不是對死亡的一種寄託，而是當下就活得自在和超越。,"學佛不是對死亡的一種寄託
+
+而是當下就活得自在和超越。解脫不在來世，在此刻。",#修行 #覺悟 #當下,https://dls06783.github.io/upshan-posters/133_B4_north_health_teal.png
+2026-09-06,佛陀從不勉強別人去做他不喜歡的事情，佛陀只是告訴衆生，何者是善？何者是惡？善惡還是要自己去選擇，生命還是要自己去掌握。,"佛陀從不勉強別人去做他不喜歡的事
+
+佛陀只是告訴眾生：何者是善？何者是惡？選擇權在你手中。",#修行 #力量 #覺悟,https://dls06783.github.io/upshan-posters/134_C1_beads_hand_navy.png
+2026-09-07,所謂的放下，就是去除你的分別心、是非心、得失心、執著心。,"所謂的放下，就是去除你的分別心、是非心、得失心
+
+放下不是失去，是終於不必用力。當心空了，世界就滿了。",#修行 #放下 #靜心,https://dls06783.github.io/upshan-posters/135_E1_monument_below_violet.png
+2026-09-08,一個常常看別人缺點的人，自己本身就不夠好，因爲他沒有時間檢討他自己。,"一個常常看別人缺點的人，自己本身就不夠好
+
+因為他沒有時間檢討自己。他在逃避。",#修心 #智慧 #反省,https://dls06783.github.io/upshan-posters/136_D4_lotus_pond_sienna.png
+2026-09-09,了解永恆真理的人，就不會爲任何的生離死別而哀傷悲泣，因爲生離死別是必然的。,"了解永恆真理的人，就不會為生離死別而哀傷
+
+因為生離死別是必然的。既然是必然，為何不坦然相迎？",#無常 #修行 #智慧,https://dls06783.github.io/upshan-posters/137_C3_lotus_hand_jade.png
+2026-09-10,若能一切隨他去，便是世間自在人。,"若能一切隨他去，便是世間自在人
+
+自在從放手開始。你還在握著什麼？",#修行 #放下 #心安,https://dls06783.github.io/upshan-posters/138_A6_white_jade_terracotta.png
+2026-09-11,是非天天有，不聽自然無，是非天天有，不聽還是有，是非天天有，看你怎麼辦？,"是非天天有，不聽自然無
+
+但這是懶惰的做法。真正的智慧，是不回應，既不辯解，如如不動。",#修心 #靜心 #修行,https://dls06783.github.io/upshan-posters/139_A1_frontal_gold.png
+2026-09-12,真正的布施，就是把你的煩惱、憂慮、分別和執著心通通放下。,"真正的布施，就是把你的煩惱、憂慮、分別和執著心放下
+
+捨去的不是東西，是心中的執著。當心空了，世界就滿了。",#修行 #布施 #修心,https://dls06783.github.io/upshan-posters/140_D3_garland_offering_crimson.png
+2026-09-13,如果你真的愛他，那麼你必須容忍他部分的缺點。,"如果你真的愛他，那麼你必須容忍他部分的缺點
+
+完美的愛存在於接納的那一刻。沒有接納的愛，只是佔有。",#慈悲 #關係 #修行,https://dls06783.github.io/upshan-posters/141_B2_south_love_moss.png
+2026-09-14,希望你常對自己說，聞到了佛法，我是最幸福的人，除了這幸福外，再沒有別的了。,"希望你常對自己說：聞到了佛法，我是最幸福的人
+
+這不是自滿，這是覺悟帶來的喜悅。除了這幸福外，再沒有別的了。",#修行 #心安 #覺悟,https://dls06783.github.io/upshan-posters/142_C4_dhyana_hand_teal.png
+2026-09-15,因果不曾虧欠過我們什麼，所以請不要抱怨。,"因果不曾虧欠過我們什麼，所以請不要抱怨
+
+所有發生都有其道理。唯有明白，才能超越。",#因果 #修行 #覺悟,https://dls06783.github.io/upshan-posters/143_A5_bronze_patina_navy.png
+2026-09-16,要克服對死亡的恐懼，你必須要接受世上所有的人，都會死去的觀念。,"要克服對死亡的恐懼，你必須要接受世上所有的人都會死去
+
+不是消極，而是最大的解脫。從此刻起，放下對永恆的執著。",#無常 #修行 #覺悟,https://dls06783.github.io/upshan-posters/144_D4_lotus_pond_violet.png
+2026-09-17,所有的病患，醫生最難治，所有的衆生，自以爲是的人最難渡。,"所有的病患醫生最難治，所有的眾生自以為是的人最難渡
+
+那些認為自己沒病的人，醫生最無奈。自以為覺悟的人，佛陀最難渡。",#智慧 #修行 #覺悟,https://dls06783.github.io/upshan-posters/145_B4_north_health_sienna.png
+2026-09-18,一匹驢，喫再好的草，也不會成爲一匹俊馬。用執著和分別心去修行，再大的精進，也不會成佛。,"一匹驢，吃再好的草，也不會成為一匹俊馬
+
+用執著和分別心去修行，再大的精進，也不會成佛。放下執著心，才是真精進。",#修行 #放下 #覺悟,https://dls06783.github.io/upshan-posters/146_B1_east_career_jade.png
+2026-09-19,修心當以淨心爲要，修道當以無我爲基。過去事，過去心，不可記得；現在事，現在心，隨緣即可；未來事，未來心，何必勞心。,"修心當以淨心為要。過去已去，現在隨緣，未來何須預憂？
+
+一念清明，三時皆安。商家最怕的，往往是心中的雜念——執著過去的虧損，貪戀未來的收益。唯有靜心當下，才能做出最智慧的決策。
+
+淨心修行，從今日開始。
+#修行 #正念 #心安 #淨心 #當下",#修行 #正念 #心安 #淨心 #當下,https://dls06783.github.io/upshan-posters/147_A3_arms_detail_terracotta.png
+2026-09-20,幸福，不是收穫的多，而是抱怨的少。於人不苛求，遇事不抱怨。只有善於駕馭自己情緒和心態的人，才能獲得平靜，感受到幸福的味道。,"幸福不是收穫多，而是抱怨少。
+
+於人無求，於事無怨——一個會管理情緒的人，早已走贏了大多數。不是因為運氣好，而是心態好。
+
+你的幸福密碼，就藏在每一個放下的時刻。
+#幸福 #心態 #修行 #無怨 #從容",#幸福 #心態 #修行 #無怨 #從容,https://dls06783.github.io/upshan-posters/148_B1_east_career_gold.png
+2026-09-21,人與人之間的很多矛盾都是從傲慢中來的；都覺得自己比別人更高明，比別人更有見識，比別人更正確，於是相互輕視，矛盾也就逐漸生起了。,"人與人的矛盾，多源於傲慢。
+
+總覺得自己更聰慧、更正確，於是相互輕視。佛說：「傲慢是最隱形的障礙。」你越想贏，反而越容易輸。
+
+修行第一課，就是放下「我比你強」這個念頭。
+#慈悲 #謙卑 #智慧 #人際 #放下",#慈悲 #謙卑 #智慧 #人際 #放下,https://dls06783.github.io/upshan-posters/149_C3_lotus_hand_crimson.png
+2026-09-22,生活磨礪了人生，這一路走來，學會了接受。,"生活磨礪了人生，終究學會了接受。
+
+不是認命，而是明白：有些事情，無法改變；但改變自己的看法，一切就都變了。
+
+接納生活的不完美，反而是找到幸福的起點。
+#無常 #接納 #智慧 #心安 #修行",#無常 #接納 #智慧 #心安 #修行,https://dls06783.github.io/upshan-posters/150_E1_monument_below_blush.png
+2026-09-23,佛說：忘記並不等於從未存在，一切自在來源於選擇，而不是刻意。不如放手，放下的越多，越覺得擁有的更多。,"放下不等於放棄，而是選擇不再執著。
+
+那些越放不下的，越無法擁有。鬆開拳頭，反而握住了整個世界。有些事物，只有在你願意失去時，你才真正懂得珍惜。
+
+放下，是為了擁有更多。
+#放下 #執著 #無我 #智慧 #覺悟",#放下 #執著 #無我 #智慧 #覺悟,https://dls06783.github.io/upshan-posters/151_C2_wheel_hand_teal.png
+2026-09-24,活着的氣度則是要剛柔並濟，胸中有天地。要堅韌不拔，頑強不屈。要傲骨俠腸，正直勇敢。,"活著的氣度：剛柔並濟，胸中有天地。要堅韌不拔，但也要懂得退讓；要正直勇敢，但也要溫柔體貼。
+
+一個人的格局，決定了他的人生高度。商家尤其要懂：硬碰硬只會兩敗俱傷，唯有柔中帶剛，才是長久之策。
+
+你的氣度，就是你的品牌。
+#氣度 #修行 #人生 #格局 #智慧",#氣度 #修行 #人生 #格局 #智慧,https://dls06783.github.io/upshan-posters/152_A2_threequarter_navy.png
+2026-09-25,別人永遠對，我永遠錯，這樣子比較沒煩惱。,"別人永遠對，我永遠錯，反而沒有煩惱。
+
+這不是懦弱，是一種大智若愚的修行。放下非要贏的執念，世間少了很多怨恨。
+
+真正的勝利，是心中的平靜。
+#無我 #平靜 #智慧 #放下 #修行",#無我 #平靜 #智慧 #放下 #修行,https://dls06783.github.io/upshan-posters/153_E1_monument_below_violet.png
+2026-09-26,你不必和因果爭吵，因果從來就不會誤人。你也不必和命運爭吵，命運它是最公平的審判官。,"因果從不誤人，命運最公平。你與其和因果爭吵，不如信任它的公正。
+
+當下所受，皆是前因；今日所為，皆是來果。唯有相信，才能放心去做該做的事。
+
+不抗爭，反而找到了力量。
+#因果 #命運 #信念 #修行 #無常",#因果 #命運 #信念 #修行 #無常,https://dls06783.github.io/upshan-posters/154_E2_wall_grid_sienna.png
+2026-09-27,你有你的生命觀，我有我的生命觀，我不幹涉你。只要我能，我就感化你。如果不能，那我就認命。,"你有你的生命觀，我有我的觀點，我不干涉。只要我能，我便感化你；若不能，我就認命。
+
+真正的寬容，是允許他人與自己不同。不是妥協，而是尊重。
+
+這樣的人，往往最有感染力。
+#慈悲 #尊重 #寬容 #智慧 #人際",#慈悲 #尊重 #寬容 #智慧 #人際,https://dls06783.github.io/upshan-posters/155_D1_erawan_night_jade.png
+2026-09-28,學會把自己的心態放低放平，多看自己的缺點，多看別人的優點，讓傲慢的心變得謙虛恭敬，這樣您所處的環境自然就融洽了。,"把心態放低放平，多看自己的缺點，多看他人的優點。傲慢化為謙虛，環境自然融洽。
+
+一個懂得欣賞他人的人，永遠不缺機會和朋友。
+
+謙卑，是最高級的自信。
+#謙卑 #修行 #人際 #智慧 #成長",#謙卑 #修行 #人際 #智慧 #成長,https://dls06783.github.io/upshan-posters/156_A6_white_jade_terracotta.png
+2026-09-29,如果抱怨成習慣，心靈就像上了枷鎖，沒有一刻解脫。唯有放下抱怨，才能體會到生命的自在與幸福。,"抱怨成習慣，心靈上了枷鎖，永無解脫。唯有放下抱怨，才能體會生命的自在與幸福。
+
+停止指責外在，開始反觀內在——這一念之轉，就是解脫的開始。
+
+自由，始於你放下抱怨的那刻。
+#放下 #自由 #心安 #修行 #無常",#放下 #自由 #心安 #修行 #無常,https://dls06783.github.io/upshan-posters/157_B4_north_health_gold.png
+2026-09-30,生而爲人，活着，活出風度，風採，風格。這些皆爲外表，而氣度則是內涵，是質地，是根本。,"生而為人，活出風度、風采、風格——這些是外表；但氣度才是內涵、是質地、是根本。
+
+一個人的氣度，比他的長相值錢得多。
+
+修行最後的功課，就是修出這份氣度。
+#氣度 #修行 #人生 #品德 #智慧",#氣度 #修行 #人生 #品德 #智慧,https://dls06783.github.io/upshan-posters/158_A2_threequarter_crimson.png
+2026-10-01,人，只要擁有微笑，就能夠豁達樂觀地活着；人，只要時刻保持微笑，就能夠在漫漫人生道路上擁有一張永久的通行證。,"只要擁有微笑，就能豁達樂觀地活著；時刻保持微笑，漫漫人生路上便有一張永久的通行證。
+
+微笑不是掩飾，而是一種看透後的溫柔。
+
+你的笑容，就是你的修行成果。
+#微笑 #樂觀 #修行 #心安 #智慧",#微笑 #樂觀 #修行 #心安 #智慧,https://dls06783.github.io/upshan-posters/159_C1_beads_hand_blush.png
+2026-10-02,夢想是一個幸福的念想，想着想着就快樂了，它執着地立在那裡，是生活的一個界標，代表着活力與向上。,"夢想是幸福的念想，想著想著就快樂了。它執著地立在那裡，是生活的界標，代表著活力與向上。
+
+沒有夢想的人生，就像沒有燈塔的航海——容易迷失。但夢想也不是幻想，需要每日一點一滴的精進。
+
+夢想，是修行的方向。
+#夢想 #精進 #修行 #正念 #事業",#夢想 #精進 #修行 #正念 #事業,https://dls06783.github.io/upshan-posters/160_A2_threequarter_moss.png
+2026-10-03,不要常常覺得自己很不幸，世界上比我們痛苦的人還要多。,"不要常覺得自己不幸，世界上比你痛苦的人還很多。
+
+一念感恩，世界就不同。與其沉溺於自己的不幸，不如看看他人的堅強——你會發現，自己的困難其實不值一提。
+
+感恩，是改變人生的鑰匙。
+#感恩 #心態 #修行 #無常 #智慧",#感恩 #心態 #修行 #無常 #智慧,https://dls06783.github.io/upshan-posters/161_C3_lotus_hand_navy.png
+2026-10-04,愚癡的人，一直想要別人了解他。有智慧的人，卻努力的了解自己。,"愚癡的人一直想要別人了解他，有智慧的人卻努力了解自己。
+
+與其向外求理解，不如向內求真理。你越了解自己，就越能和他人和諧共處。
+
+自知，是一切智慧的開始。
+#智慧 #自知 #修行 #覺悟 #成長",#智慧 #自知 #修行 #覺悟 #成長,https://dls06783.github.io/upshan-posters/162_A1_frontal_violet.png
+2026-10-05,活着的氣度是昂首挺胸，獨立寒冬，面對漫天大雪，而巍然不動的英雄豪情，是酷暑三伏，雷雨交加，坐於書房，面不改色，揮筆題書的那份悠然寧靜。,"活著的氣度：昂首挺胸，獨立寒冬；面對大雪巍然不動，這是英雄豪情。又或是酷暑三伏，坐於書房，面不改色，揮筆題書的那份悠然寧靜。
+
+氣度，就是在逆境中仍能保持內心的澄明。
+
+你的氣度，決定你的命運。
+#氣度 #修行 #智慧 #品德 #境界",#氣度 #修行 #智慧 #品德 #境界,https://dls06783.github.io/upshan-posters/163_D4_lotus_pond_sienna.png
+2026-10-06,如果你自己明明對，別人硬說你不對，你也要向人懺悔，修行就是修這些。你什麼事都能忍下來，才會進步。就是明明是你對，你也要向他人求懺悔，那就是修行了。,"明明是你對，別人硬說你不對，你也要向人懺悔——這就是修行。能忍得下來，才會進步。
+
+這不是退縮，而是放下「我執」。一個人越執著於「我是對的」，越無法成長。
+
+修行的最高境界，就是無我。
+#修行 #無我 #忍辱 #成長 #智慧",#修行 #無我 #忍辱 #成長 #智慧,https://dls06783.github.io/upshan-posters/164_B1_east_career_jade.png
+2026-10-07,隨緣不是得過且過，因循苟且，而是盡人事聽天命。,"隨緣不是得過且過，而是盡人事聽天命。你努力去做該做的事，但結果就交給因果吧。
+
+許多人搞反了：以為隨緣就是不努力，其實隨緣的前提是先把努力做滿。
+
+努力無悔，隨緣無憾。
+#隨緣 #修行 #精進 #因果 #智慧",#隨緣 #修行 #精進 #因果 #智慧,https://dls06783.github.io/upshan-posters/165_E1_monument_below_terracotta.png
+2026-10-08,默默的關懷與祝福別人，那是一種無形的布施。,"默默關懷與祝福他人，那是一種無形的布施。
+
+不必掛在嘴上，行動才是最深的表達。一句溫暖的內心祝福，往往勝過一百句漂亮話。
+
+布施，始於一顆無所求的心。
+#布施 #慈悲 #修行 #無我 #施予",#布施 #慈悲 #修行 #無我 #施予,https://dls06783.github.io/upshan-posters/166_A5_bronze_patina_gold.png
+2026-10-09,不要因爲衆生的愚疑，而帶來了自己的煩惱。不要因爲衆生的無知，而痛苦了你自己。,"不要因眾生的愚疑而帶來自己的煩惱，不要因眾生的無知而痛苦自己。
+
+你無法改變別人，但你能改變看待別人的方式。
+
+放下評判，就放下了一半的痛苦。
+#放下 #修行 #心安 #智慧 #無我",#放下 #修行 #心安 #智慧 #無我,https://dls06783.github.io/upshan-posters/167_A3_arms_detail_crimson.png
+2026-10-10,別人講我們不好，不用生氣、難過。說我們好也不用高興，這不好中有好，好中有壞，就看你會不會用？,"別人講你不好，不用生氣難過；說你好，也不用高興。這好中有壞，壞中有好，就看你會不會用。
+
+人生最大的功課，就是活在評判的風中，卻不被動搖。
+
+淡然，是最高級的修為。
+#無我 #修行 #平靜 #智慧 #超然",#無我 #修行 #平靜 #智慧 #超然,https://dls06783.github.io/upshan-posters/168_A6_white_jade_blush.png
+2026-10-11,是非和得失，要到最後的結果，才能評定。,"是非和得失，要到最後的結果才能評定。你現在以為的失敗，也許是來日的機遇；現在的成功，也許埋著未來的陷阱。
+
+不急著下結論，反而最聰慧。
+
+時間會還你一個公道。
+#無常 #時間 #因果 #修行 #智慧",#無常 #時間 #因果 #修行 #智慧,https://dls06783.github.io/upshan-posters/169_A1_frontal_moss.png
+2026-10-12,你不必和因果爭吵，因果從來就不會誤人。你也不必和爭吵，它是最公平的審判官。,"因果從不誤人，它是最公平的審判官。你也不必和命運爭吵——命運就是你過去所有行為的總和。
+
+明白了這一點，你就不會再怨天尤人，而是埋頭改變自己。
+
+因果即是希望。
+#因果 #命運 #修行 #智慧 #覺悟",#因果 #命運 #修行 #智慧 #覺悟,https://dls06783.github.io/upshan-posters/170_A2_threequarter_teal.png
+2026-10-13,當你手中抓住一件東西不放時，你只能擁有這件東西，如果你肯放手，你就有機會選擇別的。人的心若死執自己的觀念，不肯放下，那麼他的智慧也只能達到某種程度而已。,"你不必和因果爭吵，因果從來不會誤人。也不必和命運爭吵，它是最公平的審判官。
+
+與其抗爭，不如接納——接納反而是最高級的抵抗。
+
+信任因果，就是信任自己。
+#因果 #命運 #信任 #修行 #智慧",#因果 #命運 #信任 #修行 #智慧,https://dls06783.github.io/upshan-posters/171_D4_lotus_pond_violet.png
+2026-10-14,你硬把單純的事情看的很嚴重，那樣子你會很痛苦。,"當你手中抓住一件東西不放，你只能擁有這一件。若肯放手，才能選擇別的。人的心若執著自己的觀念，智慧也只能停留在某個階段。
+
+放下執著，就是為自己打開無限的可能。
+
+你握緊的，往往是你想要放下的。
+#放下 #執著 #智慧 #無我 #修行",#放下 #執著 #智慧 #無我 #修行,https://dls06783.github.io/upshan-posters/172_E2_wall_grid_sienna.png
+2026-10-15,你希望掌握永恆，那你必須控制現在。,"你硬把單純的事看得很嚴重，那樣你就會很痛苦。
+
+許多痛苦，都是我們自己加上去的。事情本身無好壞，你的想法才決定了它的顏色。
+
+簡單活著，就是對自己最好的修行。
+#簡樸 #心態 #修行 #無我 #禪意",#簡樸 #心態 #修行 #無我 #禪意,https://dls06783.github.io/upshan-posters/173_A5_bronze_patina_jade.png
+2026-10-16,愚癡的人，一直想要別人了解他。有智慧的人，卻的了解自己。,"希望掌握永恆，就必須控制現在。你永遠無法改變已發生的事，也無法完全掌控未來，唯有把握當下。
+
+當下就是你全部的力量。
+
+停止幻想，開始呼吸。
+#當下 #正念 #修行 #無常 #智慧",#當下 #正念 #修行 #無常 #智慧,https://dls06783.github.io/upshan-posters/174_C4_dhyana_hand_terracotta.png
+2026-10-17,學佛是對自己的良心交待，不是做給別人看的。,"愚癡的人一直想要別人了解他，有智慧的人卻努力了解自己。
+
+不必向外求認可，向內求真理。當你足夠了解自己，就不再被他人的評判所搖動。
+
+自知者不怨，知人者不惑。
+#自知 #智慧 #修行 #覺悟 #成長",#自知 #智慧 #修行 #覺悟 #成長,https://dls06783.github.io/upshan-posters/175_E1_monument_below_gold.png
+2026-10-18,在順境中修行，永遠不能成佛。,"學佛是對自己的良心交待，不是做給別人看的。
+
+修行最怕的，就是在別人的目光中迷失了自己。你的修行，只為了你自己的解脫。
+
+最深的修行，發生在無人看見的時候。
+#修行 #正念 #無我 #內觀 #覺悟",#修行 #正念 #無我 #內觀 #覺悟,https://dls06783.github.io/upshan-posters/176_A2_threequarter_crimson.png
+2026-10-19,白白的過一天，無所事事，就像犯了竊盜罪一樣。,"在順境中修行，永遠無法成佛。唯有在逆境中仍保持初心，才是真修行。
+
+痛苦不是詛咒，是最好的磨刀石。你的每一個傷痛，都在打磨你的靈魂。
+
+感謝逆境，它正在成就你。
+#修行 #逆境 #智慧 #成長 #無常",#修行 #逆境 #智慧 #成長 #無常,https://dls06783.github.io/upshan-posters/177_E1_monument_below_blush.png
+2026-10-20,月影松濤含道趣，花香鳥語透禪機。,"白白過一天，無所事事，就像犯了竊盜罪。每一個虛擲的時刻，都是對生命的背叛。
+
+時間是最昂貴的資產，你卻常常在挥霍它。一天的精進，就是一生的積累。
+
+珍惜時間，就是珍惜生命。
+#精進 #時間 #修行 #事業 #無常",#精進 #時間 #修行 #事業 #無常,https://dls06783.github.io/upshan-posters/178_C4_dhyana_hand_moss.png
+2026-10-21,人天福報非久計，苦海茫茫莫留連。,"月影松濤含道趣，花香鳥語透禪機。
+
+在自然裡，在每個平凡的時刻，都能聽見宇宙的聲音。只要你願意停下來，仔細看，細細聽。
+
+禪就在生活裡，不必遠求。
+#禪意 #智慧 #自然 #修行 #心安",#禪意 #智慧 #自然 #修行 #心安,https://dls06783.github.io/upshan-posters/179_A5_bronze_patina_teal.png
+2026-10-22,仇恨永遠不能化解仇恨，只有慈悲才能化解仇恨，這是永恆的至理。,"人天福報非久計，苦海茫茫莫留連。
+
+再大的福報，也終會用完；再好的世界，終會變化。執著於福報本身，就已失去了解脫。
+
+修行的終點，不是得到更多，而是放下一切。
+#無常 #修行 #無我 #覺悟 #智慧",#無常 #修行 #無我 #覺悟 #智慧,https://dls06783.github.io/upshan-posters/180_C3_lotus_hand_navy.png
+2026-10-23,你永遠要感謝給你逆境的衆生。,"仇恨永遠化不了仇恨，只有慈悲才能。這是永恆的至理。
+
+一個被仇恨佔據的心，永遠無法得到平靜——你在懲罰對方時，其實是在懲罰自己。
+
+選擇寬恕，就是選擇自己。
+#慈悲 #寬恕 #心安 #修行 #智慧",#慈悲 #寬恕 #心安 #修行 #智慧,https://dls06783.github.io/upshan-posters/181_B3_west_wealth_sienna.png
+2026-10-24,怒火將起，先回給自己一口氣。,"永遠要感謝給你逆境的眾生。
+
+如果沒有他們，你永遠不會發現自己有多強。最好的朋友不是讚美你的人，而是挑戰你的人。
+
+逆境中遇見的，才是真正的自己。
+#感謝 #逆境 #修行 #成長 #智慧",#感謝 #逆境 #修行 #成長 #智慧,https://dls06783.github.io/upshan-posters/182_A5_bronze_patina_jade.png
+2026-10-25,心急時，整個世界都在追你；心靜時，它不過是窗外一株樹。,"怒火將起，先回給自己一口氣。
+
+在爆發的一瞬間，停頓一秒——就在這一秒裡，你回到了自己。很多悔恨，都源於那一瞬間的失控。
+
+控制一口氣，就能改變整個人生。
+#正念 #情緒 #修行 #智慧 #自控",#正念 #情緒 #修行 #智慧 #自控,https://dls06783.github.io/upshan-posters/183_D4_lotus_pond_terracotta.png
+2026-10-26,念頭來來去去，你不過是坐在門口看雲的人。,"心急時，整個世界都在追你；心靜時，它不過是窗外一株樹。
+
+世界沒變，改變的是你的心。一顆急躁的心，會把所有的問題都放大；一顆靜定的心，自然看清真相。
+
+靜心定心，就是轉身之力。
+#靜心 #修行 #心態 #正念 #禪意",#靜心 #修行 #心態 #正念 #禪意,https://dls06783.github.io/upshan-posters/184_A2_threequarter_gold.png
+2026-10-27,只看自己的一呼一吸，世界便不再追著你問為什麼。,"念頭來來去去，你不過是坐在門口看雲的人。
+
+不要被念頭綁架，念頭只是過客。做一個冷靜的旁觀者，看著它們升起又降下——這就是內觀的真義。
+
+你就是那片天空，念頭只是雲。
+#內觀 #正念 #修行 #禪意 #智慧",#內觀 #正念 #修行 #禪意 #智慧,https://dls06783.github.io/upshan-posters/185_A5_bronze_patina_crimson.png
+2026-10-28,怒火，是自己點燃的火，卻誤以為會燒到對方。,"只看自己的一呼一吸，世界便不再追著你問為什麼。
+
+把注意力收回來，回到身體，回到呼吸。在這個簡單的往來中，所有的答案都在。
+
+呼吸，是回家的路。
+#呼吸 #正念 #修行 #當下 #禪意",#呼吸 #正念 #修行 #當下 #禪意,https://dls06783.github.io/upshan-posters/186_A6_white_jade_blush.png
+2026-10-29,心不找地方停靠，反而到處都是家。,"怒火是自己點燃的火，卻以為會燒到對方。結果只燒傷了自己。
+
+懂得滅火的人，就是懂得放過自己的人。不是為了別人，而是為了自己的心安。
+
+你點的火，最後總會燒回來。
+#情緒 #修行 #心安 #正念 #智慧",#情緒 #修行 #心安 #正念 #智慧,https://dls06783.github.io/upshan-posters/187_A1_frontal_moss.png
+2026-10-30,嫉妒別人，不過是還未認得自己的臉。,"心不找地方停靠，反而到處都是家。
+
+當你放下對特定地點、特定人的執著，整個世界就成了你的家。自在不在外面，在於內心的放下。
+
+無住而住，才是真自在。
+#無我 #自在 #修行 #禪意 #智慧",#無我 #自在 #修行 #禪意 #智慧,https://dls06783.github.io/upshan-posters/188_A2_threequarter_teal.png
+2026-10-31,"恐懼最怕你回頭看它;你一認真凝視,它便縮小。","嫉妒別人，不過是還未認得自己的臉。
+
+當你開始嫉妒，其實在暗示自己：我還不夠好。與其看著別人的光，不如點亮自己的燈。
+
+認識自己，就不再嫉妒他人。
+#自知 #修行 #超越 #智慧 #成長",#自知 #修行 #超越 #智慧 #成長,https://dls06783.github.io/upshan-posters/189_C3_lotus_hand_navy.png
+2026-11-01,真正的靜不在山林，在你願意停下的那一刻。,"恐懼最怕你回頭看它；你一認真凝視，它便縮小。
+
+恐懼靠躲藏而活，面對而死。大多數人一輩子都在跑，其實只要轉身看它一眼，就沒那麼可怕了。
+
+勇氣就是回頭看。
+#勇氣 #恐懼 #修行 #覺悟 #智慧",#勇氣 #恐懼 #修行 #覺悟 #智慧,https://dls06783.github.io/upshan-posters/190_C4_dhyana_hand_violet.png
+2026-11-02,執，是手捨不得鬆;苦，是手已經發麻，仍不肯鬆。,"真正的靜不在山林，在你願意停下的那一刻。
+
+修行不必逃離生活。在廚房忙碌時，在公司開會時，當你的心真正停下來，那一刻就是禪定。
+
+每一刻都可以修行。
+#修行 #正念 #禪意 #當下 #智慧",#修行 #正念 #禪意 #當下 #智慧,https://dls06783.github.io/upshan-posters/191_A5_bronze_patina_jade.png
+2026-11-03,不與念頭爭辯，只陪它坐一會兒，它便走了。,"執，是手捨不得鬆；苦，是手已發麻，仍不肯鬆。
+
+放下是一個過程。首先要看見你的執著，然後一點點練習鬆手。每鬆開一分，心就輕一分。
+
+慈悲自己，從放下開始。
+#放下 #執著 #修行 #無我 #慈悲",#放下 #執著 #修行 #無我 #慈悲,https://dls06783.github.io/upshan-posters/192_A2_threequarter_terracotta.png
+2026-11-04,焦慮，是把還沒到的痛，提前還給自己。,"不與念頭爭辯，只陪它坐一會兒，它便走了。
+
+越抗爭，念頭越強；越允許，反而越容易鬆動。修行就是學會和自己共處，而不是與自己為敵。
+
+接納念頭，就是接納自己。
+#修行 #接納 #正念 #禪意 #智慧",#修行 #接納 #正念 #禪意 #智慧,https://dls06783.github.io/upshan-posters/193_B3_west_wealth_gold.png
+2026-11-05,當下不是時間的刻度，而是一種終於願意看見的眼光。,"焦慮，是把還沒到的痛，提前還給自己。
+
+擔憂的那件事，十有八九永遠不會發生。但你卻一次次地為它苦惱——何苦呢？當下所能做的，就只有此時此刻。
+
+放掉未來，活在當下。
+#焦慮 #當下 #修行 #正念 #心安",#焦慮 #當下 #修行 #正念 #心安,https://dls06783.github.io/upshan-posters/194_A4_stone_ancient_crimson.png
+2026-11-06,一吸，身體回來;一呼，心也回來。你從未真正離開。,"當下不是時間的刻度，而是一種終於願意看見的眼光。
+
+你總在想著過去或未來，卻錯過了真正活著的現在。當下就在這裡，一直都在。只要你願意看。
+
+停止逃跑，開始生活。
+#當下 #正念 #修行 #智慧 #禪意",#當下 #正念 #修行 #智慧 #禪意,https://dls06783.github.io/upshan-posters/195_D1_erawan_night_blush.png
+2026-11-07,怨恨，是自己倒給自己的一杯毒酒，卻期待別人也喝。,"一吸，身體回來；一呼，心也回來。你從未真正離開。
+
+走神時，想想呼吸。累的時候，想想呼吸。在任何一刻，呼吸都在那裡接住你，把你帶回家。
+
+最簡單的修行，就在呼吸裡。
+#呼吸 #正念 #修行 #當下 #禪意",#呼吸 #正念 #修行 #當下 #禪意,https://dls06783.github.io/upshan-posters/196_D3_garland_offering_moss.png
+2026-11-08,驕傲把自己墊高一寸，世界便遠離你一尺。,"怨恨，是自己倒給自己的一杯毒酒，卻期待別人也喝。
+
+懂得放下怨恨的人，其實是在救自己。世界不會因為你的怨恨而改變，唯一改變的，只有你的痛。
+
+放過別人，就是放過自己。
+#寬恕 #放下 #修行 #心安 #智慧",#寬恕 #放下 #修行 #心安 #智慧,https://dls06783.github.io/upshan-posters/197_A5_bronze_patina_teal.png
+2026-11-09,看見念頭，而不被念頭看見——這便是覺。,"驕傲把自己墊高一寸，世界便遠離你一尺。
+
+越驕傲，人就越孤立。而謙卑的人，反而身邊滿是知己。驕傲是通往失敗的捷徑。
+
+低眉順眼，才能看清人間。
+#謙卑 #修行 #智慧 #人際 #成長",#謙卑 #修行 #智慧 #人際 #成長,https://dls06783.github.io/upshan-posters/198_C4_dhyana_hand_navy.png
+2026-11-10,貪，不是你擁有那些東西，是那些東西擁有你。,"看見念頭，而不被念頭看見——這便是覺。
+
+這就是修行的最高境界。念頭升起時，你不被它帶走；念頭消逝時，你也不追逐它。你就是那個看見一切的人。
+
+覺悟就在這裡。
+#覺悟 #修行 #正念 #智慧 #禪意",#覺悟 #修行 #正念 #智慧 #禪意,https://dls06783.github.io/upshan-posters/199_C2_wheel_hand_violet.png
+2026-11-11,心不必逢風便關窗;風過了，連陽光都進不來。,"貪，不是你擁有那些東西，是那些東西擁有你。
+
+你以為在追求東西，其實被它們牽著鼻子走。放下貪心，你才能走得更遠。
+
+自由，從不貪開始。
+#貪心 #執著 #修行 #無我 #智慧",#貪心 #執著 #修行 #無我 #智慧,https://dls06783.github.io/upshan-posters/200_A2_threequarter_sienna.png
+2026-11-12,靜坐不是為了解決什麼，是為了不再繼續製造什麼。,"心不必逢風便關窗；風過了，連陽光都進不來。
+
+過度防禦，反而會把好的也擋在外面。打開心門，允許風雨進來，陽光才會進來——這才是真正的勇敢。
+
+開放的心，才能迎接機會。
+#開放 #勇氣 #修行 #成長 #智慧",#開放 #勇氣 #修行 #成長 #智慧,https://dls06783.github.io/upshan-posters/201_C4_dhyana_hand_terracotta.png
+2026-11-13,憤怒一開口，智慧就沒有位置坐下。,"靜坐不是為了解決什麼，是為了不再繼續製造什麼。
+
+許多時候，我們的困擾都是自己製造的。靜下來，念頭就少了；靜下來，問題就簡單了。
+
+不製造新的痛苦，就是最好的修行。
+#修行 #正念 #靜心 #禪意 #智慧",#修行 #正念 #靜心 #禪意 #智慧,https://dls06783.github.io/upshan-posters/202_C4_dhyana_hand_gold.png
+2026-11-14,悲傷來時不趕走，去時不挽留——你只是天空，雲自有來去。,"憤怒一開口，智慧就沒位置坐下。
+
+一個生氣的人，永遠做不出聰慧的決定。情緒和理智是敵人——當一個上場，另一個就要退場。
+
+控制情緒，就是保護智慧。
+#情緒 #修行 #智慧 #自控 #正念",#情緒 #修行 #智慧 #自控 #正念,https://dls06783.github.io/upshan-posters/203_A3_arms_detail_crimson.png
+2026-11-15,我執一日未放下，世界便一日與你為敵。,"悲傷來時不趕走，去時不挽留——你只是天空，雲自有來去。
+
+允許悲傷的存在，而不被它吞沒。這是最高級的情緒管理：既不壓抑，也不沉溺。
+
+感受，但不執著。
+#接納 #修行 #情緒 #禪意 #智慧",#接納 #修行 #情緒 #禪意 #智慧,https://dls06783.github.io/upshan-posters/204_A6_white_jade_blush.png
+2026-11-16,念頭如客——歡迎它來坐，但別留它過夜。,"我執一日未放下，世界便一日與你為敵。
+
+世界沒錯，就是你看的角度不對。一切衝突都源於「我」太強。弱化「我」，世界就柔和了。
+
+放下我執，就是放下痛苦。
+#無我 #執著 #修行 #智慧 #覺悟",#無我 #執著 #修行 #智慧 #覺悟,https://dls06783.github.io/upshan-posters/205_C4_dhyana_hand_moss.png
+2026-11-17,散亂的心，像一條掛著十個鉤的魚線——哪條都釣不上魚。,"念頭如客——歡迎它來坐，但別留它過夜。
+
+念頭本身沒問題，問題在你和它的關係。來了就讓它來，走了就讓它走。執著於念頭，才是痛苦的根源。
+
+你只是思想的旁觀者。
+#內觀 #修行 #正念 #禪意 #智慧",#內觀 #修行 #正念 #禪意 #智慧,https://dls06783.github.io/upshan-posters/206_A2_threequarter_teal.png
+2026-11-18,靜默不是不開口，是終於不再與自己爭辯。,"散亂的心，像一條掛著十個鉤的魚線——哪條都釣不上魚。
+
+專注力決定一切。一個散亂的人，再努力也徒勞；一個專注的人，再小的力量也能撬動地球。
+
+收心，就是收起一生的力量。
+#專注 #修行 #精進 #智慧 #事業",#專注 #修行 #精進 #智慧 #事業,https://dls06783.github.io/upshan-posters/207_D1_erawan_night_navy.png
+2026-11-19,內觀的人不追光，也不避暗——只是如實看著。,"靜默不是不開口，是終於不再與自己爭辯。
+
+許多人的心一直都在吵架——和過去吵，和未來吵，和自己吵。靜默就是停止這場內戰，回到內心的平靜。
+
+寂靜是金。
+#靜心 #修行 #內觀 #禪意 #智慧",#靜心 #修行 #內觀 #禪意 #智慧,https://dls06783.github.io/upshan-posters/208_A2_threequarter_violet.png
+2026-11-20,怒火一起，真理最先被吹熄。,"內觀的人不追光，也不避暗——只是如實看著。
+
+成熟就是學會既不逃避痛苦，也不執著於快樂。世界本來就冷暖交替，聖人就是在這冷暖中保持清明。
+
+看清真相，就無所謂好壞。
+#內觀 #修行 #覺悟 #禪意 #智慧",#內觀 #修行 #覺悟 #禪意 #智慧,https://dls06783.github.io/upshan-posters/209_C3_lotus_hand_sienna.png
+2026-11-21,心能安住的地方，就是你的道場——不必遠行。,"怒火一起，真理最先被吹熄。
+
+一個人最清楚自己的真理是什麼，但一生氣，那份清明就沒了。所以大智慧者多是平靜的，因為唯有平靜才能看見真理。
+
+保護你的清明，就是保護你的智慧。
+#正念 #情緒 #修行 #智慧 #清明",#正念 #情緒 #修行 #智慧 #清明,https://dls06783.github.io/upshan-posters/210_C4_dhyana_hand_jade.png
+2026-11-22,放下不是丟棄，只是不再用力抓住。,"心能安住的地方，就是你的道場——不必遠行。
+
+修行不需要完美的環境。廚房是道場，辦公室是道場，甚至在擁擠的捷運上，只要心安住，一切都是道場。
+
+此地即極樂。
+#修行 #道場 #當下 #禪意 #智慧",#修行 #道場 #當下 #禪意 #智慧,https://dls06783.github.io/upshan-posters/211_A1_frontal_gold.png
+2026-11-23,情緒不是你，只是路過你，像一陣風穿過一扇敞開的窗。,"放下不是丟棄，只是不再用力抓住。
+
+放下是一種鬆手的智慧。你可以擁有，但不執著；可以用，但不貪戀。鬆開手，反而能更好地擁有。
+
+握得最輕的手，握著最多。
+#放下 #執著 #修行 #智慧 #無我",#放下 #執著 #修行 #智慧 #無我,https://dls06783.github.io/upshan-posters/212_A1_frontal_crimson.png
+2026-11-24,恐懼的對面不是勇氣，是看清楚。,"情緒不是你，只是路過你，像一陣風穿過一扇敞開的窗。
+
+當情緒來了，不要把它當成敵人，也不要完全相信它說的話。它會過去，就像所有的事情都會過去。
+
+你比情緒更大。
+#情緒 #修行 #正念 #禪意 #智慧",#情緒 #修行 #正念 #禪意 #智慧,https://dls06783.github.io/upshan-posters/213_E1_monument_below_blush.png
+2026-11-25,一念清明時，眼耳鼻舌身意，一齊安靜下來。,"恐懼的對面不是勇氣，是看清楚。
+
+許多人想要勇氣，其實是想逃避恐懼。真正的路，是回身看清它。當你把恐懼看透了，勇氣自然就出現了。
+
+勇者視恐懼如無物。
+#勇氣 #恐懼 #修行 #覺悟 #智慧",#勇氣 #恐懼 #修行 #覺悟 #智慧,https://dls06783.github.io/upshan-posters/214_D2_incense_smoke_moss.png
+2026-11-26,嫉妒的人，看別人笑，像看見一把刀。,"一念清明時，眼耳鼻舌身意，一齊安靜下來。
+
+身體會告訴你什麼時候進入了禪定：感官都靜了，世界都安靜了，只有內在的澄澈。這一刻，你找到了回家的路。
+
+清明在茲。
+#禪定 #修行 #清明 #當下 #智慧",#禪定 #修行 #清明 #當下 #智慧,https://dls06783.github.io/upshan-posters/215_A3_arms_detail_teal.png
+2026-11-27,心急如火，只會把未乾的墨，全揉成一團黑。,"嫉妒的人，看別人笑，像看見一把刀。
+
+嫉妒是內心貧窮的表現。一個自足的人，看見他人的成功會由衷歡喜，因為世界上的好，對誰都有益。
+
+嫉妒別人，就是嫉妒自己的未來。
+#自足 #修行 #心態 #成長 #智慧",#自足 #修行 #心態 #成長 #智慧,https://dls06783.github.io/upshan-posters/216_A6_white_jade_navy.png
+2026-11-28,不怕念頭升起，只怕你遲遲才察覺。,"心急如火，只會把未乾的墨，全揉成一團黑。
+
+急躁是智者的大敵。最重要的事，往往需要最慢的速度。欲速則不達——這不是勸你懶散，而是教你在對的節奏上用力。
+
+慢慢來，比較快。
+#正念 #修行 #耐心 #智慧 #當下",#正念 #修行 #耐心 #智慧 #當下,https://dls06783.github.io/upshan-posters/217_C3_lotus_hand_violet.png
+2026-11-29,自我越大，你家的門就越窄，能走進來的人就越少。,"不怕念頭升起，只怕你遲遲才察覺。
+
+覺察力就是修行的開始。一個人如果連自己的念頭都沒發現，就已經陷入了無明。及時看見念頭，就已經超越了它。
+
+覺察即是超越。
+#覺察 #修行 #正念 #智慧 #覺悟",#覺察 #修行 #正念 #智慧 #覺悟,https://dls06783.github.io/upshan-posters/218_A3_arms_detail_sienna.png
+2026-11-30,內觀不是向內看，是不再向外逃。,"自我越大，你家的門就越窄，能走進來的人就越少。
+
+一個自大的人，永遠無法真正和他人相連。因為他眼裡只有自己，容不下別人。放小自己，世界反而更寬廣。
+
+謙卑是通往自由的門。
+#謙卑 #修行 #人際 #成長 #智慧",#謙卑 #修行 #人際 #成長 #智慧,https://dls06783.github.io/upshan-posters/219_D4_lotus_pond_jade.png
+2026-12-01,欲望從來填不滿欲望，只有明白，才能真正停下。,"欲望，是永無止盡的饑荒。
+
+你要的越多，得到也越多的執著。唯有真正明白——此刻已足夠，那份填不滿的飢餓才會靜止。
+
+一句話拆穿人生悖論。
+#智慧 #覺悟 #禪意 #上善佛印 #執著",#智慧 #覺悟 #禪意 #上善佛印 #執著,https://dls06783.github.io/upshan-posters/220_B1_east_career_terracotta.png
+2026-12-02,散亂的人，即使坐下來，心仍在路上奔走。,"散亂的心，即使肉身坐下，靈魂仍在奔走。
+
+這就是為什麼有人坐禪多年，仍未靜過；有人靜坐一刻，已見山河。不是時間的長短，是心有沒有真的回家。
+
+靜，不來自環境，來自願意。
+#修行 #正念 #禪意 #上善佛印 #靜心",#修行 #正念 #禪意 #上善佛印 #靜心,https://dls06783.github.io/upshan-posters/221_B1_east_career_crimson.png
+2026-12-03,真正修行的人，怒還未上臉，已在心裡止住了。,"瞋怒，在心裡就能止住，才是真正的修行。
+
+口不開，言已止——這還不夠。關鍵是那股火，在臉色改變前，已在內心被熄滅。那才是練到骨子裡的定力。
+
+修行看的是起心動念。
+#修行 #正念 #智慧 #上善佛印 #覺悟",#修行 #正念 #智慧 #上善佛印 #覺悟,https://dls06783.github.io/upshan-posters/222_C4_dhyana_hand_blush.png
+2026-12-04,握緊一件東西，便失去雙手;握緊一切，便失去自己。,"握緊東西，雙手就失去自由；握緊一切，就失去自己。
+
+這世上沒有「完全擁有」，只有不同長度的擁有期。最聰明的活法，是握而不緊——隨時能放。
+
+放下，才是真正的擁有。
+#執著 #放下 #禪意 #上善佛印 #無常",#執著 #放下 #禪意 #上善佛印 #無常,https://dls06783.github.io/upshan-posters/223_A1_frontal_moss.png
+2026-12-05,驕傲是自己把自己舉高，卻看不見腳下;謙卑是自己放低，才看得清人間。,"驕傲的人，把自己墊高；謙卑的人，把自己放低，反而能看清整個人間。
+
+一個升高視點，一個降低視點。結果卻相反——高看到的只有自己的影子，低看到的是人世的全景。
+
+視角決定一切。
+#智慧 #謙卑 #覺悟 #上善佛印 #心安",#智慧 #謙卑 #覺悟 #上善佛印 #心安,https://dls06783.github.io/upshan-posters/224_B1_east_career_teal.png
+2026-12-06,靜，是最不費力的功德。但多數人做不到。,"靜，是世上最不費力的功德。可多數人做不到。
+
+不須行善積德，無需念經萬卷。安靜一刻，已是對自己、對世界最溫柔的禮物。簡單到幾乎被忽視。
+
+但正因簡單，才最難。
+#禪意 #心安 #修行 #上善佛印 #正念",#禪意 #心安 #修行 #上善佛印 #正念,https://dls06783.github.io/upshan-posters/225_E1_monument_below_navy.png
+2026-12-07,多數念頭只是路過。有些，會留下來，慢慢變成你。,"多數念頭只是路過。有些，會留下來，慢慢變成你。
+
+你今天心裡升起的那個念頭，可能明天就消了。但若你一再餵養它，它就會紮根，最後成為你的脾氣、你的習慣、甚至你的命。
+
+起心動念，就是選擇。
+#正念 #修行 #覺悟 #上善佛印 #禪意",#正念 #修行 #覺悟 #上善佛印 #禪意,https://dls06783.github.io/upshan-posters/226_B1_east_career_violet.png
+2026-12-08,恨意像一塊燒紅的炭——你想擲向人，但最先燙傷的，是自己的手。,"恨意像燒紅的炭，你想擲向人，卻最先燙傷自己的手。
+
+仇恨的終點，永遠不是對方，是自己。你花越多心力去恨，就等於在自己身上放火，而對方早就走遠了。
+
+放下怨恨，是放過自己。
+#慈悲 #放下 #愛 #上善佛印 #心安",#慈悲 #放下 #愛 #上善佛印 #心安,https://dls06783.github.io/upshan-posters/227_A5_bronze_patina_sienna.png
+2026-12-09,以慈心待敵，像握住一把鑰匙——打開的，是困住自己的那把鎖。,"以慈心待敵，就像握住一把鑰匙，打開的是困住自己的那把鎖。
+
+敵人，往往是你內心牢籠的鑰匙。唯有用慈悲去化解，你才能同時打開對方和自己的心房。
+
+慈悲，是最聰明的報復。
+#慈悲 #愛 #智慧 #上善佛印 #覺悟",#慈悲 #愛 #智慧 #上善佛印 #覺悟,https://dls06783.github.io/upshan-posters/228_A6_white_jade_jade.png
+2026-12-10,慈悲不是軟弱。是看過世間的苦之後，仍然選擇溫柔。,"慈悲不是軟弱。是看過世間的苦後，仍然選擇溫柔。
+
+那些真正有力量的人，不會用尖銳去傷人。他們見過太多苦，所以更懂得溫柔的分量。慈悲，是經歷過風雨後的選擇。
+
+溫柔，是力量。
+#慈悲 #愛 #心安 #上善佛印 #智慧",#慈悲 #愛 #心安 #上善佛印 #智慧,https://dls06783.github.io/upshan-posters/229_B2_south_love_terracotta.png
+2026-12-11,未走過他那段路，不要輕易評斷他的錯。,"未走過他的路，不要輕易評斷他的錯。
+
+我們看到的永遠只是別人的結果，看不到他的處境、他的難處、那些無可奈何的妥協。評斷別人，正是我們無知的開始。
+
+換位思考，是修行。
+#慈悲 #智慧 #愛 #上善佛印 #覺悟",#慈悲 #智慧 #愛 #上善佛印 #覺悟,https://dls06783.github.io/upshan-posters/230_E1_monument_below_gold.png
+2026-12-12,眾生都有說不出口的痛。一念體諒，已經是布施。,"眾生都有說不出口的痛。一念體諒，已經是布施。
+
+你不必做出什麼，只要能在心裡容納別人的難堪，就已是修行。那一念體諒，對方能感受得到，它會在他的心裡化作光。
+
+看見，就是愛。
+#慈悲 #愛 #施予 #上善佛印 #心安",#慈悲 #愛 #施予 #上善佛印 #心安,https://dls06783.github.io/upshan-posters/231_C2_wheel_hand_blush.png
+2026-12-13,懂得原諒的心，比被原諒的心更自由。,"懂得原諒的心，比被原諒的心更自由。
+
+人人都想被諒解，卻很少有人願意去原諒。但其實，原諒他人，是最乾脆的放過自己。放下那根刺，你才能輕身前行。
+
+自由，始於原諒。
+#慈悲 #放下 #愛 #上善佛印 #心安",#慈悲 #放下 #愛 #上善佛印 #心安,https://dls06783.github.io/upshan-posters/232_C3_lotus_hand_moss.png
+2026-12-14,放下怨恨，不是原諒對方——是放自己一條生路。,"放下怨恨，不是原諒對方——是放自己一條生路。
+
+怨恨是一條鎖鏈，把你和過去綁在一起。對方早已走遠，你卻還在原地生氣。放下它，不是為了誰，是為了讓自己活著。
+
+生路，掌握在自己手裡。
+#放下 #慈悲 #心安 #上善佛印 #愛",#放下 #慈悲 #心安 #上善佛印 #愛,https://dls06783.github.io/upshan-posters/233_A3_arms_detail_teal.png
+2026-12-15,以慈眼看眾生，你會發現世間沒有陌生人。,"以慈眼看眾生，你會發現世間沒有陌生人。
+
+改變看的方式，世界就改變。那個路人甲，可能是你前世欠下的愛；那個仇敵，可能是來成就你的菩薩。慈眼一開，對立就消了。
+
+視角，決定緣分。
+#慈悲 #愛 #禪意 #上善佛印 #覺悟",#慈悲 #愛 #禪意 #上善佛印 #覺悟,https://dls06783.github.io/upshan-posters/234_A6_white_jade_navy.png
+2026-12-16,一句溫柔的話，比十車金子更能救一個人。,"一句溫柔的話，比十車金子更能救一個人。
+
+有時候，一個人的絕望，就差那一句話。不必多，只要真誠、只要及時。溫言，是最廉價、最珍貴的救贖。
+
+你的話，可能是誰的光。
+#慈悲 #愛 #智慧 #上善佛印 #心安",#慈悲 #愛 #智慧 #上善佛印 #心安,https://dls06783.github.io/upshan-posters/235_D3_garland_offering_violet.png
+2026-12-17,舌頭像一把斧，揮出去之前，先劈傷了自己。,"舌頭像一把斧，揮出去之前，先劈傷了自己。
+
+我們以為傷人的言語，傷的是對方。其實最先受傷的，是說出那句話的自己——良心會痛。一旦開口，就收不回。
+
+慎言，是對自己的慈悲。
+#慈悲 #智慧 #言語 #上善佛印 #正念",#慈悲 #智慧 #言語 #上善佛印 #正念,https://dls06783.github.io/upshan-posters/236_A2_threequarter_sienna.png
+2026-12-18,開口之前問自己三遍：是真的嗎？是善意嗎？有必要說嗎？,"開口前問自己三遍：是真的嗎？是善意嗎？有必要說嗎？
+
+三個問題，三道防線。篩過這三關的話，才值得開口。多數閒言碎語，經不起第一問。練習沉默，才是大修行。
+
+少說一句，心便清明一分。
+#正念 #智慧 #修行 #上善佛印 #禪意",#正念 #智慧 #修行 #上善佛印 #禪意,https://dls06783.github.io/upshan-posters/237_C3_lotus_hand_jade.png
+2026-12-19,沉默有時候，比說話更慈悲。,"沉默有時候，比說話更慈悲。
+
+有些話，不說才是愛。有些人，陪伴而不評判，已是最深的尊重。沉默不是冷漠，是在無言中，容納了別人的全部。
+
+無言，有聲。
+#慈悲 #智慧 #愛 #上善佛印 #禪意",#慈悲 #智慧 #愛 #上善佛印 #禪意,https://dls06783.github.io/upshan-posters/238_A6_white_jade_terracotta.png
+2026-12-20,與其責備他的短處，不如憐憫他的難處。,"與其責備短處，不如憐憫難處。
+
+每個人的缺陷背後，都藏著他的故事。責備，只會加深傷口。憐憫，才能療癒。換一個角度看，敵人就變成了可憐的人。
+
+理解，是最高級的原諒。
+#慈悲 #愛 #智慧 #上善佛印 #覺悟",#慈悲 #愛 #智慧 #上善佛印 #覺悟,https://dls06783.github.io/upshan-posters/239_D3_garland_offering_gold.png
+2026-12-21,父母之恩如天——報答它的，是陪伴的行動，不是說出口的話。,"父母之恩如天——報答它的，是陪伴的行動，不是說出口的話。
+
+回家坐坐，吃一頓飯，好過一百句「我愛你」。父母要的不是誓言，是你在身邊的溫度。孝順，從今日開始，就夠了。
+
+不要等到後悔。
+#慈悲 #愛 #心安 #上善佛印 #感恩",#慈悲 #愛 #心安 #上善佛印 #感恩,https://dls06783.github.io/upshan-posters/240_E1_monument_below_crimson.png
+2026-12-22,孝順不是給他們錢，是讓他們心安。,"孝順不是給他們錢，是讓他們心安。
+
+有多少人，一邊給父母最好的物質，一邊忽視他們內心的孤寂？真正的孝，是用心去聽，用行動去陪。錢解決的，不是真問題。
+
+心安，才是最好的禮物。
+#財富 #施予 #心安 #上善佛印 #愛",#財富 #施予 #心安 #上善佛印 #愛,https://dls06783.github.io/upshan-posters/241_B3_west_wealth_moss.png
+2026-12-23,家和不是從不爭吵，是爭吵之後，仍然願意坐在同一張飯桌旁。,"家和不是從不爭吵，是爭吵之後，仍願意坐在同一張飯桌旁。
+
+真正的家人，可以激烈碰撞，因為知道彼此不會真的走。吵完了，還能一起吃飯、一起笑，那才叫和。
+
+溫度，比表面的和氣更重要。
+#慈悲 #愛 #心安 #上善佛印 #家",#慈悲 #愛 #心安 #上善佛印 #家,https://dls06783.github.io/upshan-posters/242_D2_incense_smoke_teal.png
+2026-12-24,朋友像一面鏡子，會照見你不願面對的自己——不要因此打碎它。,"朋友像一面鏡子，會照見你不願面對的自己——不要打碎它。
+
+好友不是來舒服你的，是來拆穿你的。那些刺耳的話，正是你需要聽的真相。能接納朋友的批評，你才會成長。
+
+摯友，比恭維者珍貴。
+#慈悲 #愛 #智慧 #上善佛印 #覺悟",#慈悲 #愛 #智慧 #上善佛印 #覺悟,https://dls06783.github.io/upshan-posters/243_D3_garland_offering_navy.png
+2026-12-25,真正的朋友不必多——一個能陪你面對無常的人，已經夠了。,"真正的朋友不必多——一個能陪你面對無常的人，已經夠了。
+
+生命中大多數人都是過客。能在你最脆弱時陪著，在無常到來時牽著你的手，那樣的朋友，一個足矣。寧缺毋濫。
+
+質量，勝於數量。
+#慈悲 #愛 #無常 #上善佛印 #心安",#慈悲 #愛 #無常 #上善佛印 #心安,https://dls06783.github.io/upshan-posters/244_C3_lotus_hand_violet.png
+2026-12-26,陌生人，只是尚未認識的家人——緣到了，便相逢。,"陌生人，只是尚未認識的家人——緣到了，便相逢。
+
+這世上沒有真正的陌生人，只是還沒遇見的熟人。每一場相遇，都是前世欠下的緣。珍重眼前，就是珍重輪迴。
+
+相遇，皆有因。
+#慈悲 #愛 #禪意 #上善佛印 #覺悟",#慈悲 #愛 #禪意 #上善佛印 #覺悟,https://dls06783.github.io/upshan-posters/245_B2_south_love_sienna.png
+2026-12-27,對陌生人伸出的那隻手，其實也是在接住未來某一刻的自己。,"對陌生人伸出的那隻手，其實是在接住未來的自己。
+
+你今日的善舉，不是白做。它會化作種子，在某個將來的時刻，以另一種方式回到你身邊。布施的人，最終都在救自己。
+
+善，會回來。
+#施予 #慈悲 #愛 #上善佛印 #智慧",#施予 #慈悲 #愛 #上善佛印 #智慧,https://dls06783.github.io/upshan-posters/246_A6_white_jade_jade.png
+2026-12-28,給出一塊錢並不難，難的是給完之後，心裡真的什麼都沒留下。,"給出一塊錢並不難，難的是給完之後，心裡真的什麼都沒留下。
+
+真正的布施，是「舍」的決心。給得出去，卻心還在念著——那不叫施予，叫借貸。唯有徹底放下對回報的期待，才是真布施。
+
+舍，才是真有。
+#施予 #財富 #放下 #上善佛印 #慈悲",#施予 #財富 #放下 #上善佛印 #慈悲,https://dls06783.github.io/upshan-posters/247_C2_wheel_hand_terracotta.png
+2026-12-29,布施的人、接受的人、所施的物，三者都空——這才是真正的波羅蜜。,"布施者、接受者、所施之物，三者都空——這才是真波羅蜜。
+
+施予不是交易。當你淡忘了「我在給」，對方也忘了「在接受」，那份給予才成了宇宙間純粹的流動。這才是涅槃的滋味。
+
+無我之給，最圓滿。
+#施予 #財富 #禪意 #上善佛印 #覺悟",#施予 #財富 #禪意 #上善佛印 #覺悟,https://dls06783.github.io/upshan-posters/248_D3_garland_offering_gold.png
+2026-12-30,給予時若還盼著回報，那便不是給，是借。,"給予時若還盼著回報，那便不是給，是借。
+
+世上有多少「看似無私的幫助」，其實是在借債。借債的人最後都要還，代價就是失望和怨恨。真正的給，從不期望回音。
+
+不期而遇，才是真給。
+#施予 #財富 #智慧 #上善佛印 #心安",#施予 #財富 #智慧 #上善佛印 #心安,https://dls06783.github.io/upshan-posters/249_B3_west_wealth_crimson.png
+2026-12-31,一點小小的分享，也足以照亮別人一段漆黑的路。,"一點小小的分享，也足以照亮別人一段漆黑的路。
+
+不必等到自己圓滿，才去幫助別人。你現在擁有的，可能正是誰急需的光。一個溫暖的問候、一句鼓勵的話，都可能改變一生。
+
+微光，也能驅散黑暗。
+#施予 #慈悲 #愛 #上善佛印 #心安",#施予 #慈悲 #愛 #上善佛印 #心安,https://dls06783.github.io/upshan-posters/250_E1_monument_below_blush.png
+2027-01-01,手中的東西本就不屬於你——分出去的那一刻，你才真正擁有過。,"手中的東西本就不屬於你——分出去的那一刻，你才真正擁有過。
+
+我們執著於擁有，到頭來什麼都帶不走。反而是給出去的那些，成了你生命中真正屬於你的財富。擁有的秘訣，是放手。
+
+放開，才真正擁有。
+#施予 #財富 #放下 #上善佛印 #禪意",#施予 #財富 #放下 #上善佛印 #禪意,https://dls06783.github.io/upshan-posters/251_C2_wheel_hand_teal.png
+2027-01-02,一碗飯分一半，兩個人都吃得飽;一句好話說出口，兩顆心都變暖。,"一碗飯分一半，兩人都吃得飽；一句話說出口，兩顆心都變暖。
+
+世界的豐富，不在於你獨占多少，而在於你怎樣分享。分出去的，反而會加倍返回。慈悲，是最聰明的經濟學。
+
+給，最終回到自己手上。
+#施予 #慈悲 #愛 #上善佛印 #心安",#施予 #慈悲 #愛 #上善佛印 #心安,https://dls06783.github.io/upshan-posters/252_A6_white_jade_navy.png
+2027-01-03,愛不是把對方握在手心，是願意鬆手，看他自由地活。,"愛不是把對方握在手心，是願意鬆手，看他自由地活。
+
+真愛的最高境界，是成全。那些死死抓住不放的，叫執著，不叫愛。愛一個人，就是祝福他成為最想成為的樣子，即使那裡沒有你。
+
+放手，是愛的終點。
+#愛 #慈悲 #放下 #上善佛印 #心安",#愛 #慈悲 #放下 #上善佛印 #心安,https://dls06783.github.io/upshan-posters/253_B2_south_love_violet.png
+2027-01-04,愛一個人，要先看清他本來的樣子——而不是你想像中的他。,"愛一個人，要先看清他本來的樣子——而不是你想像中的他。
+
+多少愛，死在期待裡。你愛的，往往不是對方，而是你心中編織的幻象。看見真實的他——包括缺點——那才是真愛的開始。
+
+接納，才是愛。
+#愛 #智慧 #覺悟 #上善佛印 #心安",#愛 #智慧 #覺悟 #上善佛印 #心安,https://dls06783.github.io/upshan-posters/254_A6_white_jade_sienna.png
+2027-01-05,被愛而不察覺的人，福氣薄;懂得去愛的人，福氣厚。,"被愛而不察覺的人，福氣薄；懂得去愛的人，福氣厚。
+
+世上有太多人被愛，卻活得貧瘠，因為他們看不見。也有人主動去愛，反而越活越豐富。福報不在被愛，在愛人的能力。
+
+會愛，才有福。
+#愛 #福氣 #智慧 #上善佛印 #心安",#愛 #福氣 #智慧 #上善佛印 #心安,https://dls06783.github.io/upshan-posters/255_D3_garland_offering_jade.png
+2027-01-06,愛到深處，不是糾纏不休，是願意成全對方，即使他要走。,"愛到深處，不是糾纏不休，是願意成全對方，即使他要走。
+
+舍不得，是人之常情。但真正的愛，敢於讓對方走。因為你知道，若他注定要去，留著只會互相傷害。祝福他的選擇，才是愛的圓滿。
+
+成全，是最後的溫柔。
+#愛 #慈悲 #放下 #上善佛印 #覺悟",#愛 #慈悲 #放下 #上善佛印 #覺悟,https://dls06783.github.io/upshan-posters/256_B1_east_career_terracotta.png
+2027-01-07,慈悲的起點，是承認自己也曾傷過人。,"慈悲的起點，是承認自己也曾傷過人。
+
+沒有人天生就善良。你今日的慈悲，都來自昨日的傷害——你自己造成的、或別人給予的。正因經歷過，所以懂得放過。這才是真慈悲。
+
+傷痛，是修行的開始。
+#慈悲 #愛 #覺悟 #上善佛印 #智慧",#慈悲 #愛 #覺悟 #上善佛印 #智慧,https://dls06783.github.io/upshan-posters/257_B2_south_love_gold.png
+2027-01-08,若心中無慈悲，誦經萬卷也只是聲音。,"若心中無慈悲，誦經萬卷也只是聲音。
+
+修行不在形式，在心地。有些人念了一生經，心卻從未軟過。有些人沒念過經，卻用行動在誦經。真正的佛法，寫在行為上，不在經文上。
+
+修，才是道。
+#修行 #慈悲 #覺悟 #上善佛印 #正念",#修行 #慈悲 #覺悟 #上善佛印 #正念,https://dls06783.github.io/upshan-posters/258_A6_white_jade_crimson.png
+2027-01-09,眾生的苦樂各有不同，佛看他們的心，卻是一樣的。,"眾生的苦樂各有不同，佛看他們的心，卻是一樣的。
+
+有人為貧窮苦，有人為富有苦；有人為名，有人為利。苦的形式千般，但根源只有一個——心的執著。看穿這一點，才是見佛。
+
+一切苦，源於執。
+#慈悲 #智慧 #覺悟 #上善佛印 #禪意",#慈悲 #智慧 #覺悟 #上善佛印 #禪意,https://dls06783.github.io/upshan-posters/259_D3_garland_offering_blush.png
+2027-01-10,對一切有呼吸的生命心生憐惜，便已近於道。,"對一切有呼吸的生命心生憐惜，便已近於道。
+
+修行不在深山，在你看每一隻蟲、每一棵草時的眼神。若眼中有慈悲，萬物都在傳法；若只有冷漠，天堂也在眼前。
+
+慈悲眼，看見佛。
+#慈悲 #智慧 #修行 #上善佛印 #覺悟",#慈悲 #智慧 #修行 #上善佛印 #覺悟,https://dls06783.github.io/upshan-posters/260_D4_lotus_pond_moss.png
+2027-01-11,殺一隻蟲也是殺生，護一隻蟲也是護生——心念不分大小。,"殺一隻蟲也是殺生，護一隻蟲也是護生——心念不分大小。
+
+修行在於起心動念。你對最微小的生靈的尊重，和對他人的尊重，來自同一顆心。沒有小事，也沒有小慈悲。
+
+念念皆修行。
+#修行 #慈悲 #正念 #上善佛印 #覺悟",#修行 #慈悲 #正念 #上善佛印 #覺悟,https://dls06783.github.io/upshan-posters/261_C4_dhyana_hand_navy.png
+2027-01-12,人與人的相遇，都是前世未了的緣——珍重眼前這個人。,"人與人的相遇，都是前世未了的緣——珍重眼前這個人。
+
+沒有無緣無故的遇見，也沒有無緣無故的離別。眼前的每一個人，都是你生命的功課。別等到失去，才懂得珍惜。
+
+遇見，就是修行。
+#緣分 #慈悲 #禪意 #上善佛印 #覺悟",#緣分 #慈悲 #禪意 #上善佛印 #覺悟,https://dls06783.github.io/upshan-posters/262_E2_wall_grid_violet.png
+2027-01-13,不要輕視任何一個人，因為你未曾走過他的路。,"不要輕視任何一個人，因為你未曾走過他的路。
+
+人最容易看低的，往往是自己不了解的。每個人都在用盡力氣活著，只是方式不同。尊重這種不同，就是修行。
+
+理解，勝於評判。
+#慈悲 #智慧 #愛 #上善佛印 #覺悟",#慈悲 #智慧 #愛 #上善佛印 #覺悟,https://dls06783.github.io/upshan-posters/263_A3_arms_detail_sienna.png
+2027-01-14,怒火燒起來時，先喝一口水，等它過去。,"怒火燒起來時，先喝一口水，等它過去。
+
+最簡單的方法，往往最有效。一口水的時間，足夠讓怒火消一半。衝動的決定，都帶著後悔的種子。給自己三分鐘，就能改變結局。
+
+慢下來，就有智慧。
+#智慧 #修行 #心安 #上善佛印 #正念",#智慧 #修行 #心安 #上善佛印 #正念,https://dls06783.github.io/upshan-posters/264_A6_white_jade_jade.png
+2027-01-15,那個傷害你的人，多半自己也曾被傷害過——想通了，怨便輕了。,"傷害你的人，多半自己也曾被傷害過——想通了，怨便輕了。
+
+沒有人天生殘忍。那些傷害人的，往往是傷痕纍纍的靈魂。理解這一點，怨恨就失去了立足點。原諒他人，就是放過那個受傷的自己。
+
+悲憫，化解仇恨。
+#慈悲 #愛 #放下 #上善佛印 #心安",#慈悲 #愛 #放下 #上善佛印 #心安,https://dls06783.github.io/upshan-posters/265_B2_south_love_terracotta.png
+2027-01-16,寬恕不是認輸，是不再讓舊傷，繼續為你寫下新的故事。,"寬恕不是認輸，是不再讓舊傷繼續為你寫新的故事。
+
+寬恕，是把過去的權力奪回自己手裡。不寬恕，就是把自己的未來交給那個傷害過你的人。聰明人，都選擇原諒。
+
+放下，才能新生。
+#放下 #慈悲 #心安 #上善佛印 #智慧",#放下 #慈悲 #心安 #上善佛印 #智慧,https://dls06783.github.io/upshan-posters/266_A6_white_jade_gold.png
+2027-01-17,認真聽一個人說話，全心在這裡——已是最深的敬意。,"認真聽一個人說話，全心在這裡——已是最深的敬意。
+
+有多少人在聽，卻在想著下句話？真正的傾聽，是把靈魂都交出去。那份專注，對方能感受到，它是一種無聲的愛。
+
+聽見，就是愛。
+#愛 #慈悲 #正念 #上善佛印 #心安",#愛 #慈悲 #正念 #上善佛印 #心安,https://dls06783.github.io/upshan-posters/267_A3_arms_detail_crimson.png
+2027-01-18,對老人溫柔，對孩子輕柔，對困境中的人伸手——這三件事，佛也歡喜。,"對老人溫柔，對孩子輕柔，對困境者伸手——這三件事，佛也歡喜。
+
+修行的最高形式，就是這麼簡單。你對最脆弱的人的態度，決定了你靈魂的高度。溫柔，是通往涅槃的門票。
+
+小事，成就大德。
+#慈悲 #愛 #修行 #上善佛印 #心安",#慈悲 #愛 #修行 #上善佛印 #心安,https://dls06783.github.io/upshan-posters/268_C3_lotus_hand_blush.png
+2027-01-19,能為陌生人流下一滴眼淚的人，心中已有佛。,"能為陌生人流下一滴眼淚的人，心中已有佛。
+
+悲憫，是天地間最貴的情感。為素不相識的人傷心，說明你的心還沒被世界磨硬。這樣的人，已經開悟了。
+
+淚水，是開悟的証明。
+#慈悲 #愛 #心安 #上善佛印 #覺悟",#慈悲 #愛 #心安 #上善佛印 #覺悟,https://dls06783.github.io/upshan-posters/269_B2_south_love_moss.png
+2027-01-20,給一個飢餓的人一碗飯，勝過造一千座佛塔。,"給一個飢餓的人一碗飯，勝過造一千座佛塔。
+
+形式救不了人，只有行動。一個真實的幫助，比一百次的禱告都有力。佛法就在眼前——看見苦，就去救。
+
+行動，才是信仰。
+#施予 #慈悲 #行動 #上善佛印 #覺悟",#施予 #慈悲 #行動 #上善佛印 #覺悟,https://dls06783.github.io/upshan-posters/270_A5_bronze_patina_teal.png
+2027-01-21,給不出去的，從來不是你的錢財，是你的執著。,"給不出去的，從來不是你的錢財，是你的執著。
+
+真正的窮，不是沒有，是舍不得。一個人若心裡裝滿「我的」，就永遠給不出去。寬裕，始於放下。
+
+鬆手，才有空間。
+#施予 #執著 #放下 #上善佛印 #禪意",#施予 #執著 #放下 #上善佛印 #禪意,https://dls06783.github.io/upshan-posters/271_C2_wheel_hand_violet.png
+2027-01-22,一呼一吸，便是一次回家——家原來一直都在。,"一呼一吸，便是一次回家——家原來一直都在。
+
+你尋覓的道場，就在身體裡。每一次呼吸，都是回歸；每一次靜坐，都是重逢。你從未迷失，只是忘記了往內看。
+
+家，從未遠離。
+#修行 #正念 #禪意 #上善佛印 #心安",#修行 #正念 #禪意 #上善佛印 #心安,https://dls06783.github.io/upshan-posters/272_A2_threequarter_sienna.png
+2027-01-23,打坐不是逃避世界，而是第一次真正坐下來，看清自己。,"打坐不是逃避世界，而是第一次真正坐下來，看清自己。
+
+靜坐的人，不是躲避，是面對。面對心裡的恐懼、欲望、執著——那些你一直在逃的東西。唯有看清，才能放下。
+
+靜坐，是最勇敢的選擇。
+#修行 #正念 #覺悟 #上善佛印 #智慧",#修行 #正念 #覺悟 #上善佛印 #智慧,https://dls06783.github.io/upshan-posters/273_C4_dhyana_hand_jade.png
+2027-01-24,數十次呼吸，已足夠讓一個人重新開始——因為這已經足夠，經歷一次轉念。,"數十次呼吸，已足夠讓一個人重新開始——因為這已足夠，經歷一次轉念。
+
+轉變，不在時間長短，在願意。一個人的整個人生，可能就在一口氣裡改變。當下的決心，足以翻轉一切。
+
+今日，就能重生。
+#修行 #轉念 #覺悟 #上善佛印 #正念",#修行 #轉念 #覺悟 #上善佛印 #正念,https://dls06783.github.io/upshan-posters/274_A4_stone_ancient_terracotta.png
+2027-01-25,靜默不是無聲，是在無聲中，終於聽見自己心裡的聲音。,"靜默不是無聲，是在無聲中，終於聽見自己心裡的聲音。
+
+世界太吵了，所以我們聽不見內心。靜下來，不是隔離，是連接。那時你會聽到，一直被淹沒的真實的聲音。
+
+安靜，是傾聽。
+#修行 #正念 #禪意 #上善佛印 #心安",#修行 #正念 #禪意 #上善佛印 #心安,https://dls06783.github.io/upshan-posters/275_D1_erawan_night_gold.png
+2027-01-26,今天走一步，明天再走一步——路，就是這樣走出來的。,"今天走一步，明天再走一步——路，就是這樣走出來的。
+
+不要想著一步登天，也不要計較每一步有多短。堅持，就是力量。無論多遠的目標，都是一步一步走到的。
+
+每一步，都算數。
+#精進 #事業 #修行 #上善佛印 #智慧",#精進 #事業 #修行 #上善佛印 #智慧,https://dls06783.github.io/upshan-posters/276_B1_east_career_crimson.png
+2027-01-27,飯一口一口地吃，心一念一念地安。,"飯一口一口地吃，心一念一念地安。
+
+當下的專注，就是修行。不要邊吃邊想，不要邊行邊念。把全部生命力都給眼前的這一刻，活著就會變得簡單，心也會跟著安下來。
+
+專注，就是禪。
+#修行 #正念 #禪意 #上善佛印 #心安",#修行 #正念 #禪意 #上善佛印 #心安,https://dls06783.github.io/upshan-posters/277_C4_dhyana_hand_blush.png
+2027-01-28,走路時只是走路，不必想著下一個路口。,"走路時只是走路，不必想著下一個路口。
+
+人生的苦，大多源於不在當下。走路時想著目的地，目的地又想著下一站。永遠在未來，永遠不滿足。試著留在當下，人生會輕很多。
+
+此刻，就是全部。
+#修行 #正念 #禪意 #上善佛印 #無常",#修行 #正念 #禪意 #上善佛印 #無常,https://dls06783.github.io/upshan-posters/278_A3_arms_detail_moss.png
+2027-01-29,吃飯、洗澡，簡單的日常動作，你是被自己內心對話佔據，還是真的享受每個平常的一刻？,"吃飯、洗澡，簡單的日常動作，你是被內心對話佔據，還是真的享受每一刻？
+
+有多少人活著，卻未曾真正活過。身在此處，心在遠方。修行的第一步，就是回來。回到你正在做的事。
+
+活著，才是修行。
+#修行 #正念 #禪意 #上善佛印 #覺悟",#修行 #正念 #禪意 #上善佛印 #覺悟,https://dls06783.github.io/upshan-posters/279_A3_arms_detail_teal.png
+2027-01-30,最難的功課，是每一天都做同一件平凡的事。,"最難的功課，是每一天都做同一件平凡的事。
+
+天才在於堅持。每天重複同樣的功課，看似乏味，卻是積累的開始。一個人若能把平凡的日子活出專注，就已經超越了大多數人。
+
+平凡，見高境。
+#精進 #修行 #正念 #上善佛印 #智慧",#精進 #修行 #正念 #上善佛印 #智慧,https://dls06783.github.io/upshan-posters/280_E1_monument_below_navy.png
+2027-01-31,一日不靜坐，心便長出野草;一日坐一次，心便重見清明。,"一日不靜坐，心便長出野草；一日坐一次，心便重見清明。
+
+修行像理髮，不常梳理就會亂。靜坐，就是梳理心靈的方式。只要開始，什麼都不晚。今天的十分鐘，勝過昨天的一百次後悔。
+
+坐下，就能清明。
+#修行 #正念 #禪意 #上善佛印 #心安",#修行 #正念 #禪意 #上善佛印 #心安,https://dls06783.github.io/upshan-posters/281_C3_lotus_hand_sienna.png
+2027-02-01,勤奮不是自我折磨，是對自己誠實的一種方式。,"勤奮不是自我折磨，是對自己誠實的一種方式。
+
+偷懶的人，其實是在欺騙自己。勤奮，是對自己的承諾。每個人都有無限的潛力，只是大多數人選擇了安逸。誠實地面對自己，就會自然地勤奮起來。
+
+誠實，才能精進。
+#精進 #事業 #修行 #上善佛印 #智慧",#精進 #事業 #修行 #上善佛印 #智慧,https://dls06783.github.io/upshan-posters/282_A1_frontal_jade.png
+2027-02-02,知足，可以從今晚少吃一口飯開始。,"知足，可以從今晚少吃一口飯開始。
+
+知足不是小氣，是聰慧。吃少一口飯，心裡卻多出一分平靜。物慾越少，心越清；慾望越淡，日子越寬。試著少要一點，生活反而豐富起來。
+
+少即是多。
+#知足 #修行 #禪意 #上善佛印 #心安",#知足 #修行 #禪意 #上善佛印 #心安,https://dls06783.github.io/upshan-posters/283_C2_wheel_hand_terracotta.png
+2027-02-03,簡樸不是沒有，是不再索求更多。,"簡樸不是沒有，是不再索求更多。
+
+真正的富有，不在擁有多少，在於知道什麼時候該停。簡樸的生活，反而最自由——沒有太多東西綁架你，沒有太多欲望折磨你。
+
+減法，也是豐富。
+#知足 #修行 #禪意 #上善佛印 #心安",#知足 #修行 #禪意 #上善佛印 #心安,https://dls06783.github.io/upshan-posters/284_A2_threequarter_gold.png
+2027-02-04,少說一句廢話，心便清明一分。,"少說一句廢話，心便清明一分。
+
+語言是能量。廢話消耗你，謠言傷害你，只有真言才能療癒你。沉默一次，就像清空一次垃圾。久而久之，心就變得透亮了。
+
+言語，要用心選擇。
+#修行 #正念 #禪意 #上善佛印 #智慧",#修行 #正念 #禪意 #上善佛印 #智慧,https://dls06783.github.io/upshan-posters/285_C3_lotus_hand_crimson.png
+2027-02-05,發脾氣之前，先深呼吸三次——風可能就這樣過去了。,"發脾氣之前，先深呼吸三次——風可能就這樣過去了。
+
+情緒來臨時，不必對抗，只需暫停。三次呼吸的時間，足以讓暴風雨變成微風。修行，就是學會和自己的情緒相處。
+
+暫停，改變一切。
+#修行 #正念 #心安 #上善佛印 #智慧",#修行 #正念 #心安 #上善佛印 #智慧,https://dls06783.github.io/upshan-posters/286_A4_stone_ancient_blush.png
+2027-02-06,清晨起床，第一件事不是滑手機，而是靜坐五分鐘。,"清晨起床，第一件事不是滑手機，而是靜坐五分鐘。
+
+一天的開始，決定了一天的品質。五分鐘的靜坐，比五小時的忙碌更能清空頭腦。試著在世界醒來前，先讓自己的心醒來。
+
+清晨，是修行的金時段。
+#修行 #正念 #禪意 #上善佛印 #心安",#修行 #正念 #禪意 #上善佛印 #心安,https://dls06783.github.io/upshan-posters/287_D4_lotus_pond_moss.png
+2027-02-07,今天能做的事，不要推給明天的自己——明天的他，也一樣累。,"今天能做的事，不要推給明天的自己——明天的他，也一樣累。
+
+拖延，是一種自欺。推給明天，就是背叛今天的自己。決心在當下才有力量。今日事，今日畢，明天的你會感謝今天的勇氣。
+
+當下，就是力量。
+#精進 #事業 #正念 #上善佛印 #智慧",#精進 #事業 #正念 #上善佛印 #智慧,https://dls06783.github.io/upshan-posters/288_A3_arms_detail_teal.png
+2027-02-08,一個起心動念，已經是一次修行的機會。,"一個起心動念，已經是一次修行的機會。
+
+修行不在刻意，在於覺察。每一個念頭升起時，你有沒有看見它？有沒有問自己「為什麼」？這份覺察，就是開悟的開始。
+
+念念皆修行。
+#修行 #正念 #覺悟 #上善佛印 #禪意",#修行 #正念 #覺悟 #上善佛印 #禪意,https://dls06783.github.io/upshan-posters/289_C4_dhyana_hand_navy.png
+2027-02-09,走得慢一點，呼吸就會深一點;日子也會慢一點。,"走得慢一點，呼吸就會深一點；日子也會慢一點。
+
+快不能帶來快樂，反而帶來焦躁。慢下來，你才能看清楚、聽清楚、感受清楚。人生最珍貴的時刻，往往在不緊不慢之間。
+
+慢，是一種優雅。
+#修行 #禪意 #心安 #上善佛印 #正念",#修行 #禪意 #心安 #上善佛印 #正念,https://dls06783.github.io/upshan-posters/290_E1_monument_below_violet.png
+2027-02-10,沒有遠方。只有手邊這件事，做或者不做。,"沒有遠方。只有手邊這件事，做或者不做。
+
+人生的遠方，都被當下的選擇決定了。別等待，別後悔，就看你當下如何決定。遠方，不在天邊，在你的手邊。
+
+做，就是全部。
+#事業 #精進 #當下 #上善佛印 #正念",#事業 #精進 #當下 #上善佛印 #正念,https://dls06783.github.io/upshan-posters/291_B1_east_career_jade.png
+2027-02-11,一念升起，看著它;一念消失，也看著它。,"一念升起，看著它；一念消失，也看著它。
+
+修行的高手，就是一位觀察者。不與念頭對抗，不與情緒糾纏，只是如實地看。這份淡定，就是開悟的樣子。
+
+觀察，就是解脫。
+#修行 #正念 #覺悟 #上善佛印 #禪意",#修行 #正念 #覺悟 #上善佛印 #禪意,https://dls06783.github.io/upshan-posters/292_A2_threequarter_terracotta.png
+2027-02-12,真正的精進，是今天再做一次昨天已經做過的事——不倦。,"真正的精進，是今天再做一次昨天已經做過的事
+
+努力不是為了被看見，是為了那個更好的自己終於出現。一步一步，就是全力。
+
+每一次不倦，都值得。",#佛語錄 #每日一句 #四面佛 #上善佛印 #事業 #精進,https://dls06783.github.io/upshan-posters/293_A3_arms_detail_gold.png
+2027-02-13,守得住嘴的人，才守得住心。,"守得住嘴的人，才守得住心
+
+靜，是一種力量。在靜中，你終於聽見自己心裡的聲音。
+
+此刻就是道場。",#佛語錄 #每日一句 #四面佛 #上善佛印 #修行 #正念,https://dls06783.github.io/upshan-posters/294_D2_incense_smoke_crimson.png
+2027-02-14,一餐飯，夠吃就好;一間屋，夠睡就好——多了反而累。,"一餐飯，夠吃就好;一間屋，夠睡就好
+
+世間沒有什麼是永久的，永遠的只有變化本身。接受了，就自由了。",#佛語錄 #每日一句 #四面佛 #上善佛印 #禪意 #心安,https://dls06783.github.io/upshan-posters/295_A1_frontal_blush.png
+2027-02-15,吃飯時不要看手機——你的胃和你的心都會感謝你。,"吃飯時不要看手機
+
+有些話，沉默比言語更有力。留白，反而是最深的表達。",#佛語錄 #每日一句 #四面佛 #上善佛印 #禪意 #心安,https://dls06783.github.io/upshan-posters/296_A2_threequarter_moss.png
+2027-02-16,睡前先把今天放下，明天早上再決定要不要撿起來。,"睡前先把今天放下，明天早上再決定要不要撿起來
+
+智慧不是知道得最多，而是明白什麼該放在心上，什麼該放下。
+
+看清楚，就自由了。",#佛語錄 #每日一句 #四面佛 #上善佛印 #智慧 #覺悟,https://dls06783.github.io/upshan-posters/297_C3_lotus_hand_teal.png
+2027-02-17,習慣是修行的容器——每天倒一點進去，總有一天會滿。,"習慣是修行的容器
+
+靜，是一種力量。在靜中，你終於聽見自己心裡的聲音。
+
+此刻就是道場。",#佛語錄 #每日一句 #四面佛 #上善佛印 #修行 #正念,https://dls06783.github.io/upshan-posters/298_D2_incense_smoke_navy.png
+2027-02-18,打坐不會讓你變得更好，它只會讓你更誠實地看見自己。,"打坐不會讓你變得更好，它只會讓你更誠實地看見自己
+
+每一個起心動念都是修行的機會。不必遠行，此刻就是道場。
+
+此刻就是道場。",#佛語錄 #每日一句 #四面佛 #上善佛印 #修行 #正念,https://dls06783.github.io/upshan-posters/299_D4_lotus_pond_violet.png
+2027-02-19,為什麼有人學習觀呼吸？因為只要有一次你覺察了當下，你會微微發現——當下，好像變得不一樣。,"為什麼有人學習觀呼吸？因為只要有一次你覺察了當下，
+
+修行就在尋常處。洗碗時洗碗，坐著時坐著——全心全意，便是修。
+
+此刻就是道場。",#佛語錄 #每日一句 #四面佛 #上善佛印 #修行 #正念,https://dls06783.github.io/upshan-posters/300_A2_threequarter_sienna.png
+2027-02-20,你說的每一句話，都是在種下一顆因。,"你說的每一句話，都是在種下一顆因
+
+看清楚後，心反而輕了。不是因為放下了什麼，而是明白了什麼本來就不屬於你。",#佛語錄 #每日一句 #四面佛 #上善佛印 #禪意 #心安,https://dls06783.github.io/upshan-posters/301_A1_frontal_terracotta.png
+2027-02-21,靜默三分鐘，勝過爭辯三小時。,"靜默三分鐘，勝過爭辯三小時
+
+靜，是一種力量。在靜中，你終於聽見自己心裡的聲音。
+
+此刻就是道場。",#佛語錄 #每日一句 #四面佛 #上善佛印 #修行 #正念,https://dls06783.github.io/upshan-posters/302_D2_incense_smoke_gold.png
+2027-02-22,身未動，念已至——先看清自己的起心動念。,"身未動，念已至
+
+病痛教會的，不是絕望，而是珍惜那些理所當然的健康時光。
+
+珍惜每一口呼吸。",#佛語錄 #每日一句 #四面佛 #上善佛印 #健康 #無常,https://dls06783.github.io/upshan-posters/303_D1_erawan_night_crimson.png
+2027-02-23,修行不是脫離生活，是在生活之中醒過來。,"修行不是脫離生活，是在生活之中醒過來
+
+修行就在尋常處。洗碗時洗碗，坐著時坐著——全心全意，便是修。
+
+此刻就是道場。",#佛語錄 #每日一句 #四面佛 #上善佛印 #修行 #正念,https://dls06783.github.io/upshan-posters/304_A2_threequarter_blush.png
+2027-02-24,戒律不是綁住你，是保護你不被自己綁住。,"戒律不是綁住你，是保護你不被自己綁住
+
+坐禪不是為了逃離世界，而是為了更清楚地看見它。清楚了，智慧就來了。
+
+此刻就是道場。",#佛語錄 #每日一句 #四面佛 #上善佛印 #修行 #正念,https://dls06783.github.io/upshan-posters/305_C4_dhyana_hand_moss.png
+2027-02-25,今日的功夫，就是今日好好做今日的事——僅此而已。,"今日的功夫，就是今日好好做今日的事
+
+堅持最難的時刻，不是開始時的熱情，而是第無數次重複時仍不放棄。這裡才是真正的道。
+
+每一次不倦，都值得。",#佛語錄 #每日一句 #四面佛 #上善佛印 #事業 #精進,https://dls06783.github.io/upshan-posters/306_B1_east_career_teal.png
+2027-02-26,心急的時候，走慢一點;心亂的時候，坐久一點。,"心急的時候，走慢一點;心亂的時候，坐久一點
+
+所有的進步都起於當下願意走一步。不問遠方有多遠，只問眼前可以做什麼。
+
+每一次不倦，都值得。",#佛語錄 #每日一句 #四面佛 #上善佛印 #事業 #精進,https://dls06783.github.io/upshan-posters/307_A1_frontal_navy.png
+2027-02-27,每一次想放棄的時候，才是修行真正開始的時候。,"每一次想放棄的時候，才是修行真正開始的時候
+
+覺悟不在經文裡，在你肯放下執著的那一刻。看清楚了，世界就變寬闊了。
+
+看清楚，就自由了。",#佛語錄 #每日一句 #四面佛 #上善佛印 #智慧 #覺悟,https://dls06783.github.io/upshan-posters/308_B1_east_career_violet.png
+2027-02-28,你手上正在做的那件事，就是此刻的道場。,"你手上正在做的那件事，就是此刻的道場
+
+努力不是為了被看見，是為了那個更好的自己終於出現。一步一步，就是全力。
+
+每一次不倦，都值得。",#佛語錄 #每日一句 #四面佛 #上善佛印 #事業 #精進,https://dls06783.github.io/upshan-posters/309_C1_beads_hand_sienna.png
+2027-03-01,每天靜坐十分鐘，勝過一年打一次禪七。,"每天靜坐十分鐘，勝過一年打一次禪七
+
+靜，是一種力量。在靜中，你終於聽見自己心裡的聲音。
+
+此刻就是道場。",#佛語錄 #每日一句 #四面佛 #上善佛印 #修行 #正念,https://dls06783.github.io/upshan-posters/310_D2_incense_smoke_jade.png
+2027-03-02,工作不是修行之外的事，是修行最真實的場域。,"工作不是修行之外的事，是修行最真實的場域
+
+涅槃不在來世，在此刻心中的一片寂靜。這份寂靜，就是永恆。
+
+看清楚，就自由了。",#佛語錄 #每日一句 #四面佛 #上善佛印 #智慧 #覺悟,https://dls06783.github.io/upshan-posters/311_A3_arms_detail_gold.png
+2027-03-03,簡樸的生活，是給自己的心留一個空位。,"簡樸的生活，是給自己的心留一個空位
+
+貪心養大的胃口，再多也填不滿。反而是放手的那一刻，心反而寬闊了。
+
+給出去的才是真正屬於你的。",#佛語錄 #每日一句 #四面佛 #上善佛印 #財富 #施予,https://dls06783.github.io/upshan-posters/312_D3_garland_offering_crimson.png
+2027-03-04,一呼一吸之間，已有天地。,"一呼一吸之間，已有天地
+
+看清楚後，心反而輕了。不是因為放下了什麼，而是明白了什麼本來就不屬於你。",#佛語錄 #每日一句 #四面佛 #上善佛印 #禪意 #心安,https://dls06783.github.io/upshan-posters/313_A1_frontal_blush.png
+2027-03-05,一口飯咀嚼三十下，你會聽見一粒米的故事。,"一口飯咀嚼三十下，你會聽見一粒米的故事
+
+真理很簡單，簡單到我們常常看不見——因為我們總想把它複雜化。
+
+看清楚，就自由了。",#佛語錄 #每日一句 #四面佛 #上善佛印 #智慧 #覺悟,https://dls06783.github.io/upshan-posters/314_C4_dhyana_hand_moss.png
+2027-03-06,身、口、意三業，每日三次反省——並不多。,"身、口、意三業，每日三次反省
+
+病痛教會的，不是絕望，而是珍惜那些理所當然的健康時光。
+
+珍惜每一口呼吸。",#佛語錄 #每日一句 #四面佛 #上善佛印 #健康 #無常,https://dls06783.github.io/upshan-posters/315_D1_erawan_night_teal.png
+2027-03-07,靜下來，不是停下腳步，是為了聽清下一步。,"靜下來，不是停下腳步，是為了聽清下一步
+
+修行就在尋常處。洗碗時洗碗，坐著時坐著——全心全意，便是修。
+
+此刻就是道場。",#佛語錄 #每日一句 #四面佛 #上善佛印 #修行 #正念,https://dls06783.github.io/upshan-posters/316_A2_threequarter_navy.png
+2027-03-08,花開不是為了你，凋謝也不是——看清楚這件事，便能少一分委屈。,"花開不是為了你，凋謝也不是
+
+看清楚後，心反而輕了。不是因為放下了什麼，而是明白了什麼本來就不屬於你。",#佛語錄 #每日一句 #四面佛 #上善佛印 #禪意 #心安,https://dls06783.github.io/upshan-posters/317_A5_bronze_patina_violet.png
+2027-03-09,留不住的，從來就不是你的。,"留不住的，從來就不是你的
+
+一念之差，會開啟另一扇門。選擇權一直都在你手上。",#佛語錄 #每日一句 #四面佛 #上善佛印 #禪意 #心安,https://dls06783.github.io/upshan-posters/318_A6_white_jade_sienna.png
+2027-03-10,萬物皆是過客——連你自己也是。,"萬物皆是過客
+
+世間沒有什麼是永久的，永遠的只有變化本身。接受了，就自由了。",#佛語錄 #每日一句 #四面佛 #上善佛印 #禪意 #心安,https://dls06783.github.io/upshan-posters/319_A1_frontal_jade.png
+2027-03-11,看破不是視而不見，是看見了，依然願意走下去。,"看破不是視而不見，是看見了，依然願意走下去
+
+世上沒有什麼比一次決心更能改變人。每一次重複做同一件事，都在悄悄累積改變的力量。
+
+每一次不倦，都值得。",#佛語錄 #每日一句 #四面佛 #上善佛印 #事業 #精進,https://dls06783.github.io/upshan-posters/320_E1_monument_below_terracotta.png
+2027-03-12,凡所有相，皆是虛妄。看穿了，未必就捨得放下;但心，會輕一分。,"凡所有相，皆是虛妄
+
+看清楚後，心反而輕了。不是因為放下了什麼，而是明白了什麼本來就不屬於你。",#佛語錄 #每日一句 #四面佛 #上善佛印 #禪意 #心安,https://dls06783.github.io/upshan-posters/321_E1_monument_below_crimson.png
+2027-03-13,聰明的人改變環境，智者改變自己，覺悟的人明白：原來沒有什麼可改。,"聰明的人改變環境，智者改變自己，覺悟的人明白：原來
+
+真理很簡單，簡單到我們常常看不見——因為我們總想把它複雜化。
+
+看清楚，就自由了。",#佛語錄 #每日一句 #四面佛 #上善佛印 #智慧 #覺悟,https://dls06783.github.io/upshan-posters/322_C4_dhyana_hand_blush.png
+2027-03-14,你以為握住了它，其實只是握住了自己的手。,"你以為握住了它，其實只是握住了自己的手
+
+世間沒有什麼是永久的，永遠的只有變化本身。接受了，就自由了。",#佛語錄 #每日一句 #四面佛 #上善佛印 #禪意 #心安,https://dls06783.github.io/upshan-posters/323_A5_bronze_patina_moss.png
+2027-03-15,緣起則聚，緣盡則散——這不是無情，是如實。,"緣起則聚，緣盡則散
+
+有些話，沉默比言語更有力。留白，反而是最深的表達。",#佛語錄 #每日一句 #四面佛 #上善佛印 #禪意 #心安,https://dls06783.github.io/upshan-posters/324_A6_white_jade_teal.png
+2027-03-16,一切因果都不出自己這顆心——種什麼因，結什麼果，不由人挑揀。,"一切因果都不出自己這顆心
+
+看清楚後，心反而輕了。不是因為放下了什麼，而是明白了什麼本來就不屬於你。",#佛語錄 #每日一句 #四面佛 #上善佛印 #禪意 #心安,https://dls06783.github.io/upshan-posters/325_A1_frontal_navy.png
+2027-03-17,放下不是失去，是終於不必再用力握著。,"放下不是失去，是終於不必再用力握著
+
+身體會老，但心不必跟著蒼老。照顧好當下的每一刻，就是最好的養生。
+
+珍惜每一口呼吸。",#佛語錄 #每日一句 #四面佛 #上善佛印 #健康 #無常,https://dls06783.github.io/upshan-posters/326_A4_stone_ancient_violet.png
+2027-03-18,真正的自在，是連「想自在」這個念頭都放下。,"真正的自在，是連想自在這個念頭都放下
+
+涅槃不在來世，在此刻心中的一片寂靜。這份寂靜，就是永恆。
+
+看清楚，就自由了。",#佛語錄 #每日一句 #四面佛 #上善佛印 #智慧 #覺悟,https://dls06783.github.io/upshan-posters/327_A3_arms_detail_sienna.png
+2027-03-19,生死之間只隔一口氣——你此刻呼出的這一口，已是奇蹟。,"生死之間只隔一口氣
+
+無常教會我們珍惜。每一口呼吸都是奇蹟，每一次心跳都值得感謝。
+
+珍惜每一口呼吸。",#佛語錄 #每日一句 #四面佛 #上善佛印 #健康 #無常,https://dls06783.github.io/upshan-posters/328_D4_lotus_pond_jade.png
+2027-03-20,愚者忙於擁有，智者忙於看清。,"愚者忙於擁有，智者忙於看清
+
+分享時無須計較，因為世上沒有白白失去的——只有暫時看不見的回報。
+
+給出去的才是真正屬於你的。",#佛語錄 #每日一句 #四面佛 #上善佛印 #財富 #施予,https://dls06783.github.io/upshan-posters/329_B3_west_wealth_terracotta.png
+2027-03-21,水流過石頭，不爭;石頭讓水流過，不讓——道，就在兩者之間。,"水流過石頭，不爭;石頭讓水流過，不讓
+
+真理很簡單，簡單到我們常常看不見——因為我們總想把它複雜化。
+
+看清楚，就自由了。",#佛語錄 #每日一句 #四面佛 #上善佛印 #智慧 #覺悟,https://dls06783.github.io/upshan-posters/330_C4_dhyana_hand_gold.png
+2027-03-22,今日落下的雨，不是昨日那場——你也不是昨日的你。,"今日落下的雨，不是昨日那場
+
+世間沒有什麼是永久的，永遠的只有變化本身。接受了，就自由了。",#佛語錄 #每日一句 #四面佛 #上善佛印 #禪意 #心安,https://dls06783.github.io/upshan-posters/331_A1_frontal_blush.png
+2027-03-23,所謂解脫，不是離開這個世界，是身在其中，而心不被牽絆。,"所謂解脫，不是離開這個世界，是身在其中，而心不被牽
+
+無常教會我們珍惜。每一口呼吸都是奇蹟，每一次心跳都值得感謝。
+
+珍惜每一口呼吸。",#佛語錄 #每日一句 #四面佛 #上善佛印 #健康 #無常,https://dls06783.github.io/upshan-posters/332_D4_lotus_pond_moss.png
+2027-03-24,執著於一粒沙，你便失去整片沙灘。,"執著於一粒沙，你便失去整片沙灘
+
+看清楚後，心反而輕了。不是因為放下了什麼，而是明白了什麼本來就不屬於你。",#佛語錄 #每日一句 #四面佛 #上善佛印 #禪意 #心安,https://dls06783.github.io/upshan-posters/333_E1_monument_below_teal.png
+2027-03-25,佛不在遠方，在你願意放下的那一刻。,"佛不在遠方，在你願意放下的那一刻
+
+一念之差，會開啟另一扇門。選擇權一直都在你手上。",#佛語錄 #每日一句 #四面佛 #上善佛印 #禪意 #心安,https://dls06783.github.io/upshan-posters/334_E2_wall_grid_navy.png
+2027-03-26,有生必有滅，有聚必有散——這不是壞消息，是真相。,"有生必有滅，有聚必有散
+
+涅槃不在來世，在此刻心中的一片寂靜。這份寂靜，就是永恆。
+
+看清楚，就自由了。",#佛語錄 #每日一句 #四面佛 #上善佛印 #智慧 #覺悟,https://dls06783.github.io/upshan-posters/335_A3_arms_detail_violet.png
+2027-03-27,涅槃不是死後的獎賞，是此刻心中的一片寂靜。,"涅槃不是死後的獎賞，是此刻心中的一片寂靜
+
+無常教會我們珍惜。每一口呼吸都是奇蹟，每一次心跳都值得感謝。
+
+珍惜每一口呼吸。",#佛語錄 #每日一句 #四面佛 #上善佛印 #健康 #無常,https://dls06783.github.io/upshan-posters/336_D4_lotus_pond_sienna.png
+2027-03-28,愚痴不是不識字，是明明看見，卻假裝沒看見。,"愚痴不是不識字，是明明看見，卻假裝沒看見
+
+智慧不是知道得最多，而是明白什麼該放在心上，什麼該放下。
+
+看清楚，就自由了。",#佛語錄 #每日一句 #四面佛 #上善佛印 #智慧 #覺悟,https://dls06783.github.io/upshan-posters/337_C3_lotus_hand_jade.png
+2027-03-29,法無定法，道無定道——一旦執於某一法，便已離道遠了。,"法無定法，道無定道
+
+真理很簡單，簡單到我們常常看不見——因為我們總想把它複雜化。
+
+看清楚，就自由了。",#佛語錄 #每日一句 #四面佛 #上善佛印 #智慧 #覺悟,https://dls06783.github.io/upshan-posters/338_C4_dhyana_hand_terracotta.png
+2027-03-30,死亡固然可怕，但更可怕的是，在擁有生命的時候，我們糾結要不要去見那個一直沒去見的人，說出那些一直沒說的話。,"死亡固然可怕，但更可怕的是，在擁有生命的時候，我們
+
+病痛教會的，不是絕望，而是珍惜那些理所當然的健康時光。
+
+珍惜每一口呼吸。",#佛語錄 #每日一句 #四面佛 #上善佛印 #健康 #無常,https://dls06783.github.io/upshan-posters/339_D1_erawan_night_gold.png
+2027-03-31,覺醒的第一步，是承認自己一直在睡。,"覺醒的第一步，是承認自己一直在睡
+
+覺悟不在經文裡，在你肯放下執著的那一刻。看清楚了，世界就變寬闊了。
+
+看清楚，就自由了。",#佛語錄 #每日一句 #四面佛 #上善佛印 #智慧 #覺悟,https://dls06783.github.io/upshan-posters/340_B1_east_career_crimson.png
+2027-04-01,業力不是懲罰，是回音——你說什麼，世界便回你什麼。,"業力不是懲罰，是回音
+
+看清楚後，心反而輕了。不是因為放下了什麼，而是明白了什麼本來就不屬於你。",#佛語錄 #每日一句 #四面佛 #上善佛印 #禪意 #心安,https://dls06783.github.io/upshan-posters/341_A5_bronze_patina_moss.png
+2027-04-02,一念放下，萬般自在——難就難在，那一念總想再捉一次。,"一念放下，萬般自在
+
+靜，是一種力量。在靜中，你終於聽見自己心裡的聲音。
+
+此刻就是道場。",#佛語錄 #每日一句 #四面佛 #上善佛印 #修行 #正念,https://dls06783.github.io/upshan-posters/342_D2_incense_smoke_teal.png
+2027-04-03,時間不是在流逝，是我們流過它。,"時間不是在流逝，是我們流過它
+
+世間沒有什麼是永久的，永遠的只有變化本身。接受了，就自由了。",#佛語錄 #每日一句 #四面佛 #上善佛印 #禪意 #心安,https://dls06783.github.io/upshan-posters/343_A1_frontal_navy.png
+2027-04-04,所有你以為是「我」的，遲早都不再是。,"所有你以為是我的，遲早都不再是
+
+有些話，沉默比言語更有力。留白，反而是最深的表達。",#佛語錄 #每日一句 #四面佛 #上善佛印 #禪意 #心安,https://dls06783.github.io/upshan-posters/344_A2_threequarter_violet.png
+2027-04-05,無常不是詛咒，是自由的另一個名字。,"無常不是詛咒，是自由的另一個名字
+
+死亡其實不可怕，可怕的是活著時仍在假裝沒看見。把握當下，才是對生命的敬禮。
+
+珍惜每一口呼吸。",#佛語錄 #每日一句 #四面佛 #上善佛印 #健康 #無常,https://dls06783.github.io/upshan-posters/345_B4_north_health_sienna.png
+2027-04-06,智者不是沒有煩惱，是煩惱過了，便過了。,"智者不是沒有煩惱，是煩惱過了，便過了
+
+一念之差，會開啟另一扇門。選擇權一直都在你手上。",#佛語錄 #每日一句 #四面佛 #上善佛印 #禪意 #心安,https://dls06783.github.io/upshan-posters/346_E2_wall_grid_jade.png
+2027-04-07,真理不怕被質疑，怕的是被供奉起來，無人再敢問。,"真理不怕被質疑，怕的是被供奉起來，無人再敢問
+
+涅槃不在來世，在此刻心中的一片寂靜。這份寂靜，就是永恆。
+
+看清楚，就自由了。",#佛語錄 #每日一句 #四面佛 #上善佛印 #智慧 #覺悟,https://dls06783.github.io/upshan-posters/347_A3_arms_detail_terracotta.png
+2027-04-08,心若無事，天地便寬;心若執著，方寸之間就是牢。,"心若無事，天地便寬;心若執著，方寸之間就是牢
+
+有些話，沉默比言語更有力。留白，反而是最深的表達。",#佛語錄 #每日一句 #四面佛 #上善佛印 #禪意 #心安,https://dls06783.github.io/upshan-posters/348_A6_white_jade_gold.png
+2027-04-09,你以為是你在選擇，其實是業在選擇你——但你，依然可以轉身。,"你以為是你在選擇，其實是業在選擇你
+
+死亡其實不可怕，可怕的是活著時仍在假裝沒看見。把握當下，才是對生命的敬禮。
+
+珍惜每一口呼吸。",#佛語錄 #每日一句 #四面佛 #上善佛印 #健康 #無常,https://dls06783.github.io/upshan-posters/349_B4_north_health_crimson.png
+2027-04-10,一朵花，從開到謝，從頭到尾都沒有哭過一聲。,"一朵花，從開到謝，從頭到尾都沒有哭過一聲
+
+一念之差，會開啟另一扇門。選擇權一直都在你手上。",#佛語錄 #每日一句 #四面佛 #上善佛印 #禪意 #心安,https://dls06783.github.io/upshan-posters/350_A2_threequarter_blush.png
+2027-04-11,生死事大，無常迅速——莫等到白髮上頭，才知道要修行。,"生死事大，無常迅速
+
+病痛教會的，不是絕望，而是珍惜那些理所當然的健康時光。
+
+珍惜每一口呼吸。",#佛語錄 #每日一句 #四面佛 #上善佛印 #健康 #無常,https://dls06783.github.io/upshan-posters/351_D1_erawan_night_teal.png
+2027-04-12,看得破，才放得下;放得下，才真正提得起。,"看得破，才放得下;放得下，才真正提得起
+
+覺悟不在經文裡，在你肯放下執著的那一刻。看清楚了，世界就變寬闊了。
+
+看清楚，就自由了。",#佛語錄 #每日一句 #四面佛 #上善佛印 #智慧 #覺悟,https://dls06783.github.io/upshan-posters/352_B1_east_career_navy.png
+2027-04-13,世間沒有一樣東西真正屬於你——連你自己，也是借來用的。,"世間沒有一樣東西真正屬於你
+
+智慧不是知道得最多，而是明白什麼該放在心上，什麼該放下。
+
+看清楚，就自由了。",#佛語錄 #每日一句 #四面佛 #上善佛印 #智慧 #覺悟,https://dls06783.github.io/upshan-posters/353_C3_lotus_hand_violet.png
+2027-04-14,緣來時珍惜，緣去時祝福——這樣，便不會辜負任何一場相遇。,"緣來時珍惜，緣去時祝福
+
+一念之差，會開啟另一扇門。選擇權一直都在你手上。",#佛語錄 #每日一句 #四面佛 #上善佛印 #禪意 #心安,https://dls06783.github.io/upshan-posters/354_A6_white_jade_sienna.png
+2027-04-15,問道的人很多，肯真正走下去的人很少。,"問道的人很多，肯真正走下去的人很少
+
+涅槃不在來世，在此刻心中的一片寂靜。這份寂靜，就是永恆。
+
+看清楚，就自由了。",#佛語錄 #每日一句 #四面佛 #上善佛印 #智慧 #覺悟,https://dls06783.github.io/upshan-posters/355_A3_arms_detail_jade.png
+2027-04-16,愚者求答案，智者求問題，覺者連問題都不再問。,"愚者求答案，智者求問題，覺者連問題都不再問
+
+覺悟不在經文裡，在你肯放下執著的那一刻。看清楚了，世界就變寬闊了。
+
+看清楚，就自由了。",#佛語錄 #每日一句 #四面佛 #上善佛印 #智慧 #覺悟,https://dls06783.github.io/upshan-posters/356_B1_east_career_terracotta.png
+2027-04-17,執著於過去，就像與自己的影子打架。,"執著於過去，就像與自己的影子打架
+
+看清楚後，心反而輕了。不是因為放下了什麼，而是明白了什麼本來就不屬於你。",#佛語錄 #每日一句 #四面佛 #上善佛印 #禪意 #心安,https://dls06783.github.io/upshan-posters/357_E1_monument_below_gold.png
+2027-04-18,無常不是來奪走你的——它是來教你珍惜的。,"無常不是來奪走你的
+
+堅持最難的時刻，不是開始時的熱情，而是第無數次重複時仍不放棄。這裡才是真正的道。
+
+每一次不倦，都值得。",#佛語錄 #每日一句 #四面佛 #上善佛印 #事業 #精進,https://dls06783.github.io/upshan-posters/358_A3_arms_detail_crimson.png
+2027-04-19,一切有為法，如夢幻泡影——夢醒時，不必怨夢是假的。,"一切有為法，如夢幻泡影
+
+涅槃不在來世，在此刻心中的一片寂靜。這份寂靜，就是永恆。
+
+看清楚，就自由了。",#佛語錄 #每日一句 #四面佛 #上善佛印 #智慧 #覺悟,https://dls06783.github.io/upshan-posters/359_A3_arms_detail_blush.png
+2027-04-20,你活過的每一秒，都不會再見第二次。你會用剩下的，做什麼？,"你活過的每一秒，都不會再見第二次
+
+世上沒有什麼比一次決心更能改變人。每一次重複做同一件事，都在悄悄累積改變的力量。
+
+每一次不倦，都值得。",#佛語錄 #每日一句 #四面佛 #上善佛印 #事業 #精進,https://dls06783.github.io/upshan-posters/360_E1_monument_below_moss.png
+2027-04-21,佛從不度你——是你自己，終於願意走出來。,"佛從不度你
+
+努力不是為了被看見，是為了那個更好的自己終於出現。一步一步，就是全力。
+
+每一次不倦，都值得。",#佛語錄 #每日一句 #四面佛 #上善佛印 #事業 #精進,https://dls06783.github.io/upshan-posters/361_B1_east_career_navy.png
+2027-04-22,求靜者，心先動；不求者，心自靜。,"求靜者，心先動
+
+靜，是一種力量。在靜中，你終於聽見自己心裡的聲音。
+
+此刻就是道場。",#佛語錄 #每日一句 #四面佛 #上善佛印 #修行 #正念,https://dls06783.github.io/upshan-posters/362_D2_incense_smoke_violet.png
+2027-04-23,萬物皆流，唯流動本身，是恆。,"萬物皆流，唯流動本身，是恆
+
+病痛教會的，不是絕望，而是珍惜那些理所當然的健康時光。
+
+珍惜每一口呼吸。",#佛語錄 #每日一句 #四面佛 #上善佛印 #健康 #無常,https://dls06783.github.io/upshan-posters/363_D1_erawan_night_sienna.png
+2027-04-24,知其不可知，乃智慧之始；安於不可知，乃自由之成。,"知其不可知，乃智慧之始
+
+覺悟不在經文裡，在你肯放下執著的那一刻。看清楚了，世界就變寬闊了。
+
+看清楚，就自由了。",#佛語錄 #每日一句 #四面佛 #上善佛印 #智慧 #覺悟,https://dls06783.github.io/upshan-posters/364_B1_east_career_jade.png
+2027-04-25,一念之差，不是分界，是門檻——跨過去，便是另一個世界。,"一念之差，不是分界，是門檻
+
+坐禪不是為了逃離世界，而是為了更清楚地看見它。清楚了，智慧就來了。
+
+此刻就是道場。",#佛語錄 #每日一句 #四面佛 #上善佛印 #修行 #正念,https://dls06783.github.io/upshan-posters/365_C4_dhyana_hand_terracotta.png
